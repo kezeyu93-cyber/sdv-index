@@ -546,13 +546,14 @@
   {
    "uniqueId": "SpaceBaby.PartOfTheCommunity",
    "en": "Part of the Community",
-   "zh": "社区一员",
+   "zh": "社区一员-部分汉化",
    "author": "Brandon Marquis Markail Green (Space Baby), 1.6 update by Nikki864, GMCM menu by MickeyMik (Eela11)",
    "ver": "2.0.1",
    "desc": "通过帮助社区来提升好感度。",
    "file": "spacebaby-partofthecommunity.zip",
-   "size": 51231,
-   "zhDone": false
+   "size": 50310,
+   "zhDone": false,
+   "zhPartial": true
   },
   {
    "uniqueId": "stokastic.PrismaticTools",
