@@ -1,0 +1,126 @@
+{
+ "updated": 1794117839,
+ "count": 12,
+ "mods": [
+  {
+   "uniqueId": "CJBok.ItemSpawner",
+   "en": "CJB Item Spawner",
+   "zh": "物品生成器",
+   "author": "CJBok and Pathoschild",
+   "ver": "2.5.6",
+   "desc": "Simple in-game item spawner!",
+   "file": "cjbok-itemspawner.zip",
+   "size": 84124
+  },
+  {
+   "uniqueId": "Pathoschild.ContentPatcher",
+   "en": "Content Patcher",
+   "zh": "内容补丁",
+   "author": "Pathoschild",
+   "ver": "2.9.1",
+   "desc": "Loads content packs which edit game data, images, and maps without changing the game files.",
+   "file": "pathoschild-contentpatcher.zip",
+   "size": 389967
+  },
+  {
+   "uniqueId": "Spiderbuttons.CustomScheduleKeys",
+   "en": "Custom Schedule Keys",
+   "zh": "自定义日程键",
+   "author": "Spiderbuttons",
+   "ver": "1.0.0",
+   "desc": "Create custom schedule keys for NPCs to use that apply according to GSQ conditions.",
+   "file": "spiderbuttons-customschedulekeys.zip",
+   "size": 17781
+  },
+  {
+   "uniqueId": "DaisyNiko.Tilesheets",
+   "en": "DaisyNiko's Tilesheets",
+   "zh": "DaisyNiko 图块库",
+   "author": "DaisyNiko",
+   "ver": "2.0.2",
+   "desc": "",
+   "file": "daisyniko-tilesheets.zip",
+   "size": 5549952
+  },
+  {
+   "uniqueId": "Esca.EMP",
+   "en": "Esca's Modding Plugins (EMP)",
+   "zh": "Esca 模组插件",
+   "author": "Esca",
+   "ver": "1.7.2",
+   "desc": "A framework that adds miscellaneous features for other mods to use.",
+   "file": "esca-emp.zip",
+   "size": 56668
+  },
+  {
+   "uniqueId": "Esca.FarmTypeManager",
+   "en": "Farm Type Manager (FTM)",
+   "zh": "农场类型管理器",
+   "author": "Esca",
+   "ver": "1.26.1",
+   "desc": "Allows custom spawning of content from each farm type: forage, large objects, ore, and monsters",
+   "file": "esca-farmtypemanager.zip",
+   "size": 133975
+  },
+  {
+   "uniqueId": "mushymato.MMAP",
+   "en": "Misc Map Actions & Properties",
+   "zh": "地图动作属性",
+   "author": "mushymato",
+   "ver": "1.15.1",
+   "desc": "Various map stuff for modders.",
+   "file": "mushymato-mmap.zip",
+   "size": 193349
+  },
+  {
+   "uniqueId": "Bouhm.NPCMapLocations",
+   "en": "NPC Map Locations",
+   "zh": "NPC 地图位置",
+   "author": "Bouhm",
+   "ver": "3.5.2",
+   "desc": "Shows NPCs and farmers on a modified map page for accurate tracking.",
+   "file": "bouhm-npcmaplocations.zip",
+   "size": 122700
+  },
+  {
+   "uniqueId": "SkullCavernElevator",
+   "en": "SkullCavernElevator",
+   "zh": "骷髅洞穴电梯",
+   "author": "lestoph",
+   "ver": "1.6.2",
+   "desc": "Elevator for the Skull Cavern",
+   "file": "skullcavernelevator.zip",
+   "size": 177512
+  },
+  {
+   "uniqueId": "spacechase0.SpaceCore",
+   "en": "SpaceCore",
+   "zh": "太空核心",
+   "author": "kittycatcasey",
+   "ver": "1.28.4",
+   "desc": "The space-iest of cores. (Framework mod)",
+   "file": "spacechase0-spacecore.zip",
+   "size": 366701
+  },
+  {
+   "uniqueId": "cantorsdust.TimeSpeed",
+   "en": "TimeSpeed",
+   "zh": "时间速度",
+   "author": "cantorsdust and Pathoschild",
+   "ver": "2.8.1",
+   "desc": "Lets you control the flow of time in the game: speed it up, slow it down, or freeze it altogether.",
+   "file": "cantorsdust-timespeed.zip",
+   "size": 58881
+  },
+  {
+   "uniqueId": "Pathoschild.TractorMod",
+   "en": "Tractor Mod",
+   "zh": "拖拉机改装",
+   "author": "Pathoschild",
+   "ver": "4.24.4",
+   "desc": "Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.",
+   "file": "pathoschild-tractormod.zip",
+   "size": 368856
+  }
+ ]
+}
