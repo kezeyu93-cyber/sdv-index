@@ -230,7 +230,7 @@
    "ver": "1.6.1",
    "desc": "背包快捷整理、快速堆叠等便利功能。",
    "file": "gaussfire-convenientinventory.zip",
-   "size": 118781,
+   "size": 121063,
    "zhDone": true
   },
   {
@@ -676,13 +676,13 @@
   {
    "uniqueId": "mondopandora.stardewnotification",
    "en": "StardewNotification",
-   "zh": "星露谷通知",
+   "zh": "星露谷通知-已汉化",
    "author": "monopandora, maintained by Sakorona",
    "ver": "1.8.19",
    "desc": "每日提示通知。",
    "file": "mondopandora-stardewnotification.zip",
-   "size": 52531,
-   "zhDone": false
+   "size": 54964,
+   "zhDone": true
   },
   {
    "uniqueId": "DaisyNiko.SVR2",
