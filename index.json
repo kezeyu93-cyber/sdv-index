@@ -1,6 +1,6 @@
 {
  "updated": 1794122000,
- "count": 76,
+ "count": 78,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -837,6 +837,28 @@
    "desc": "水族馆、太阳莓村等地图模组共用的素材库。",
    "file": "hxw-tilesheets.zip",
    "size": 11988980
+  },
+  {
+   "uniqueId": "FlashShifter.SVECode",
+   "en": "Stardew Valley Expanded",
+   "zh": "星露谷扩展-大包",
+   "author": "Pathoschild",
+   "ver": "",
+   "desc": "大型扩展：新地图、新 NPC、新剧情、新农场（97MB，走 GitHub Release 下载）",
+   "file": "sve-release.zip",
+   "size": 102400000,
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/SVE-.-1.15.11.zip"
+  },
+  {
+   "uniqueId": "Rafseazz.RidgesideVillage",
+   "en": "Ridgeside Village",
+   "zh": "山脊村-大包",
+   "author": "Rafseazz",
+   "ver": "",
+   "desc": "大型扩展：全新小镇、30+ 角色、新事件（53MB，走 GitHub Release 下载）",
+   "file": "rsv-release.zip",
+   "size": 55000000,
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/-2.5.17.zip"
   }
  ]
 }
