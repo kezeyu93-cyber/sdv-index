@@ -1,5 +1,5 @@
 {
- "updated": 1794120892,
+ "updated": 1794122000,
  "count": 72,
  "mods": [
   {
@@ -8,17 +8,17 @@
    "zh": "女巫艾lecto",
    "author": "ZoeDoll",
    "ver": "1.2.0",
-   "desc": "Alecto the Witch, a custom NPC",
+   "desc": "新增一位可攻略的自定义 NPC：女巫艾lecto。",
    "file": "zoedoll-npcalecto.zip",
    "size": 542705
   },
   {
    "uniqueId": "Himetarts.ARVCC",
    "en": "ARV- Maximum",
-   "zh": "",
+   "zh": "ARV- 大型犬",
    "author": "Hime Tarts",
    "ver": "1.5.1",
-   "desc": "Henry's loyal pup!",
+   "desc": "把宠物狗替换成大型犬外观。",
    "file": "himetarts-arvcc.zip",
    "size": 12827270
   },
@@ -28,7 +28,7 @@
    "zh": "动物社交菜单",
    "author": "spacechase0",
    "ver": "1.1.2",
-   "desc": "Adds a social menu for your animals. Check your animals' friendship values and if they need petting.",
+   "desc": "给农场动物加一个社交菜单，可以查看它们的亲密度。",
    "file": "spacechase0-animalsocialmenu.zip",
    "size": 77621
   },
@@ -38,7 +38,7 @@
    "zh": "自动化",
    "author": "Pathoschild",
    "ver": "2.6.1",
-   "desc": "Lets you automate crafting machines, fruit trees, and more by connecting them to chests.",
+   "desc": "把箱子放在机器旁，自动生产、自动收取，果树和蜂箱也能接。",
    "file": "pathoschild-automate.zip",
    "size": 224321
   },
@@ -48,27 +48,27 @@
    "zh": "自动门",
    "author": "Rakiin aKa ScheKaa",
    "ver": "2.5.5",
-   "desc": "Opens and closes gates automatically",
+   "desc": "走到门口时栅栏门会自动开关。",
    "file": "rakiin-automaticgates.zip",
    "size": 21929
   },
   {
    "uniqueId": "Elle.NewBarnAnimals",
    "en": "Elle's New Barn Animals",
-   "zh": "",
+   "zh": "Elle 的畜棚动物",
    "author": "Elle/Junimods",
    "ver": "1.1.3",
-   "desc": "A CP replacement for all your barn animals!",
+   "desc": "替换畜棚里所有动物的外观（内容包）。",
    "file": "elle-newbarnanimals.zip",
    "size": 1425932
   },
   {
    "uniqueId": "leclair.bettercrafting",
    "en": "Better Crafting",
-   "zh": "更好制作",
+   "zh": "更好的制作",
    "author": "Khloe Leclair",
    "ver": "2.18.0",
-   "desc": "Replaces the vanilla crafting menu with an improved reimplementation with support for favorites, categories, and that doesn't lock nearby chests in multiplayer.",
+   "desc": "重做原版制作菜单，支持分类、搜索、批量制作。",
    "file": "leclair-bettercrafting.zip",
    "size": 531389
   },
@@ -78,17 +78,17 @@
    "zh": "更好的祝尼魔",
    "author": "hawkfalcon and ceruleandeep",
    "ver": "3.2.0",
-   "desc": "Allow your Junimos (from Junimo huts) to automatically plant seeds, fertilize, and so much more!",
+   "desc": "祝尼魔小屋会自动播种、浇水、施肥、收获。",
    "file": "hawkfalcon-betterjunimos.zip",
    "size": 109567
   },
   {
    "uniqueId": "BetterRanching",
    "en": "Better Ranching",
-   "zh": "更好的牧场",
+   "zh": "更好的养殖",
    "author": "Urbanyeti",
    "ver": "2.0.5",
-   "desc": "Prevents failed milk/shear attempts and displays when animals can be milked/sheared and petted.",
+   "desc": "挤奶剪毛失败会自动重试，并提示动物何时可以收。",
    "file": "betterranching.zip",
    "size": 24863
   },
@@ -98,7 +98,7 @@
    "zh": "更大的背包",
    "author": "spacechase0, yoseiri, bcmpinc",
    "ver": "7.3",
-   "desc": "Adds another backpack size.",
+   "desc": "增加一种更大容量的背包。",
    "file": "spacechase0-biggerbackpack.zip",
    "size": 43439
   },
@@ -108,7 +108,7 @@
    "zh": "CJB 作弊菜单",
    "author": "CJBok and Pathoschild",
    "ver": "1.42.0",
-   "desc": "Simple in-game cheats menu!",
+   "desc": "游戏内作弊菜单：时间、天气、金钱、传送等。",
    "file": "cjbok-cheatsmenu.zip",
    "size": 209819
   },
@@ -118,7 +118,7 @@
    "zh": "物品生成器",
    "author": "CJBok and Pathoschild",
    "ver": "2.5.6",
-   "desc": "Simple in-game item spawner!",
+   "desc": "游戏内直接刷出任意物品，测试和偷懒用。",
    "file": "cjbok-itemspawner.zip",
    "size": 84124
   },
@@ -128,7 +128,7 @@
    "zh": "价格显示",
    "author": "CJBok and Pathoschild",
    "ver": "1.11.0",
-   "desc": "Show item sell price in your inventory!",
+   "desc": "在背包里显示每个物品的售价。",
    "file": "cjbok-showitemsellprice.zip",
    "size": 43816
   },
@@ -138,27 +138,27 @@
    "zh": "官方风对话扩展",
    "author": "gizzymo (dialogue), WitchWeed (coding)",
    "ver": "3.1.2",
-   "desc": "Adds about 4200 new lines of dialogue across all 34 characters who have a heart level",
+   "desc": "给 34 位角色新增约 4200 句不违和的日常对白。",
    "file": "gizzymo-canonfriendlyexpansion.zip",
    "size": 419530
   },
   {
    "uniqueId": "spacechase0.CarryChest",
    "en": "Carry Chest",
-   "zh": "随身箱子",
+   "zh": "搬运箱子",
    "author": "spacechase0",
    "ver": "1.3.6",
-   "desc": "Carry chests with their contents.",
+   "desc": "可以连箱子里的东西一起搬走。",
    "file": "spacechase0-carrychest.zip",
    "size": 73536
   },
   {
    "uniqueId": "SPDChestLabel",
    "en": "Chest Label System",
-   "zh": "箱子命名",
+   "zh": "箱子标签",
    "author": "",
    "ver": "1.7.0",
-   "desc": "Allow players to label their chests.",
+   "desc": "给箱子加标签，方便分类查找。",
    "file": "spdchestlabel.zip",
    "size": 14186
   },
@@ -168,17 +168,17 @@
    "zh": "随处箱子",
    "author": "Pathoschild",
    "ver": "1.30.1",
-   "desc": "Access your chests from anywhere and organize them your way.",
+   "desc": "随时随地打开并整理所有箱子。",
    "file": "pathoschild-chestsanywhere.zip",
    "size": 190526
   },
   {
    "uniqueId": "LemurKat.CommunityCenter.CP",
    "en": "Community Center",
-   "zh": "",
+   "zh": "社区中心",
    "author": "LemurKat",
    "ver": "1.3.2",
-   "desc": "Changes the community center",
+   "desc": "调整社区中心的布局与外观。",
    "file": "lemurkat-communitycenter-cp.zip",
    "size": 140271
   },
@@ -188,7 +188,7 @@
    "zh": "内容补丁",
    "author": "Pathoschild",
    "ver": "2.9.1",
-   "desc": "Loads content packs which edit game data, images, and maps without changing the game files.",
+   "desc": "内容类模组的公共前置，负责把图片、地图、对话注入游戏。",
    "file": "pathoschild-contentpatcher.zip",
    "size": 389967
   },
@@ -198,7 +198,7 @@
    "zh": "便利箱子",
    "author": "aEnigma",
    "ver": "1.6.6",
-   "desc": "Makes your life easier: Allows crafting from and auto-stashing to chests.",
+   "desc": "可以直接用附近箱子里的材料制作，产物自动存回。",
    "file": "aenigma-convenientchests.zip",
    "size": 65662
   },
@@ -208,7 +208,7 @@
    "zh": "便利背包",
    "author": "gaussfire",
    "ver": "1.6.1",
-   "desc": "Adds convenience features to the player's inventory, such as quick stack to nearby chests and favorited items.",
+   "desc": "背包快捷整理、快速堆叠等便利功能。",
    "file": "gaussfire-convenientinventory.zip",
    "size": 118781
   },
@@ -218,7 +218,7 @@
    "zh": "自定义家具",
    "author": "Platonymous",
    "ver": "1.14.3",
-   "desc": "Helper Mod for Custom Furniture creation.",
+   "desc": "为自定义家具内容包提供支持的前置。",
    "file": "platonymous-customfurniture.zip",
    "size": 45604
   },
@@ -228,17 +228,17 @@
    "zh": "自定义日程键",
    "author": "Spiderbuttons",
    "ver": "1.0.0",
-   "desc": "Create custom schedule keys for NPCs to use that apply according to GSQ conditions.",
+   "desc": "给 NPC 添加可按条件触发的自定义日程键。",
    "file": "spiderbuttons-customschedulekeys.zip",
    "size": 17781
   },
   {
    "uniqueId": "DNER.AIOmapfix",
    "en": "DNER All in one map fix",
-   "zh": "",
+   "zh": "地图背景修复",
    "author": "Xryzo11",
    "ver": "1.0.0",
-   "desc": "This mod fixes the incorrect backgrounds on world maps from other mods.",
+   "desc": "修复其他模组世界地图背景错位的问题。",
    "file": "dner-aiomapfix.zip",
    "size": 282446
   },
@@ -248,17 +248,17 @@
    "zh": "每日截图",
    "author": "CompSciLauren",
    "ver": "3.4.1",
-   "desc": "Automatically takes a daily screenshot of your entire farm.",
+   "desc": "每天自动给整个农场截一张图。",
    "file": "compscilauren-dailyscreenshot.zip",
    "size": 73683
   },
   {
    "uniqueId": "DaisyNiko.EarthyRecolour",
    "en": "Earthy Recolour",
-   "zh": "",
+   "zh": "大地色重绘",
    "author": "DaisyNiko",
    "ver": "1.4.4",
-   "desc": "",
+   "desc": "把地图与建筑改成柔和的大地色系配色。",
    "file": "daisyniko-earthyrecolour.zip",
    "size": 8353072
   },
@@ -268,27 +268,27 @@
    "zh": "DaisyNiko 图块库",
    "author": "DaisyNiko",
    "ver": "2.0.2",
-   "desc": "",
+   "desc": "地图类模组的公共素材库。",
    "file": "daisyniko-tilesheets.zip",
    "size": 5549952
   },
   {
    "uniqueId": "maxmakesmods.deepwoodsmod",
    "en": "Deep Woods",
-   "zh": "深度森林",
+   "zh": "深林",
    "author": "Max Makes Mods",
    "ver": "4.3.1-beta",
-   "desc": "Adds an explorable forest to the secret woods. How deep does it go?",
+   "desc": "在秘密森林后面加一片可探索的深林，越走越深。",
    "file": "maxmakesmods-deepwoodsmod.zip",
    "size": 661475
   },
   {
    "uniqueId": "spacechase0.DynamicGameAssets",
    "en": "Dynamic Game Assets",
-   "zh": "动态游戏资产",
+   "zh": "动态游戏资源",
    "author": "spacechase0",
    "ver": "1.4.4",
-   "desc": "Lets content packs add custom content to the game.",
+   "desc": "让内容包向游戏添加自定义物品与资源。",
    "file": "spacechase0-dynamicgameassets.zip",
    "size": 335564
   },
@@ -298,7 +298,7 @@
    "zh": "Esca 模组插件",
    "author": "Esca",
    "ver": "1.7.2",
-   "desc": "A framework that adds miscellaneous features for other mods to use.",
+   "desc": "给其他模组提供额外功能的框架。",
    "file": "esca-emp.zip",
    "size": 56668
   },
@@ -308,7 +308,7 @@
    "zh": "经验条",
    "author": "kittycatcasey",
    "ver": "1.4.6",
-   "desc": "Shows experience bars in the top-left corner.",
+   "desc": "在左上角显示技能经验条。",
    "file": "spacechase0-experiencebars.zip",
    "size": 66906
   },
@@ -318,7 +318,7 @@
    "zh": "农场类型管理器",
    "author": "Esca",
    "ver": "1.26.1",
-   "desc": "Allows custom spawning of content from each farm type: forage, large objects, ore, and monsters",
+   "desc": "按农场类型自定义刷怪、采集物、矿石与大型物件。",
    "file": "esca-farmtypemanager.zip",
    "size": 133975
   },
@@ -328,7 +328,7 @@
    "zh": "农舍重制",
    "author": "MabelSyrup",
    "ver": "0.3.7",
-   "desc": "Allows for farmhouse maps to change the shape and layout of the house",
+   "desc": "允许农舍地图改变房屋形状与内部布局。",
    "file": "mabelsyrup-farmhouse.zip",
    "size": 135418
   },
@@ -338,7 +338,7 @@
    "zh": "加速动画",
    "author": "Pathoschild",
    "ver": "1.16.2",
-   "desc": "Speeds up many animations in the game (configurable).",
+   "desc": "加快游戏里的各种动画（可配置）。",
    "file": "pathoschild-fastanimations.zip",
    "size": 158824
   },
@@ -348,37 +348,37 @@
    "zh": "钓鱼信息",
    "author": "barteke22",
    "ver": "1.3.2",
-   "desc": "Adds a preview showing fish in current location when holding a fishing rod, which fish you're currently catching, and more!",
+   "desc": "手持鱼竿时显示当前水域的鱼种与难度。",
    "file": "barteke22-fishinginfooverlays.zip",
    "size": 66587
   },
   {
    "uniqueId": "IsaacS.FriendsForever",
    "en": "Friends Forever",
-   "zh": "永久友谊",
+   "zh": "友谊永驻",
    "author": "Isaac S.",
    "ver": "1.2.3",
-   "desc": "Makes it so friendship levels never decay!",
+   "desc": "好感度不再随时间衰减。",
    "file": "isaacs-friendsforever.zip",
    "size": 5121
   },
   {
    "uniqueId": "spacechase0.GenericModConfigMenu",
    "en": "Generic Mod Config Menu",
-   "zh": "通用模组配置菜单",
+   "zh": "通用模组设置菜单",
    "author": "kittycatcasey",
    "ver": "1.16.0",
-   "desc": "Adds an in-game UI to edit other mods' config options (for mods which support it).",
+   "desc": "在游戏内提供统一的模组设置界面。",
    "file": "spacechase0-genericmodconfigmenu.zip",
    "size": 108656
   },
   {
    "uniqueId": "JoXW.GiftTasteHelper",
    "en": "Gift Taste Helper Continued x2",
-   "zh": "",
+   "zh": "礼物喜好助手",
    "author": "JoXW, Isi0, tstaples (aka catman)",
    "ver": "1.2.5",
-   "desc": "Displays NPC gift tastes in a handy tooltip.",
+   "desc": "鼠标悬停提示 NPC 喜欢的礼物。",
    "file": "joxw-gifttastehelper.zip",
    "size": 53899
   },
@@ -388,17 +388,17 @@
    "zh": "镰刀收割",
    "author": "bcmpinc",
    "ver": "7.5",
-   "desc": "Allows you to harvest all crops and forage using the scythe. They can also still be plucked.",
+   "desc": "用镰刀收割所有作物和采集物。",
    "file": "bcmpinc-harvestwithscythe.zip",
    "size": 25324
   },
   {
    "uniqueId": "Pathoschild.HorseFluteAnywhere",
    "en": "Horse Flute Anywhere",
-   "zh": "随身马笛",
+   "zh": "随处唤马",
    "author": "Pathoschild",
    "ver": "1.3.6",
-   "desc": "Summon your horse anywhere at the press of a button.",
+   "desc": "按一下就把马召唤到身边。",
    "file": "pathoschild-horsefluteanywhere.zip",
    "size": 99857
   },
@@ -408,17 +408,17 @@
    "zh": "马匹改造",
    "author": "Goldenrevolver",
    "ver": "1.5.9",
-   "desc": "Thin horse with saddle bags. Give your horse pets, food and water for friendship and increased speed.",
+   "desc": "瘦马+马鞍袋，可以喂食、抚摸，提升互动。",
    "file": "goldenrevolver-horseoverhaul.zip",
    "size": 437414
   },
   {
    "uniqueId": "spacechase0.JsonAssets",
    "en": "Json Assets",
-   "zh": "JSON 资产",
+   "zh": "JSON 资源",
    "author": "kittycatcasey",
    "ver": "1.11.11",
-   "desc": "Lets content packs add custom content to the game.",
+   "desc": "让内容包向游戏添加自定义物品（旧版框架）。",
    "file": "spacechase0-jsonassets.zip",
    "size": 169244
   },
@@ -428,7 +428,7 @@
    "zh": "查找任何内容",
    "author": "Pathoschild",
    "ver": "1.55.0",
-   "desc": "View metadata about anything by pressing a button.",
+   "desc": "按一个键查看任何东西的详细信息。",
    "file": "pathoschild-lookupanything.zip",
    "size": 631425
   },
@@ -438,7 +438,7 @@
    "zh": "烹饪之爱",
    "author": "blueberry",
    "ver": "2.0.9",
-   "desc": "Cooking overhaul suite. Enter a world of food!",
+   "desc": "烹饪系统大改，新增大量菜谱与厨具。",
    "file": "blueberry-loveofcooking.zip",
    "size": 415195
   },
@@ -448,7 +448,7 @@
    "zh": "地图动作属性",
    "author": "mushymato",
    "ver": "1.15.1",
-   "desc": "Various map stuff for modders.",
+   "desc": "给地图作者用的动作与属性扩展。",
    "file": "mushymato-mmap.zip",
    "size": 193349
   },
@@ -458,27 +458,27 @@
    "zh": "邮件框架",
    "author": "Digus",
    "ver": "1.20.0",
-   "desc": "Utility classes and content packs to add mail into the game.",
+   "desc": "向游戏添加自定义信件的工具与内容包支持。",
    "file": "digus-mailframeworkmod.zip",
    "size": 50662
   },
   {
    "uniqueId": "Cherry.MultiYieldCrops",
    "en": "Multi Yield Crops",
-   "zh": "多收作物",
+   "zh": "多产物作物",
    "author": "Cherry",
    "ver": "1.0.6",
-   "desc": "Allows crops to yield more than one kind of item",
+   "desc": "让一种作物产出多种物品。",
    "file": "cherry-multiyieldcrops.zip",
    "size": 25162
   },
   {
    "uniqueId": "Arknir.Lucikiel",
    "en": "Lucikiel - New Custom NPC Mod (King's Raid)",
-   "zh": "",
+   "zh": "卢西基尔（新 NPC）",
    "author": "Arknir27",
    "ver": "2.1.0",
-   "desc": "Adds Lucikiel to Stardew Valley",
+   "desc": "新增来自《King's Raid》的自定义 NPC 卢西基尔。",
    "file": "arknir-lucikiel.zip",
    "size": 3711497
   },
@@ -488,7 +488,7 @@
    "zh": "NPC 地图位置",
    "author": "Bouhm",
    "ver": "3.5.2",
-   "desc": "Shows NPCs and farmers on a modified map page for accurate tracking.",
+   "desc": "在地图上实时显示 NPC 和玩家位置。",
    "file": "bouhm-npcmaplocations.zip",
    "size": 122700
   },
@@ -498,17 +498,17 @@
    "zh": "社区一员",
    "author": "Brandon Marquis Markail Green (Space Baby), 1.6 update by Nikki864, GMCM menu by MickeyMik (Eela11)",
    "ver": "2.0.1",
-   "desc": "Lets you increase friendship by supporting the community. Now includes a framework for modders to add custom characters and relationships.",
+   "desc": "通过帮助社区来提升好感度。",
    "file": "spacebaby-partofthecommunity.zip",
    "size": 51231
   },
   {
    "uniqueId": "stokastic.PrismaticTools",
    "en": "PrismaticTools",
-   "zh": "星之碎片工具",
+   "zh": "五彩工具",
    "author": "stokastic",
    "ver": "1.7.0",
-   "desc": "Adds prismatic tools and sprinklers to the game.",
+   "desc": "新增五彩碎片材质工具与洒水器。",
    "file": "stokastic-prismatictools.zip",
    "size": 124782
   },
@@ -518,7 +518,7 @@
    "zh": "生产框架",
    "author": "Digus",
    "ver": "1.9.8",
-   "desc": "Framework to add rules to produce objects or change the vanilla rules.",
+   "desc": "给机器添加自定义产出规则。",
    "file": "digus-producerframeworkmod.zip",
    "size": 69223
   },
@@ -528,7 +528,7 @@
    "zh": "范围显示",
    "author": "Cat",
    "ver": "3.0.0",
-   "desc": "Press a key to view the range of sprinklers, scarecrows, bee houses, and junimo huts.",
+   "desc": "按键显示洒水器、稻草人、蜂箱等的覆盖范围。",
    "file": "cat-sprinklerrange.zip",
    "size": 23636
   },
@@ -538,17 +538,17 @@
    "zh": "商店框架",
    "author": "Cherry",
    "ver": "1.0.13",
-   "desc": "Define new shops as custom tile properties",
+   "desc": "用图块属性定义新的商店。",
    "file": "cherry-shoptileframework.zip",
    "size": 48245
   },
   {
    "uniqueId": "Pathoschild.SkipIntro",
    "en": "Skip Intro",
-   "zh": "跳过开场动画",
+   "zh": "跳过开场",
    "author": "Pathoschild",
    "ver": "1.9.25",
-   "desc": "Skips the game's loading intro.",
+   "desc": "跳过游戏启动动画。",
    "file": "pathoschild-skipintro.zip",
    "size": 93568
   },
@@ -558,7 +558,7 @@
    "zh": "骷髅洞穴电梯",
    "author": "lestoph",
    "ver": "1.6.2",
-   "desc": "Elevator for the Skull Cavern",
+   "desc": "骷髅洞穴里也装上电梯，不用每次从 1 层重爬。",
    "file": "skullcavernelevator.zip",
    "size": 177512
   },
@@ -568,7 +568,7 @@
    "zh": "太空核心",
    "author": "kittycatcasey",
    "ver": "1.28.4",
-   "desc": "The space-iest of cores. (Framework mod)",
+   "desc": "很多模组共用的框架库。",
    "file": "spacechase0-spacecore.zip",
    "size": 366701
   },
@@ -578,67 +578,67 @@
    "zh": "堆叠拆分",
    "author": "pepoluan, tstaples (original idea)",
    "ver": "0.14.3",
-   "desc": "Custom stack splitting, originally known as StackSplitX",
+   "desc": "自定义数量拆分堆叠。",
    "file": "pepoluan-stacksplitredux.zip",
    "size": 67902
   },
   {
    "uniqueId": "Lita.StarblueValley",
    "en": "Starblue Valley",
-   "zh": "星蓝山谷",
+   "zh": "星蓝谷",
    "author": "Lita",
    "ver": "1.5.1",
-   "desc": "",
+   "desc": "把整个星露谷的配色改成清冷的蓝绿色调。",
    "file": "lita-starbluevalley.zip",
    "size": 7911745
   },
   {
    "uniqueId": "Cherry.StardewAquarium",
    "en": "Stardew Aquarium Code",
-   "zh": "",
+   "zh": "星露谷水族馆·代码",
    "author": "Cherry",
    "ver": "2.3.0",
-   "desc": "The coding portion of the Stardew Aquarium mod",
+   "desc": "水族馆模组的代码部分。",
    "file": "cherry-stardewaquarium.zip",
    "size": 5617296
   },
   {
    "uniqueId": "bcmpinc.StardewHack",
    "en": "StardewHack",
-   "zh": "星露谷黑客库",
+   "zh": "星露谷黑科技",
    "author": "bcmpinc",
    "ver": "7.4",
-   "desc": "Transpilation library used by my other mods. Doesn't do much on its own.",
+   "desc": "若干模组共用的转译库。",
    "file": "bcmpinc-stardewhack.zip",
    "size": 33427
   },
   {
    "uniqueId": "mondopandora.stardewnotification",
    "en": "StardewNotification",
-   "zh": "",
+   "zh": "星露谷通知",
    "author": "monopandora, maintained by Sakorona",
    "ver": "1.8.19",
-   "desc": "Daily Notification mod for Stardew Valley",
+   "desc": "每日提示通知。",
    "file": "mondopandora-stardewnotification.zip",
    "size": 52531
   },
   {
    "uniqueId": "DaisyNiko.SVR2",
    "en": "Stardew Valley Reimagined 2",
-   "zh": "",
+   "zh": "星露谷重塑 2",
    "author": "DaisyNiko",
    "ver": "1.0.7",
-   "desc": "",
+   "desc": "重做小镇与农场地形的整体美化包。",
    "file": "daisyniko-svr2.zip",
    "size": 392605
   },
   {
    "uniqueId": "SunberryTeam.SBVSMAPI",
    "en": "[C#] Sunberry Village",
-   "zh": "太阳莓村",
+   "zh": "太阳莓村·代码",
    "author": "Sunberry Team",
    "ver": "1.1.2",
-   "desc": "Code portion of Sunberry Village.",
+   "desc": "太阳莓村新地图的代码部分。",
    "file": "sunberryteam-sbvsmapi.zip",
    "size": 14462351
   },
@@ -648,17 +648,17 @@
    "zh": "时间速度",
    "author": "cantorsdust and Pathoschild",
    "ver": "2.8.1",
-   "desc": "Lets you control the flow of time in the game: speed it up, slow it down, or freeze it altogether.",
+   "desc": "控制游戏时间流速：加速、减速或暂停。",
    "file": "cantorsdust-timespeed.zip",
    "size": 58881
   },
   {
    "uniqueId": "aedenthorn.ToolSmartSwitch",
    "en": "Tool Smart Switch",
-   "zh": "工具智能切换",
+   "zh": "智能切换工具",
    "author": "aedenthorn",
    "ver": "0.8.4",
-   "desc": "Tool Smart Switch.",
+   "desc": "自动切换到当前最合适的工具。",
    "file": "aedenthorn-toolsmartswitch.zip",
    "size": 24395
   },
@@ -668,7 +668,7 @@
    "zh": "拖拉机改装",
    "author": "Pathoschild",
    "ver": "4.24.4",
-   "desc": "Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.",
+   "desc": "买一台拖拉机，耕地、清石头树枝效率翻倍。",
    "file": "pathoschild-tractormod.zip",
    "size": 368856
   },
@@ -678,7 +678,7 @@
    "zh": "界面信息套件",
    "author": "Annosz",
    "ver": "2.3.7",
-   "desc": "Adds a useful information to the user interface. Based on Cdaragorn's excellent UI Info Suite.",
+   "desc": "界面显示大量实用信息（天气、运气、经验等）。",
    "file": "annosz-uiinfosuite2.zip",
    "size": 604187
   },
@@ -688,17 +688,17 @@
    "zh": "瓦皮乌斯山",
    "author": "",
    "ver": "2.0.0",
-   "desc": "C# for Visit Mount Vapius",
+   "desc": "瓦皮乌斯山地图的代码部分。",
    "file": "lumisteria-visitmountvapius-code.zip",
    "size": 11790891
   },
   {
    "uniqueId": "DaLion.Professions",
    "en": "Walk Of Life - Rebirth",
-   "zh": "",
+   "zh": "生活方式·重生",
    "author": "DaLion",
    "ver": "1.5.0-Beta5",
-   "desc": "An extensive overhaul of Stardew Valley profession trees and skill progression systems.",
+   "desc": "大幅重做职业树与技能成长。",
    "file": "dalion-professions.zip",
    "size": 15277835
   },
@@ -708,7 +708,7 @@
    "zh": "多戒指",
    "author": "bcmpinc",
    "ver": "7.9",
-   "desc": "Adds additional ring slots to your inventory.",
+   "desc": "增加戒指栏位，可以同时戴更多戒指。",
    "file": "bcmpinc-wearmorerings.zip",
    "size": 30973
   },
@@ -718,7 +718,7 @@
    "zh": "冬季草地",
    "author": "Cat",
    "ver": "2.0.3",
-   "desc": "Grass will stay around in winter.",
+   "desc": "冬天草地也不会消失。",
    "file": "cat-wintergrass.zip",
    "size": 11243
   }
