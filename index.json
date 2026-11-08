@@ -10,7 +10,8 @@
    "ver": "1.2.0",
    "desc": "新增一位可攻略的自定义 NPC：女巫艾lecto。",
    "file": "zoedoll-npcalecto.zip",
-   "size": 542705
+   "size": 542705,
+   "zhDone": true
   },
   {
    "uniqueId": "Himetarts.ARVCC",
@@ -20,7 +21,8 @@
    "ver": "1.5.1",
    "desc": "把宠物狗替换成大型犬外观。",
    "file": "himetarts-arvcc.zip",
-   "size": 12827270
+   "size": 12827270,
+   "zhDone": false
   },
   {
    "uniqueId": "spacechase0.AnimalSocialMenu",
@@ -30,7 +32,8 @@
    "ver": "1.1.2",
    "desc": "给农场动物加一个社交菜单，可以查看它们的亲密度。",
    "file": "spacechase0-animalsocialmenu.zip",
-   "size": 77818
+   "size": 77818,
+   "zhDone": true
   },
   {
    "uniqueId": "Pathoschild.Automate",
@@ -40,7 +43,8 @@
    "ver": "2.6.1",
    "desc": "把箱子放在机器旁，自动生产、自动收取，果树和蜂箱也能接。",
    "file": "pathoschild-automate.zip",
-   "size": 224321
+   "size": 224321,
+   "zhDone": true
   },
   {
    "uniqueId": "Rakiin.AutomaticGates",
@@ -50,7 +54,8 @@
    "ver": "2.5.5",
    "desc": "走到门口时栅栏门会自动开关。",
    "file": "rakiin-automaticgates.zip",
-   "size": 21929
+   "size": 21929,
+   "zhDone": false
   },
   {
    "uniqueId": "Elle.NewBarnAnimals",
@@ -60,7 +65,8 @@
    "ver": "1.1.3",
    "desc": "替换畜棚里所有动物的外观（内容包）。",
    "file": "elle-newbarnanimals.zip",
-   "size": 1425932
+   "size": 1425932,
+   "zhDone": false
   },
   {
    "uniqueId": "leclair.bettercrafting",
@@ -70,7 +76,8 @@
    "ver": "2.18.0",
    "desc": "重做原版制作菜单，支持分类、搜索、批量制作。",
    "file": "leclair-bettercrafting.zip",
-   "size": 531389
+   "size": 531389,
+   "zhDone": true
   },
   {
    "uniqueId": "hawkfalcon.BetterJunimos",
@@ -80,7 +87,8 @@
    "ver": "3.2.0",
    "desc": "祝尼魔小屋会自动播种、浇水、施肥、收获。",
    "file": "hawkfalcon-betterjunimos.zip",
-   "size": 109567
+   "size": 109567,
+   "zhDone": true
   },
   {
    "uniqueId": "BetterRanching",
@@ -90,7 +98,8 @@
    "ver": "2.0.5",
    "desc": "挤奶剪毛失败会自动重试，并提示动物何时可以收。",
    "file": "betterranching.zip",
-   "size": 24863
+   "size": 24863,
+   "zhDone": true
   },
   {
    "uniqueId": "spacechase0.BiggerBackpack",
@@ -100,7 +109,8 @@
    "ver": "7.3",
    "desc": "增加一种更大容量的背包。",
    "file": "spacechase0-biggerbackpack.zip",
-   "size": 43439
+   "size": 43439,
+   "zhDone": false
   },
   {
    "uniqueId": "CJBok.CheatsMenu",
@@ -110,7 +120,8 @@
    "ver": "1.42.0",
    "desc": "游戏内作弊菜单：时间、天气、金钱、传送等。",
    "file": "cjbok-cheatsmenu.zip",
-   "size": 209819
+   "size": 209819,
+   "zhDone": true
   },
   {
    "uniqueId": "CJBok.ItemSpawner",
@@ -120,7 +131,8 @@
    "ver": "2.5.6",
    "desc": "游戏内直接刷出任意物品，测试和偷懒用。",
    "file": "cjbok-itemspawner.zip",
-   "size": 84124
+   "size": 84124,
+   "zhDone": true
   },
   {
    "uniqueId": "CJBok.ShowItemSellPrice",
@@ -130,7 +142,8 @@
    "ver": "1.11.0",
    "desc": "在背包里显示每个物品的售价。",
    "file": "cjbok-showitemsellprice.zip",
-   "size": 43816
+   "size": 43816,
+   "zhDone": true
   },
   {
    "uniqueId": "gizzymo.canonfriendlyexpansion",
@@ -140,7 +153,8 @@
    "ver": "3.1.2",
    "desc": "给 34 位角色新增约 4200 句不违和的日常对白。",
    "file": "gizzymo-canonfriendlyexpansion.zip",
-   "size": 419530
+   "size": 419530,
+   "zhDone": false
   },
   {
    "uniqueId": "spacechase0.CarryChest",
@@ -150,7 +164,8 @@
    "ver": "1.3.6",
    "desc": "可以连箱子里的东西一起搬走。",
    "file": "spacechase0-carrychest.zip",
-   "size": 73536
+   "size": 73536,
+   "zhDone": false
   },
   {
    "uniqueId": "SPDChestLabel",
@@ -160,7 +175,8 @@
    "ver": "1.7.0",
    "desc": "给箱子加标签，方便分类查找。",
    "file": "spdchestlabel.zip",
-   "size": 14186
+   "size": 14186,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.ChestsAnywhere",
@@ -170,7 +186,8 @@
    "ver": "1.30.1",
    "desc": "随时随地打开并整理所有箱子。",
    "file": "pathoschild-chestsanywhere.zip",
-   "size": 190526
+   "size": 190526,
+   "zhDone": true
   },
   {
    "uniqueId": "LemurKat.CommunityCenter.CP",
@@ -180,7 +197,8 @@
    "ver": "1.3.2",
    "desc": "调整社区中心的布局与外观。",
    "file": "lemurkat-communitycenter-cp.zip",
-   "size": 140271
+   "size": 140271,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.ContentPatcher",
@@ -190,7 +208,8 @@
    "ver": "2.9.1",
    "desc": "内容类模组的公共前置，负责把图片、地图、对话注入游戏。",
    "file": "pathoschild-contentpatcher.zip",
-   "size": 389967
+   "size": 389967,
+   "zhDone": false
   },
   {
    "uniqueId": "aEnigma.ConvenientChests",
@@ -200,7 +219,8 @@
    "ver": "1.6.6",
    "desc": "可以直接用附近箱子里的材料制作，产物自动存回。",
    "file": "aenigma-convenientchests.zip",
-   "size": 65662
+   "size": 65662,
+   "zhDone": false
   },
   {
    "uniqueId": "gaussfire.ConvenientInventory",
@@ -210,7 +230,8 @@
    "ver": "1.6.1",
    "desc": "背包快捷整理、快速堆叠等便利功能。",
    "file": "gaussfire-convenientinventory.zip",
-   "size": 118781
+   "size": 118781,
+   "zhDone": true
   },
   {
    "uniqueId": "Platonymous.CustomFurniture",
@@ -220,7 +241,8 @@
    "ver": "1.14.3",
    "desc": "为自定义家具内容包提供支持的前置。",
    "file": "platonymous-customfurniture.zip",
-   "size": 45604
+   "size": 45604,
+   "zhDone": false
   },
   {
    "uniqueId": "Spiderbuttons.CustomScheduleKeys",
@@ -230,7 +252,8 @@
    "ver": "1.0.0",
    "desc": "给 NPC 添加可按条件触发的自定义日程键。",
    "file": "spiderbuttons-customschedulekeys.zip",
-   "size": 17781
+   "size": 17781,
+   "zhDone": false
   },
   {
    "uniqueId": "DNER.AIOmapfix",
@@ -240,7 +263,8 @@
    "ver": "1.0.0",
    "desc": "修复其他模组世界地图背景错位的问题。",
    "file": "dner-aiomapfix.zip",
-   "size": 282446
+   "size": 282446,
+   "zhDone": false
   },
   {
    "uniqueId": "CompSciLauren.DailyScreenshot",
@@ -250,7 +274,8 @@
    "ver": "3.4.1",
    "desc": "每天自动给整个农场截一张图。",
    "file": "compscilauren-dailyscreenshot.zip",
-   "size": 73683
+   "size": 73683,
+   "zhDone": true
   },
   {
    "uniqueId": "DaisyNiko.EarthyRecolour",
@@ -260,7 +285,8 @@
    "ver": "1.4.4",
    "desc": "把地图与建筑改成柔和的大地色系配色。",
    "file": "daisyniko-earthyrecolour.zip",
-   "size": 8353072
+   "size": 8353072,
+   "zhDone": false
   },
   {
    "uniqueId": "DaisyNiko.Tilesheets",
@@ -270,7 +296,8 @@
    "ver": "2.0.2",
    "desc": "地图类模组的公共素材库。",
    "file": "daisyniko-tilesheets.zip",
-   "size": 5549952
+   "size": 5549952,
+   "zhDone": false
   },
   {
    "uniqueId": "maxmakesmods.deepwoodsmod",
@@ -280,7 +307,8 @@
    "ver": "4.3.1-beta",
    "desc": "在秘密森林后面加一片可探索的深林，越走越深。",
    "file": "maxmakesmods-deepwoodsmod.zip",
-   "size": 661475
+   "size": 661475,
+   "zhDone": true
   },
   {
    "uniqueId": "spacechase0.DynamicGameAssets",
@@ -290,7 +318,8 @@
    "ver": "1.4.4",
    "desc": "让内容包向游戏添加自定义物品与资源。",
    "file": "spacechase0-dynamicgameassets.zip",
-   "size": 335564
+   "size": 335564,
+   "zhDone": false
   },
   {
    "uniqueId": "Esca.EMP",
@@ -300,7 +329,8 @@
    "ver": "1.7.2",
    "desc": "给其他模组提供额外功能的框架。",
    "file": "esca-emp.zip",
-   "size": 56668
+   "size": 56668,
+   "zhDone": true
   },
   {
    "uniqueId": "spacechase0.ExperienceBars",
@@ -310,7 +340,8 @@
    "ver": "1.4.6",
    "desc": "在左上角显示技能经验条。",
    "file": "spacechase0-experiencebars.zip",
-   "size": 67288
+   "size": 67288,
+   "zhDone": true
   },
   {
    "uniqueId": "Esca.FarmTypeManager",
@@ -320,7 +351,8 @@
    "ver": "1.26.1",
    "desc": "按农场类型自定义刷怪、采集物、矿石与大型物件。",
    "file": "esca-farmtypemanager.zip",
-   "size": 133975
+   "size": 133975,
+   "zhDone": true
   },
   {
    "uniqueId": "mabelsyrup.farmhouse",
@@ -330,7 +362,8 @@
    "ver": "0.3.7",
    "desc": "允许农舍地图改变房屋形状与内部布局。",
    "file": "mabelsyrup-farmhouse.zip",
-   "size": 135418
+   "size": 135418,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.FastAnimations",
@@ -340,7 +373,8 @@
    "ver": "1.16.2",
    "desc": "加快游戏里的各种动画（可配置）。",
    "file": "pathoschild-fastanimations.zip",
-   "size": 158824
+   "size": 158824,
+   "zhDone": true
   },
   {
    "uniqueId": "barteke22.FishingInfoOverlays",
@@ -350,7 +384,8 @@
    "ver": "1.3.2",
    "desc": "手持鱼竿时显示当前水域的鱼种与难度。",
    "file": "barteke22-fishinginfooverlays.zip",
-   "size": 70499
+   "size": 70499,
+   "zhDone": true
   },
   {
    "uniqueId": "IsaacS.FriendsForever",
@@ -360,7 +395,8 @@
    "ver": "1.2.3",
    "desc": "好感度不再随时间衰减。",
    "file": "isaacs-friendsforever.zip",
-   "size": 5121
+   "size": 5121,
+   "zhDone": false
   },
   {
    "uniqueId": "spacechase0.GenericModConfigMenu",
@@ -370,7 +406,8 @@
    "ver": "1.16.0",
    "desc": "在游戏内提供统一的模组设置界面。",
    "file": "spacechase0-genericmodconfigmenu.zip",
-   "size": 108656
+   "size": 108656,
+   "zhDone": true
   },
   {
    "uniqueId": "JoXW.GiftTasteHelper",
@@ -380,7 +417,8 @@
    "ver": "1.2.5",
    "desc": "鼠标悬停提示 NPC 喜欢的礼物。",
    "file": "joxw-gifttastehelper.zip",
-   "size": 53899
+   "size": 53899,
+   "zhDone": true
   },
   {
    "uniqueId": "bcmpinc.HarvestWithScythe",
@@ -390,7 +428,8 @@
    "ver": "7.5",
    "desc": "用镰刀收割所有作物和采集物。",
    "file": "bcmpinc-harvestwithscythe.zip",
-   "size": 25324
+   "size": 25324,
+   "zhDone": true
   },
   {
    "uniqueId": "Pathoschild.HorseFluteAnywhere",
@@ -400,7 +439,8 @@
    "ver": "1.3.6",
    "desc": "按一下就把马召唤到身边。",
    "file": "pathoschild-horsefluteanywhere.zip",
-   "size": 99857
+   "size": 99857,
+   "zhDone": true
   },
   {
    "uniqueId": "Goldenrevolver.HorseOverhaul",
@@ -410,7 +450,8 @@
    "ver": "1.5.9",
    "desc": "瘦马+马鞍袋，可以喂食、抚摸，提升互动。",
    "file": "goldenrevolver-horseoverhaul.zip",
-   "size": 437414
+   "size": 437414,
+   "zhDone": true
   },
   {
    "uniqueId": "spacechase0.JsonAssets",
@@ -420,7 +461,8 @@
    "ver": "1.11.11",
    "desc": "让内容包向游戏添加自定义物品（旧版框架）。",
    "file": "spacechase0-jsonassets.zip",
-   "size": 169244
+   "size": 169244,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.LookupAnything",
@@ -430,7 +472,8 @@
    "ver": "1.55.0",
    "desc": "按一个键查看任何东西的详细信息。",
    "file": "pathoschild-lookupanything.zip",
-   "size": 631425
+   "size": 631425,
+   "zhDone": true
   },
   {
    "uniqueId": "blueberry.LoveOfCooking",
@@ -440,7 +483,8 @@
    "ver": "2.0.9",
    "desc": "烹饪系统大改，新增大量菜谱与厨具。",
    "file": "blueberry-loveofcooking.zip",
-   "size": 415195
+   "size": 415195,
+   "zhDone": false
   },
   {
    "uniqueId": "mushymato.MMAP",
@@ -450,7 +494,8 @@
    "ver": "1.15.1",
    "desc": "给地图作者用的动作与属性扩展。",
    "file": "mushymato-mmap.zip",
-   "size": 193349
+   "size": 193349,
+   "zhDone": false
   },
   {
    "uniqueId": "DIGUS.MailFrameworkMod",
@@ -460,7 +505,8 @@
    "ver": "1.20.0",
    "desc": "向游戏添加自定义信件的工具与内容包支持。",
    "file": "digus-mailframeworkmod.zip",
-   "size": 50662
+   "size": 50662,
+   "zhDone": false
   },
   {
    "uniqueId": "Cherry.MultiYieldCrops",
@@ -470,7 +516,8 @@
    "ver": "1.0.6",
    "desc": "让一种作物产出多种物品。",
    "file": "cherry-multiyieldcrops.zip",
-   "size": 25162
+   "size": 25162,
+   "zhDone": false
   },
   {
    "uniqueId": "Arknir.Lucikiel",
@@ -480,7 +527,8 @@
    "ver": "2.1.0",
    "desc": "新增来自《King's Raid》的自定义 NPC 卢西基尔。",
    "file": "arknir-lucikiel.zip",
-   "size": 3711497
+   "size": 3711497,
+   "zhDone": false
   },
   {
    "uniqueId": "Bouhm.NPCMapLocations",
@@ -490,7 +538,8 @@
    "ver": "3.5.2",
    "desc": "在地图上实时显示 NPC 和玩家位置。",
    "file": "bouhm-npcmaplocations.zip",
-   "size": 122700
+   "size": 122700,
+   "zhDone": true
   },
   {
    "uniqueId": "SpaceBaby.PartOfTheCommunity",
@@ -500,7 +549,8 @@
    "ver": "2.0.1",
    "desc": "通过帮助社区来提升好感度。",
    "file": "spacebaby-partofthecommunity.zip",
-   "size": 51231
+   "size": 51231,
+   "zhDone": false
   },
   {
    "uniqueId": "stokastic.PrismaticTools",
@@ -510,7 +560,8 @@
    "ver": "1.7.0",
    "desc": "新增五彩碎片材质工具与洒水器。",
    "file": "stokastic-prismatictools.zip",
-   "size": 124782
+   "size": 124782,
+   "zhDone": true
   },
   {
    "uniqueId": "Digus.ProducerFrameworkMod",
@@ -520,7 +571,8 @@
    "ver": "1.9.8",
    "desc": "给机器添加自定义产出规则。",
    "file": "digus-producerframeworkmod.zip",
-   "size": 69223
+   "size": 69223,
+   "zhDone": true
   },
   {
    "uniqueId": "cat.sprinklerrange",
@@ -530,7 +582,8 @@
    "ver": "3.0.0",
    "desc": "按键显示洒水器、稻草人、蜂箱等的覆盖范围。",
    "file": "cat-sprinklerrange.zip",
-   "size": 23636
+   "size": 23636,
+   "zhDone": false
   },
   {
    "uniqueId": "Cherry.ShopTileFramework",
@@ -540,7 +593,8 @@
    "ver": "1.0.13",
    "desc": "用图块属性定义新的商店。",
    "file": "cherry-shoptileframework.zip",
-   "size": 48245
+   "size": 48245,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.SkipIntro",
@@ -550,7 +604,8 @@
    "ver": "1.9.25",
    "desc": "跳过游戏启动动画。",
    "file": "pathoschild-skipintro.zip",
-   "size": 93568
+   "size": 93568,
+   "zhDone": true
   },
   {
    "uniqueId": "SkullCavernElevator",
@@ -560,7 +615,8 @@
    "ver": "1.6.2",
    "desc": "骷髅洞穴里也装上电梯，不用每次从 1 层重爬。",
    "file": "skullcavernelevator.zip",
-   "size": 177512
+   "size": 177512,
+   "zhDone": false
   },
   {
    "uniqueId": "spacechase0.SpaceCore",
@@ -570,7 +626,8 @@
    "ver": "1.28.4",
    "desc": "很多模组共用的框架库。",
    "file": "spacechase0-spacecore.zip",
-   "size": 366701
+   "size": 366701,
+   "zhDone": false
   },
   {
    "uniqueId": "pepoluan.StackSplitRedux",
@@ -580,7 +637,8 @@
    "ver": "0.14.3",
    "desc": "自定义数量拆分堆叠。",
    "file": "pepoluan-stacksplitredux.zip",
-   "size": 67902
+   "size": 67902,
+   "zhDone": false
   },
   {
    "uniqueId": "Lita.StarblueValley",
@@ -590,7 +648,8 @@
    "ver": "1.5.1",
    "desc": "把整个星露谷的配色改成清冷的蓝绿色调。",
    "file": "lita-starbluevalley.zip",
-   "size": 7911745
+   "size": 7911745,
+   "zhDone": false
   },
   {
    "uniqueId": "Cherry.StardewAquarium",
@@ -600,7 +659,8 @@
    "ver": "2.3.0",
    "desc": "水族馆模组的代码部分。",
    "file": "cherry-stardewaquarium.zip",
-   "size": 5617296
+   "size": 5617296,
+   "zhDone": true
   },
   {
    "uniqueId": "bcmpinc.StardewHack",
@@ -610,7 +670,8 @@
    "ver": "7.4",
    "desc": "若干模组共用的转译库。",
    "file": "bcmpinc-stardewhack.zip",
-   "size": 33427
+   "size": 33427,
+   "zhDone": false
   },
   {
    "uniqueId": "mondopandora.stardewnotification",
@@ -620,7 +681,8 @@
    "ver": "1.8.19",
    "desc": "每日提示通知。",
    "file": "mondopandora-stardewnotification.zip",
-   "size": 52531
+   "size": 52531,
+   "zhDone": false
   },
   {
    "uniqueId": "DaisyNiko.SVR2",
@@ -630,7 +692,8 @@
    "ver": "1.0.7",
    "desc": "重做小镇与农场地形的整体美化包。",
    "file": "daisyniko-svr2.zip",
-   "size": 392605
+   "size": 392605,
+   "zhDone": false
   },
   {
    "uniqueId": "SunberryTeam.SBVSMAPI",
@@ -640,7 +703,8 @@
    "ver": "1.1.2",
    "desc": "太阳莓村新地图的代码部分。",
    "file": "sunberryteam-sbvsmapi.zip",
-   "size": 14462351
+   "size": 14462351,
+   "zhDone": false
   },
   {
    "uniqueId": "cantorsdust.TimeSpeed",
@@ -650,7 +714,8 @@
    "ver": "2.8.1",
    "desc": "控制游戏时间流速：加速、减速或暂停。",
    "file": "cantorsdust-timespeed.zip",
-   "size": 58881
+   "size": 58881,
+   "zhDone": true
   },
   {
    "uniqueId": "aedenthorn.ToolSmartSwitch",
@@ -660,7 +725,8 @@
    "ver": "0.8.4",
    "desc": "自动切换到当前最合适的工具。",
    "file": "aedenthorn-toolsmartswitch.zip",
-   "size": 24395
+   "size": 24395,
+   "zhDone": false
   },
   {
    "uniqueId": "Pathoschild.TractorMod",
@@ -670,7 +736,8 @@
    "ver": "4.24.4",
    "desc": "买一台拖拉机，耕地、清石头树枝效率翻倍。",
    "file": "pathoschild-tractormod.zip",
-   "size": 368856
+   "size": 368856,
+   "zhDone": true
   },
   {
    "uniqueId": "Annosz.UiInfoSuite2",
@@ -680,7 +747,8 @@
    "ver": "2.3.7",
    "desc": "界面显示大量实用信息（天气、运气、经验等）。",
    "file": "annosz-uiinfosuite2.zip",
-   "size": 604187
+   "size": 604187,
+   "zhDone": true
   },
   {
    "uniqueId": "lumisteria.visitmountvapius.code",
@@ -690,7 +758,8 @@
    "ver": "2.0.0",
    "desc": "瓦皮乌斯山地图的代码部分。",
    "file": "lumisteria-visitmountvapius-code.zip",
-   "size": 11790891
+   "size": 11790891,
+   "zhDone": false
   },
   {
    "uniqueId": "DaLion.Professions",
@@ -700,7 +769,8 @@
    "ver": "1.5.0-Beta5",
    "desc": "大幅重做职业树与技能成长。",
    "file": "dalion-professions.zip",
-   "size": 15277835
+   "size": 15277835,
+   "zhDone": true
   },
   {
    "uniqueId": "bcmpinc.WearMoreRings",
@@ -710,7 +780,8 @@
    "ver": "7.9",
    "desc": "增加戒指栏位，可以同时戴更多戒指。",
    "file": "bcmpinc-wearmorerings.zip",
-   "size": 30973
+   "size": 30973,
+   "zhDone": true
   },
   {
    "uniqueId": "cat.wintergrass",
@@ -720,7 +791,8 @@
    "ver": "2.0.3",
    "desc": "冬天草地也不会消失。",
    "file": "cat-wintergrass.zip",
-   "size": 11243
+   "size": 11243,
+   "zhDone": false
   }
  ]
 }
