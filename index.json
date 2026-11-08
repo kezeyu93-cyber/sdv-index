@@ -1,7 +1,117 @@
 {
- "updated": 1794117839,
- "count": 12,
+ "updated": 1794120892,
+ "count": 72,
  "mods": [
+  {
+   "uniqueId": "ZoeDoll.NPCAlecto",
+   "en": "Alecto the Witch",
+   "zh": "女巫艾lecto",
+   "author": "ZoeDoll",
+   "ver": "1.2.0",
+   "desc": "Alecto the Witch, a custom NPC",
+   "file": "zoedoll-npcalecto.zip",
+   "size": 542705
+  },
+  {
+   "uniqueId": "Himetarts.ARVCC",
+   "en": "ARV- Maximum",
+   "zh": "",
+   "author": "Hime Tarts",
+   "ver": "1.5.1",
+   "desc": "Henry's loyal pup!",
+   "file": "himetarts-arvcc.zip",
+   "size": 12827270
+  },
+  {
+   "uniqueId": "spacechase0.AnimalSocialMenu",
+   "en": "Animal Social Menu",
+   "zh": "动物社交菜单",
+   "author": "spacechase0",
+   "ver": "1.1.2",
+   "desc": "Adds a social menu for your animals. Check your animals' friendship values and if they need petting.",
+   "file": "spacechase0-animalsocialmenu.zip",
+   "size": 77621
+  },
+  {
+   "uniqueId": "Pathoschild.Automate",
+   "en": "Automate",
+   "zh": "自动化",
+   "author": "Pathoschild",
+   "ver": "2.6.1",
+   "desc": "Lets you automate crafting machines, fruit trees, and more by connecting them to chests.",
+   "file": "pathoschild-automate.zip",
+   "size": 224321
+  },
+  {
+   "uniqueId": "Rakiin.AutomaticGates",
+   "en": "AutomaticGates",
+   "zh": "自动门",
+   "author": "Rakiin aKa ScheKaa",
+   "ver": "2.5.5",
+   "desc": "Opens and closes gates automatically",
+   "file": "rakiin-automaticgates.zip",
+   "size": 21929
+  },
+  {
+   "uniqueId": "Elle.NewBarnAnimals",
+   "en": "Elle's New Barn Animals",
+   "zh": "",
+   "author": "Elle/Junimods",
+   "ver": "1.1.3",
+   "desc": "A CP replacement for all your barn animals!",
+   "file": "elle-newbarnanimals.zip",
+   "size": 1425932
+  },
+  {
+   "uniqueId": "leclair.bettercrafting",
+   "en": "Better Crafting",
+   "zh": "更好制作",
+   "author": "Khloe Leclair",
+   "ver": "2.18.0",
+   "desc": "Replaces the vanilla crafting menu with an improved reimplementation with support for favorites, categories, and that doesn't lock nearby chests in multiplayer.",
+   "file": "leclair-bettercrafting.zip",
+   "size": 531389
+  },
+  {
+   "uniqueId": "hawkfalcon.BetterJunimos",
+   "en": "Better Junimos",
+   "zh": "更好的祝尼魔",
+   "author": "hawkfalcon and ceruleandeep",
+   "ver": "3.2.0",
+   "desc": "Allow your Junimos (from Junimo huts) to automatically plant seeds, fertilize, and so much more!",
+   "file": "hawkfalcon-betterjunimos.zip",
+   "size": 109567
+  },
+  {
+   "uniqueId": "BetterRanching",
+   "en": "Better Ranching",
+   "zh": "更好的牧场",
+   "author": "Urbanyeti",
+   "ver": "2.0.5",
+   "desc": "Prevents failed milk/shear attempts and displays when animals can be milked/sheared and petted.",
+   "file": "betterranching.zip",
+   "size": 24863
+  },
+  {
+   "uniqueId": "spacechase0.BiggerBackpack",
+   "en": "Bigger Backpack",
+   "zh": "更大的背包",
+   "author": "spacechase0, yoseiri, bcmpinc",
+   "ver": "7.3",
+   "desc": "Adds another backpack size.",
+   "file": "spacechase0-biggerbackpack.zip",
+   "size": 43439
+  },
+  {
+   "uniqueId": "CJBok.CheatsMenu",
+   "en": "CJB Cheats Menu",
+   "zh": "CJB 作弊菜单",
+   "author": "CJBok and Pathoschild",
+   "ver": "1.42.0",
+   "desc": "Simple in-game cheats menu!",
+   "file": "cjbok-cheatsmenu.zip",
+   "size": 209819
+  },
   {
    "uniqueId": "CJBok.ItemSpawner",
    "en": "CJB Item Spawner",
@@ -11,6 +121,66 @@
    "desc": "Simple in-game item spawner!",
    "file": "cjbok-itemspawner.zip",
    "size": 84124
+  },
+  {
+   "uniqueId": "CJBok.ShowItemSellPrice",
+   "en": "CJB Show Item Sell Price",
+   "zh": "价格显示",
+   "author": "CJBok and Pathoschild",
+   "ver": "1.11.0",
+   "desc": "Show item sell price in your inventory!",
+   "file": "cjbok-showitemsellprice.zip",
+   "size": 43816
+  },
+  {
+   "uniqueId": "gizzymo.canonfriendlyexpansion",
+   "en": "Canon-Friendly Dialogue Expansion",
+   "zh": "官方风对话扩展",
+   "author": "gizzymo (dialogue), WitchWeed (coding)",
+   "ver": "3.1.2",
+   "desc": "Adds about 4200 new lines of dialogue across all 34 characters who have a heart level",
+   "file": "gizzymo-canonfriendlyexpansion.zip",
+   "size": 419530
+  },
+  {
+   "uniqueId": "spacechase0.CarryChest",
+   "en": "Carry Chest",
+   "zh": "随身箱子",
+   "author": "spacechase0",
+   "ver": "1.3.6",
+   "desc": "Carry chests with their contents.",
+   "file": "spacechase0-carrychest.zip",
+   "size": 73536
+  },
+  {
+   "uniqueId": "SPDChestLabel",
+   "en": "Chest Label System",
+   "zh": "箱子命名",
+   "author": "",
+   "ver": "1.7.0",
+   "desc": "Allow players to label their chests.",
+   "file": "spdchestlabel.zip",
+   "size": 14186
+  },
+  {
+   "uniqueId": "Pathoschild.ChestsAnywhere",
+   "en": "Chests Anywhere",
+   "zh": "随处箱子",
+   "author": "Pathoschild",
+   "ver": "1.30.1",
+   "desc": "Access your chests from anywhere and organize them your way.",
+   "file": "pathoschild-chestsanywhere.zip",
+   "size": 190526
+  },
+  {
+   "uniqueId": "LemurKat.CommunityCenter.CP",
+   "en": "Community Center",
+   "zh": "",
+   "author": "LemurKat",
+   "ver": "1.3.2",
+   "desc": "Changes the community center",
+   "file": "lemurkat-communitycenter-cp.zip",
+   "size": 140271
   },
   {
    "uniqueId": "Pathoschild.ContentPatcher",
@@ -23,6 +193,36 @@
    "size": 389967
   },
   {
+   "uniqueId": "aEnigma.ConvenientChests",
+   "en": "Convenient Chests",
+   "zh": "便利箱子",
+   "author": "aEnigma",
+   "ver": "1.6.6",
+   "desc": "Makes your life easier: Allows crafting from and auto-stashing to chests.",
+   "file": "aenigma-convenientchests.zip",
+   "size": 65662
+  },
+  {
+   "uniqueId": "gaussfire.ConvenientInventory",
+   "en": "Convenient Inventory",
+   "zh": "便利背包",
+   "author": "gaussfire",
+   "ver": "1.6.1",
+   "desc": "Adds convenience features to the player's inventory, such as quick stack to nearby chests and favorited items.",
+   "file": "gaussfire-convenientinventory.zip",
+   "size": 118781
+  },
+  {
+   "uniqueId": "Platonymous.CustomFurniture",
+   "en": "Custom Furniture",
+   "zh": "自定义家具",
+   "author": "Platonymous",
+   "ver": "1.14.3",
+   "desc": "Helper Mod for Custom Furniture creation.",
+   "file": "platonymous-customfurniture.zip",
+   "size": 45604
+  },
+  {
    "uniqueId": "Spiderbuttons.CustomScheduleKeys",
    "en": "Custom Schedule Keys",
    "zh": "自定义日程键",
@@ -31,6 +231,36 @@
    "desc": "Create custom schedule keys for NPCs to use that apply according to GSQ conditions.",
    "file": "spiderbuttons-customschedulekeys.zip",
    "size": 17781
+  },
+  {
+   "uniqueId": "DNER.AIOmapfix",
+   "en": "DNER All in one map fix",
+   "zh": "",
+   "author": "Xryzo11",
+   "ver": "1.0.0",
+   "desc": "This mod fixes the incorrect backgrounds on world maps from other mods.",
+   "file": "dner-aiomapfix.zip",
+   "size": 282446
+  },
+  {
+   "uniqueId": "CompSciLauren.DailyScreenshot",
+   "en": "Daily Screenshot",
+   "zh": "每日截图",
+   "author": "CompSciLauren",
+   "ver": "3.4.1",
+   "desc": "Automatically takes a daily screenshot of your entire farm.",
+   "file": "compscilauren-dailyscreenshot.zip",
+   "size": 73683
+  },
+  {
+   "uniqueId": "DaisyNiko.EarthyRecolour",
+   "en": "Earthy Recolour",
+   "zh": "",
+   "author": "DaisyNiko",
+   "ver": "1.4.4",
+   "desc": "",
+   "file": "daisyniko-earthyrecolour.zip",
+   "size": 8353072
   },
   {
    "uniqueId": "DaisyNiko.Tilesheets",
@@ -43,6 +273,26 @@
    "size": 5549952
   },
   {
+   "uniqueId": "maxmakesmods.deepwoodsmod",
+   "en": "Deep Woods",
+   "zh": "深度森林",
+   "author": "Max Makes Mods",
+   "ver": "4.3.1-beta",
+   "desc": "Adds an explorable forest to the secret woods. How deep does it go?",
+   "file": "maxmakesmods-deepwoodsmod.zip",
+   "size": 661475
+  },
+  {
+   "uniqueId": "spacechase0.DynamicGameAssets",
+   "en": "Dynamic Game Assets",
+   "zh": "动态游戏资产",
+   "author": "spacechase0",
+   "ver": "1.4.4",
+   "desc": "Lets content packs add custom content to the game.",
+   "file": "spacechase0-dynamicgameassets.zip",
+   "size": 335564
+  },
+  {
    "uniqueId": "Esca.EMP",
    "en": "Esca's Modding Plugins (EMP)",
    "zh": "Esca 模组插件",
@@ -51,6 +301,16 @@
    "desc": "A framework that adds miscellaneous features for other mods to use.",
    "file": "esca-emp.zip",
    "size": 56668
+  },
+  {
+   "uniqueId": "spacechase0.ExperienceBars",
+   "en": "Experience Bars",
+   "zh": "经验条",
+   "author": "kittycatcasey",
+   "ver": "1.4.6",
+   "desc": "Shows experience bars in the top-left corner.",
+   "file": "spacechase0-experiencebars.zip",
+   "size": 66906
   },
   {
    "uniqueId": "Esca.FarmTypeManager",
@@ -63,6 +323,126 @@
    "size": 133975
   },
   {
+   "uniqueId": "mabelsyrup.farmhouse",
+   "en": "FarmHouseRedone",
+   "zh": "农舍重制",
+   "author": "MabelSyrup",
+   "ver": "0.3.7",
+   "desc": "Allows for farmhouse maps to change the shape and layout of the house",
+   "file": "mabelsyrup-farmhouse.zip",
+   "size": 135418
+  },
+  {
+   "uniqueId": "Pathoschild.FastAnimations",
+   "en": "Fast Animations",
+   "zh": "加速动画",
+   "author": "Pathoschild",
+   "ver": "1.16.2",
+   "desc": "Speeds up many animations in the game (configurable).",
+   "file": "pathoschild-fastanimations.zip",
+   "size": 158824
+  },
+  {
+   "uniqueId": "barteke22.FishingInfoOverlays",
+   "en": "Fishing Info Overlays",
+   "zh": "钓鱼信息",
+   "author": "barteke22",
+   "ver": "1.3.2",
+   "desc": "Adds a preview showing fish in current location when holding a fishing rod, which fish you're currently catching, and more!",
+   "file": "barteke22-fishinginfooverlays.zip",
+   "size": 66587
+  },
+  {
+   "uniqueId": "IsaacS.FriendsForever",
+   "en": "Friends Forever",
+   "zh": "永久友谊",
+   "author": "Isaac S.",
+   "ver": "1.2.3",
+   "desc": "Makes it so friendship levels never decay!",
+   "file": "isaacs-friendsforever.zip",
+   "size": 5121
+  },
+  {
+   "uniqueId": "spacechase0.GenericModConfigMenu",
+   "en": "Generic Mod Config Menu",
+   "zh": "通用模组配置菜单",
+   "author": "kittycatcasey",
+   "ver": "1.16.0",
+   "desc": "Adds an in-game UI to edit other mods' config options (for mods which support it).",
+   "file": "spacechase0-genericmodconfigmenu.zip",
+   "size": 108656
+  },
+  {
+   "uniqueId": "JoXW.GiftTasteHelper",
+   "en": "Gift Taste Helper Continued x2",
+   "zh": "",
+   "author": "JoXW, Isi0, tstaples (aka catman)",
+   "ver": "1.2.5",
+   "desc": "Displays NPC gift tastes in a handy tooltip.",
+   "file": "joxw-gifttastehelper.zip",
+   "size": 53899
+  },
+  {
+   "uniqueId": "bcmpinc.HarvestWithScythe",
+   "en": "Harvest With Scythe",
+   "zh": "镰刀收割",
+   "author": "bcmpinc",
+   "ver": "7.5",
+   "desc": "Allows you to harvest all crops and forage using the scythe. They can also still be plucked.",
+   "file": "bcmpinc-harvestwithscythe.zip",
+   "size": 25324
+  },
+  {
+   "uniqueId": "Pathoschild.HorseFluteAnywhere",
+   "en": "Horse Flute Anywhere",
+   "zh": "随身马笛",
+   "author": "Pathoschild",
+   "ver": "1.3.6",
+   "desc": "Summon your horse anywhere at the press of a button.",
+   "file": "pathoschild-horsefluteanywhere.zip",
+   "size": 99857
+  },
+  {
+   "uniqueId": "Goldenrevolver.HorseOverhaul",
+   "en": "Horse Overhaul",
+   "zh": "马匹改造",
+   "author": "Goldenrevolver",
+   "ver": "1.5.9",
+   "desc": "Thin horse with saddle bags. Give your horse pets, food and water for friendship and increased speed.",
+   "file": "goldenrevolver-horseoverhaul.zip",
+   "size": 437414
+  },
+  {
+   "uniqueId": "spacechase0.JsonAssets",
+   "en": "Json Assets",
+   "zh": "JSON 资产",
+   "author": "kittycatcasey",
+   "ver": "1.11.11",
+   "desc": "Lets content packs add custom content to the game.",
+   "file": "spacechase0-jsonassets.zip",
+   "size": 169244
+  },
+  {
+   "uniqueId": "Pathoschild.LookupAnything",
+   "en": "Lookup Anything",
+   "zh": "查找任何内容",
+   "author": "Pathoschild",
+   "ver": "1.55.0",
+   "desc": "View metadata about anything by pressing a button.",
+   "file": "pathoschild-lookupanything.zip",
+   "size": 631425
+  },
+  {
+   "uniqueId": "blueberry.LoveOfCooking",
+   "en": "Love of Cooking",
+   "zh": "烹饪之爱",
+   "author": "blueberry",
+   "ver": "2.0.9",
+   "desc": "Cooking overhaul suite. Enter a world of food!",
+   "file": "blueberry-loveofcooking.zip",
+   "size": 415195
+  },
+  {
    "uniqueId": "mushymato.MMAP",
    "en": "Misc Map Actions & Properties",
    "zh": "地图动作属性",
@@ -73,6 +453,36 @@
    "size": 193349
   },
   {
+   "uniqueId": "DIGUS.MailFrameworkMod",
+   "en": "Mail Framework Mod",
+   "zh": "邮件框架",
+   "author": "Digus",
+   "ver": "1.20.0",
+   "desc": "Utility classes and content packs to add mail into the game.",
+   "file": "digus-mailframeworkmod.zip",
+   "size": 50662
+  },
+  {
+   "uniqueId": "Cherry.MultiYieldCrops",
+   "en": "Multi Yield Crops",
+   "zh": "多收作物",
+   "author": "Cherry",
+   "ver": "1.0.6",
+   "desc": "Allows crops to yield more than one kind of item",
+   "file": "cherry-multiyieldcrops.zip",
+   "size": 25162
+  },
+  {
+   "uniqueId": "Arknir.Lucikiel",
+   "en": "Lucikiel - New Custom NPC Mod (King's Raid)",
+   "zh": "",
+   "author": "Arknir27",
+   "ver": "2.1.0",
+   "desc": "Adds Lucikiel to Stardew Valley",
+   "file": "arknir-lucikiel.zip",
+   "size": 3711497
+  },
+  {
    "uniqueId": "Bouhm.NPCMapLocations",
    "en": "NPC Map Locations",
    "zh": "NPC 地图位置",
@@ -81,6 +491,66 @@
    "desc": "Shows NPCs and farmers on a modified map page for accurate tracking.",
    "file": "bouhm-npcmaplocations.zip",
    "size": 122700
+  },
+  {
+   "uniqueId": "SpaceBaby.PartOfTheCommunity",
+   "en": "Part of the Community",
+   "zh": "社区一员",
+   "author": "Brandon Marquis Markail Green (Space Baby), 1.6 update by Nikki864, GMCM menu by MickeyMik (Eela11)",
+   "ver": "2.0.1",
+   "desc": "Lets you increase friendship by supporting the community. Now includes a framework for modders to add custom characters and relationships.",
+   "file": "spacebaby-partofthecommunity.zip",
+   "size": 51231
+  },
+  {
+   "uniqueId": "stokastic.PrismaticTools",
+   "en": "PrismaticTools",
+   "zh": "星之碎片工具",
+   "author": "stokastic",
+   "ver": "1.7.0",
+   "desc": "Adds prismatic tools and sprinklers to the game.",
+   "file": "stokastic-prismatictools.zip",
+   "size": 124782
+  },
+  {
+   "uniqueId": "Digus.ProducerFrameworkMod",
+   "en": "Producer Framework Mod",
+   "zh": "生产框架",
+   "author": "Digus",
+   "ver": "1.9.8",
+   "desc": "Framework to add rules to produce objects or change the vanilla rules.",
+   "file": "digus-producerframeworkmod.zip",
+   "size": 69223
+  },
+  {
+   "uniqueId": "cat.sprinklerrange",
+   "en": "Range Display",
+   "zh": "范围显示",
+   "author": "Cat",
+   "ver": "3.0.0",
+   "desc": "Press a key to view the range of sprinklers, scarecrows, bee houses, and junimo huts.",
+   "file": "cat-sprinklerrange.zip",
+   "size": 23636
+  },
+  {
+   "uniqueId": "Cherry.ShopTileFramework",
+   "en": "Shop Tile Framework",
+   "zh": "商店框架",
+   "author": "Cherry",
+   "ver": "1.0.13",
+   "desc": "Define new shops as custom tile properties",
+   "file": "cherry-shoptileframework.zip",
+   "size": 48245
+  },
+  {
+   "uniqueId": "Pathoschild.SkipIntro",
+   "en": "Skip Intro",
+   "zh": "跳过开场动画",
+   "author": "Pathoschild",
+   "ver": "1.9.25",
+   "desc": "Skips the game's loading intro.",
+   "file": "pathoschild-skipintro.zip",
+   "size": 93568
   },
   {
    "uniqueId": "SkullCavernElevator",
@@ -103,6 +573,76 @@
    "size": 366701
   },
   {
+   "uniqueId": "pepoluan.StackSplitRedux",
+   "en": "Stack Split Redux",
+   "zh": "堆叠拆分",
+   "author": "pepoluan, tstaples (original idea)",
+   "ver": "0.14.3",
+   "desc": "Custom stack splitting, originally known as StackSplitX",
+   "file": "pepoluan-stacksplitredux.zip",
+   "size": 67902
+  },
+  {
+   "uniqueId": "Lita.StarblueValley",
+   "en": "Starblue Valley",
+   "zh": "星蓝山谷",
+   "author": "Lita",
+   "ver": "1.5.1",
+   "desc": "",
+   "file": "lita-starbluevalley.zip",
+   "size": 7911745
+  },
+  {
+   "uniqueId": "Cherry.StardewAquarium",
+   "en": "Stardew Aquarium Code",
+   "zh": "",
+   "author": "Cherry",
+   "ver": "2.3.0",
+   "desc": "The coding portion of the Stardew Aquarium mod",
+   "file": "cherry-stardewaquarium.zip",
+   "size": 5617296
+  },
+  {
+   "uniqueId": "bcmpinc.StardewHack",
+   "en": "StardewHack",
+   "zh": "星露谷黑客库",
+   "author": "bcmpinc",
+   "ver": "7.4",
+   "desc": "Transpilation library used by my other mods. Doesn't do much on its own.",
+   "file": "bcmpinc-stardewhack.zip",
+   "size": 33427
+  },
+  {
+   "uniqueId": "mondopandora.stardewnotification",
+   "en": "StardewNotification",
+   "zh": "",
+   "author": "monopandora, maintained by Sakorona",
+   "ver": "1.8.19",
+   "desc": "Daily Notification mod for Stardew Valley",
+   "file": "mondopandora-stardewnotification.zip",
+   "size": 52531
+  },
+  {
+   "uniqueId": "DaisyNiko.SVR2",
+   "en": "Stardew Valley Reimagined 2",
+   "zh": "",
+   "author": "DaisyNiko",
+   "ver": "1.0.7",
+   "desc": "",
+   "file": "daisyniko-svr2.zip",
+   "size": 392605
+  },
+  {
+   "uniqueId": "SunberryTeam.SBVSMAPI",
+   "en": "[C#] Sunberry Village",
+   "zh": "太阳莓村",
+   "author": "Sunberry Team",
+   "ver": "1.1.2",
+   "desc": "Code portion of Sunberry Village.",
+   "file": "sunberryteam-sbvsmapi.zip",
+   "size": 14462351
+  },
+  {
    "uniqueId": "cantorsdust.TimeSpeed",
    "en": "TimeSpeed",
    "zh": "时间速度",
@@ -113,6 +653,16 @@
    "size": 58881
   },
   {
+   "uniqueId": "aedenthorn.ToolSmartSwitch",
+   "en": "Tool Smart Switch",
+   "zh": "工具智能切换",
+   "author": "aedenthorn",
+   "ver": "0.8.4",
+   "desc": "Tool Smart Switch.",
+   "file": "aedenthorn-toolsmartswitch.zip",
+   "size": 24395
+  },
+  {
    "uniqueId": "Pathoschild.TractorMod",
    "en": "Tractor Mod",
    "zh": "拖拉机改装",
@@ -121,6 +671,56 @@
    "desc": "Lets you buy a tractor to more efficiently work with crops, clear twigs and rocks, etc.",
    "file": "pathoschild-tractormod.zip",
    "size": 368856
+  },
+  {
+   "uniqueId": "Annosz.UiInfoSuite2",
+   "en": "UI Info Suite 2",
+   "zh": "界面信息套件",
+   "author": "Annosz",
+   "ver": "2.3.7",
+   "desc": "Adds a useful information to the user interface. Based on Cdaragorn's excellent UI Info Suite.",
+   "file": "annosz-uiinfosuite2.zip",
+   "size": 604187
+  },
+  {
+   "uniqueId": "lumisteria.visitmountvapius.code",
+   "en": "VisitMountVapius",
+   "zh": "瓦皮乌斯山",
+   "author": "",
+   "ver": "2.0.0",
+   "desc": "C# for Visit Mount Vapius",
+   "file": "lumisteria-visitmountvapius-code.zip",
+   "size": 11790891
+  },
+  {
+   "uniqueId": "DaLion.Professions",
+   "en": "Walk Of Life - Rebirth",
+   "zh": "",
+   "author": "DaLion",
+   "ver": "1.5.0-Beta5",
+   "desc": "An extensive overhaul of Stardew Valley profession trees and skill progression systems.",
+   "file": "dalion-professions.zip",
+   "size": 15277835
+  },
+  {
+   "uniqueId": "bcmpinc.WearMoreRings",
+   "en": "Wear More Rings",
+   "zh": "多戒指",
+   "author": "bcmpinc",
+   "ver": "7.9",
+   "desc": "Adds additional ring slots to your inventory.",
+   "file": "bcmpinc-wearmorerings.zip",
+   "size": 30973
+  },
+  {
+   "uniqueId": "cat.wintergrass",
+   "en": "Winter Grass",
+   "zh": "冬季草地",
+   "author": "Cat",
+   "ver": "2.0.3",
+   "desc": "Grass will stay around in winter.",
+   "file": "cat-wintergrass.zip",
+   "size": 11243
   }
  ]
 }
