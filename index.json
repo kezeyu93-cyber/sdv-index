@@ -5,7 +5,7 @@
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
    "en": "Alecto the Witch",
-   "zh": "女巫艾lecto",
+   "zh": "女巫艾lecto-已汉化",
    "author": "ZoeDoll",
    "ver": "1.2.0",
    "desc": "新增一位可攻略的自定义 NPC：女巫艾lecto。",
@@ -27,7 +27,7 @@
   {
    "uniqueId": "spacechase0.AnimalSocialMenu",
    "en": "Animal Social Menu",
-   "zh": "动物社交菜单",
+   "zh": "动物社交菜单-已汉化",
    "author": "spacechase0",
    "ver": "1.1.2",
    "desc": "给农场动物加一个社交菜单，可以查看它们的亲密度。",
@@ -38,7 +38,7 @@
   {
    "uniqueId": "Pathoschild.Automate",
    "en": "Automate",
-   "zh": "自动化",
+   "zh": "自动化-已汉化",
    "author": "Pathoschild",
    "ver": "2.6.1",
    "desc": "把箱子放在机器旁，自动生产、自动收取，果树和蜂箱也能接。",
@@ -71,7 +71,7 @@
   {
    "uniqueId": "leclair.bettercrafting",
    "en": "Better Crafting",
-   "zh": "更好的制作",
+   "zh": "更好的制作-已汉化",
    "author": "Khloe Leclair",
    "ver": "2.18.0",
    "desc": "重做原版制作菜单，支持分类、搜索、批量制作。",
@@ -82,7 +82,7 @@
   {
    "uniqueId": "hawkfalcon.BetterJunimos",
    "en": "Better Junimos",
-   "zh": "更好的祝尼魔",
+   "zh": "更好的祝尼魔-已汉化",
    "author": "hawkfalcon and ceruleandeep",
    "ver": "3.2.0",
    "desc": "祝尼魔小屋会自动播种、浇水、施肥、收获。",
@@ -93,7 +93,7 @@
   {
    "uniqueId": "BetterRanching",
    "en": "Better Ranching",
-   "zh": "更好的养殖",
+   "zh": "更好的养殖-已汉化",
    "author": "Urbanyeti",
    "ver": "2.0.5",
    "desc": "挤奶剪毛失败会自动重试，并提示动物何时可以收。",
@@ -115,7 +115,7 @@
   {
    "uniqueId": "CJBok.CheatsMenu",
    "en": "CJB Cheats Menu",
-   "zh": "CJB 作弊菜单",
+   "zh": "CJB 作弊菜单-已汉化",
    "author": "CJBok and Pathoschild",
    "ver": "1.42.0",
    "desc": "游戏内作弊菜单：时间、天气、金钱、传送等。",
@@ -126,7 +126,7 @@
   {
    "uniqueId": "CJBok.ItemSpawner",
    "en": "CJB Item Spawner",
-   "zh": "物品生成器",
+   "zh": "物品生成器-已汉化",
    "author": "CJBok and Pathoschild",
    "ver": "2.5.6",
    "desc": "游戏内直接刷出任意物品，测试和偷懒用。",
@@ -137,7 +137,7 @@
   {
    "uniqueId": "CJBok.ShowItemSellPrice",
    "en": "CJB Show Item Sell Price",
-   "zh": "价格显示",
+   "zh": "价格显示-已汉化",
    "author": "CJBok and Pathoschild",
    "ver": "1.11.0",
    "desc": "在背包里显示每个物品的售价。",
@@ -181,7 +181,7 @@
   {
    "uniqueId": "Pathoschild.ChestsAnywhere",
    "en": "Chests Anywhere",
-   "zh": "随处箱子",
+   "zh": "随处箱子-已汉化",
    "author": "Pathoschild",
    "ver": "1.30.1",
    "desc": "随时随地打开并整理所有箱子。",
@@ -225,7 +225,7 @@
   {
    "uniqueId": "gaussfire.ConvenientInventory",
    "en": "Convenient Inventory",
-   "zh": "便利背包",
+   "zh": "便利背包-已汉化",
    "author": "gaussfire",
    "ver": "1.6.1",
    "desc": "背包快捷整理、快速堆叠等便利功能。",
@@ -269,7 +269,7 @@
   {
    "uniqueId": "CompSciLauren.DailyScreenshot",
    "en": "Daily Screenshot",
-   "zh": "每日截图",
+   "zh": "每日截图-已汉化",
    "author": "CompSciLauren",
    "ver": "3.4.1",
    "desc": "每天自动给整个农场截一张图。",
@@ -302,7 +302,7 @@
   {
    "uniqueId": "maxmakesmods.deepwoodsmod",
    "en": "Deep Woods",
-   "zh": "深林",
+   "zh": "深林-已汉化",
    "author": "Max Makes Mods",
    "ver": "4.3.1-beta",
    "desc": "在秘密森林后面加一片可探索的深林，越走越深。",
@@ -324,7 +324,7 @@
   {
    "uniqueId": "Esca.EMP",
    "en": "Esca's Modding Plugins (EMP)",
-   "zh": "Esca 模组插件",
+   "zh": "Esca 模组插件-已汉化",
    "author": "Esca",
    "ver": "1.7.2",
    "desc": "给其他模组提供额外功能的框架。",
@@ -335,7 +335,7 @@
   {
    "uniqueId": "spacechase0.ExperienceBars",
    "en": "Experience Bars",
-   "zh": "经验条",
+   "zh": "经验条-已汉化",
    "author": "kittycatcasey",
    "ver": "1.4.6",
    "desc": "在左上角显示技能经验条。",
@@ -346,7 +346,7 @@
   {
    "uniqueId": "Esca.FarmTypeManager",
    "en": "Farm Type Manager (FTM)",
-   "zh": "农场类型管理器",
+   "zh": "农场类型管理器-已汉化",
    "author": "Esca",
    "ver": "1.26.1",
    "desc": "按农场类型自定义刷怪、采集物、矿石与大型物件。",
@@ -368,7 +368,7 @@
   {
    "uniqueId": "Pathoschild.FastAnimations",
    "en": "Fast Animations",
-   "zh": "加速动画",
+   "zh": "加速动画-已汉化",
    "author": "Pathoschild",
    "ver": "1.16.2",
    "desc": "加快游戏里的各种动画（可配置）。",
@@ -379,7 +379,7 @@
   {
    "uniqueId": "barteke22.FishingInfoOverlays",
    "en": "Fishing Info Overlays",
-   "zh": "钓鱼信息",
+   "zh": "钓鱼信息-已汉化",
    "author": "barteke22",
    "ver": "1.3.2",
    "desc": "手持鱼竿时显示当前水域的鱼种与难度。",
@@ -401,7 +401,7 @@
   {
    "uniqueId": "spacechase0.GenericModConfigMenu",
    "en": "Generic Mod Config Menu",
-   "zh": "通用模组设置菜单",
+   "zh": "通用模组设置菜单-已汉化",
    "author": "kittycatcasey",
    "ver": "1.16.0",
    "desc": "在游戏内提供统一的模组设置界面。",
@@ -412,7 +412,7 @@
   {
    "uniqueId": "JoXW.GiftTasteHelper",
    "en": "Gift Taste Helper Continued x2",
-   "zh": "礼物喜好助手",
+   "zh": "礼物喜好助手-已汉化",
    "author": "JoXW, Isi0, tstaples (aka catman)",
    "ver": "1.2.5",
    "desc": "鼠标悬停提示 NPC 喜欢的礼物。",
@@ -423,7 +423,7 @@
   {
    "uniqueId": "bcmpinc.HarvestWithScythe",
    "en": "Harvest With Scythe",
-   "zh": "镰刀收割",
+   "zh": "镰刀收割-已汉化",
    "author": "bcmpinc",
    "ver": "7.5",
    "desc": "用镰刀收割所有作物和采集物。",
@@ -434,7 +434,7 @@
   {
    "uniqueId": "Pathoschild.HorseFluteAnywhere",
    "en": "Horse Flute Anywhere",
-   "zh": "随处唤马",
+   "zh": "随处唤马-已汉化",
    "author": "Pathoschild",
    "ver": "1.3.6",
    "desc": "按一下就把马召唤到身边。",
@@ -445,7 +445,7 @@
   {
    "uniqueId": "Goldenrevolver.HorseOverhaul",
    "en": "Horse Overhaul",
-   "zh": "马匹改造",
+   "zh": "马匹改造-已汉化",
    "author": "Goldenrevolver",
    "ver": "1.5.9",
    "desc": "瘦马+马鞍袋，可以喂食、抚摸，提升互动。",
@@ -467,7 +467,7 @@
   {
    "uniqueId": "Pathoschild.LookupAnything",
    "en": "Lookup Anything",
-   "zh": "查找任何内容",
+   "zh": "查找任何内容-已汉化",
    "author": "Pathoschild",
    "ver": "1.55.0",
    "desc": "按一个键查看任何东西的详细信息。",
@@ -533,7 +533,7 @@
   {
    "uniqueId": "Bouhm.NPCMapLocations",
    "en": "NPC Map Locations",
-   "zh": "NPC 地图位置",
+   "zh": "NPC 地图位置-已汉化",
    "author": "Bouhm",
    "ver": "3.5.2",
    "desc": "在地图上实时显示 NPC 和玩家位置。",
@@ -555,7 +555,7 @@
   {
    "uniqueId": "stokastic.PrismaticTools",
    "en": "PrismaticTools",
-   "zh": "五彩工具",
+   "zh": "五彩工具-已汉化",
    "author": "stokastic",
    "ver": "1.7.0",
    "desc": "新增五彩碎片材质工具与洒水器。",
@@ -566,7 +566,7 @@
   {
    "uniqueId": "Digus.ProducerFrameworkMod",
    "en": "Producer Framework Mod",
-   "zh": "生产框架",
+   "zh": "生产框架-已汉化",
    "author": "Digus",
    "ver": "1.9.8",
    "desc": "给机器添加自定义产出规则。",
@@ -599,7 +599,7 @@
   {
    "uniqueId": "Pathoschild.SkipIntro",
    "en": "Skip Intro",
-   "zh": "跳过开场",
+   "zh": "跳过开场-已汉化",
    "author": "Pathoschild",
    "ver": "1.9.25",
    "desc": "跳过游戏启动动画。",
@@ -654,7 +654,7 @@
   {
    "uniqueId": "Cherry.StardewAquarium",
    "en": "Stardew Aquarium Code",
-   "zh": "星露谷水族馆·代码",
+   "zh": "星露谷水族馆·代码-已汉化",
    "author": "Cherry",
    "ver": "2.3.0",
    "desc": "水族馆模组的代码部分。",
@@ -709,7 +709,7 @@
   {
    "uniqueId": "cantorsdust.TimeSpeed",
    "en": "TimeSpeed",
-   "zh": "时间速度",
+   "zh": "时间速度-已汉化",
    "author": "cantorsdust and Pathoschild",
    "ver": "2.8.1",
    "desc": "控制游戏时间流速：加速、减速或暂停。",
@@ -731,7 +731,7 @@
   {
    "uniqueId": "Pathoschild.TractorMod",
    "en": "Tractor Mod",
-   "zh": "拖拉机改装",
+   "zh": "拖拉机改装-已汉化",
    "author": "Pathoschild",
    "ver": "4.24.4",
    "desc": "买一台拖拉机，耕地、清石头树枝效率翻倍。",
@@ -742,7 +742,7 @@
   {
    "uniqueId": "Annosz.UiInfoSuite2",
    "en": "UI Info Suite 2",
-   "zh": "界面信息套件",
+   "zh": "界面信息套件-已汉化",
    "author": "Annosz",
    "ver": "2.3.7",
    "desc": "界面显示大量实用信息（天气、运气、经验等）。",
@@ -764,7 +764,7 @@
   {
    "uniqueId": "DaLion.Professions",
    "en": "Walk Of Life - Rebirth",
-   "zh": "生活方式·重生",
+   "zh": "生活方式·重生-已汉化",
    "author": "DaLion",
    "ver": "1.5.0-Beta5",
    "desc": "大幅重做职业树与技能成长。",
@@ -775,7 +775,7 @@
   {
    "uniqueId": "bcmpinc.WearMoreRings",
    "en": "Wear More Rings",
-   "zh": "多戒指",
+   "zh": "多戒指-已汉化",
    "author": "bcmpinc",
    "ver": "7.9",
    "desc": "增加戒指栏位，可以同时戴更多戒指。",
