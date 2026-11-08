@@ -1,0 +1,79 @@
+# 中文支持情况
+
+自带中文（31 个）：游戏语言设中文即自动显示
+
+- 女巫艾lecto（Alecto the Witch）
+- 自动化（Automate）
+- 更好的制作（Better Crafting）
+- 更好的祝尼魔（Better Junimos）
+- 更好的养殖（Better Ranching）
+- CJB 作弊菜单（CJB Cheats Menu）
+- 物品生成器（CJB Item Spawner）
+- 价格显示（CJB Show Item Sell Price）
+- 随处箱子（Chests Anywhere）
+- 便利背包（Convenient Inventory）
+- 每日截图（Daily Screenshot）
+- 深林（Deep Woods）
+- Esca 模组插件（Esca's Modding Plugins (EMP)）
+- 农场类型管理器（Farm Type Manager (FTM)）
+- 加速动画（Fast Animations）
+- 通用模组设置菜单（Generic Mod Config Menu）
+- 礼物喜好助手（Gift Taste Helper Continued x2）
+- 镰刀收割（Harvest With Scythe）
+- 随处唤马（Horse Flute Anywhere）
+- 马匹改造（Horse Overhaul）
+- 查找任何内容（Lookup Anything）
+- NPC 地图位置（NPC Map Locations）
+- 五彩工具（PrismaticTools）
+- 生产框架（Producer Framework Mod）
+- 跳过开场（Skip Intro）
+- 星露谷水族馆·代码（Stardew Aquarium Code）
+- 时间速度（TimeSpeed）
+- 拖拉机改装（Tractor Mod）
+- 界面信息套件（UI Info Suite 2）
+- 生活方式·重生（Walk Of Life - Rebirth）
+- 多戒指（Wear More Rings）
+
+需要汉化包（41 个）：
+
+- ARV- 大型犬（ARV- Maximum）
+- 动物社交菜单（Animal Social Menu）
+- 自动门（AutomaticGates）
+- Elle 的畜棚动物（Elle's New Barn Animals）
+- 更大的背包（Bigger Backpack）
+- 官方风对话扩展（Canon-Friendly Dialogue Expansion）
+- 搬运箱子（Carry Chest）
+- 箱子标签（Chest Label System）
+- 社区中心（Community Center）
+- 内容补丁（Content Patcher）
+- 便利箱子（Convenient Chests）
+- 自定义家具（Custom Furniture）
+- 自定义日程键（Custom Schedule Keys）
+- 地图背景修复（DNER All in one map fix）
+- 大地色重绘（Earthy Recolour）
+- DaisyNiko 图块库（DaisyNiko's Tilesheets）
+- 动态游戏资源（Dynamic Game Assets）
+- 经验条（Experience Bars）
+- 农舍重制（FarmHouseRedone）
+- 钓鱼信息（Fishing Info Overlays）
+- 友谊永驻（Friends Forever）
+- JSON 资源（Json Assets）
+- 烹饪之爱（Love of Cooking）
+- 地图动作属性（Misc Map Actions & Properties）
+- 邮件框架（Mail Framework Mod）
+- 多产物作物（Multi Yield Crops）
+- 卢西基尔（新 NPC）（Lucikiel - New Custom NPC Mod (King's Raid)）
+- 社区一员（Part of the Community）
+- 范围显示（Range Display）
+- 商店框架（Shop Tile Framework）
+- 骷髅洞穴电梯（SkullCavernElevator）
+- 太空核心（SpaceCore）
+- 堆叠拆分（Stack Split Redux）
+- 星蓝谷（Starblue Valley）
+- 星露谷黑科技（StardewHack）
+- 星露谷通知（StardewNotification）
+- 星露谷重塑 2（Stardew Valley Reimagined 2）
+- 太阳莓村·代码（[C#] Sunberry Village）
+- 智能切换工具（Tool Smart Switch）
+- 瓦皮乌斯山（VisitMountVapius）
+- 冬季草地（Winter Grass）

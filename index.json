@@ -30,7 +30,7 @@
    "ver": "1.1.2",
    "desc": "给农场动物加一个社交菜单，可以查看它们的亲密度。",
    "file": "spacechase0-animalsocialmenu.zip",
-   "size": 77621
+   "size": 77818
   },
   {
    "uniqueId": "Pathoschild.Automate",
@@ -310,7 +310,7 @@
    "ver": "1.4.6",
    "desc": "在左上角显示技能经验条。",
    "file": "spacechase0-experiencebars.zip",
-   "size": 66906
+   "size": 67288
   },
   {
    "uniqueId": "Esca.FarmTypeManager",
