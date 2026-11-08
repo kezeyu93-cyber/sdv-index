@@ -215,13 +215,14 @@
   {
    "uniqueId": "aEnigma.ConvenientChests",
    "en": "Convenient Chests",
-   "zh": "便利箱子",
+   "zh": "便利箱子-部分汉化",
    "author": "aEnigma",
    "ver": "1.6.6",
    "desc": "可以直接用附近箱子里的材料制作，产物自动存回。",
    "file": "aenigma-convenientchests.zip",
-   "size": 65662,
-   "zhDone": false
+   "size": 65056,
+   "zhDone": false,
+   "zhPartial": true
   },
   {
    "uniqueId": "gaussfire.ConvenientInventory",
