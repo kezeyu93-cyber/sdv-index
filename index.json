@@ -1,6 +1,6 @@
 {
  "updated": 1794122000,
- "count": 78,
+ "count": 81,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -859,6 +859,39 @@
    "file": "rsv-release.zip",
    "size": 55000000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/-2.5.17.zip"
+  },
+  {
+   "uniqueId": "DTZ.DowntownZuzuBL",
+   "en": "Downtown Zuzu",
+   "zh": "市中心祖祖-大包",
+   "author": "DylanTDataSource",
+   "ver": "",
+   "desc": "大型扩展：新增「祖祖城」城区、商店与任务（111MB，走应 GitHub Release 下载）",
+   "file": "zuzu-release.zip",
+   "size": 117000000,
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-DowntownZuzu.zip"
+  },
+  {
+   "uniqueId": "atravita.EastScarp",
+   "en": "East Scarp",
+   "zh": "东斯卡普-大包",
+   "author": "LemurKat & atravita",
+   "ver": "",
+   "desc": "大型扩展：东斯卡普地图与大量 NPC、剧情（38MB，走 GitHub Release 下载）",
+   "file": "eastscarp-release.zip",
+   "size": 40780000,
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-EastScarp.zip"
+  },
+  {
+   "uniqueId": "Poltergeister.SeasonalCuteCharacters",
+   "en": "Seasonal Cute Characters",
+   "zh": "季节人物-美化包",
+   "author": "Poltergeister",
+   "ver": "",
+   "desc": "四季人物立绘美化，随季节更换外观（31MB，走 GitHub Release 下载）",
+   "file": "scc-release.zip",
+   "size": 33340000,
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-SeasonalCuteCharacters.zip"
   }
  ]
 }
