@@ -148,13 +148,14 @@
   {
    "uniqueId": "gizzymo.canonfriendlyexpansion",
    "en": "Canon-Friendly Dialogue Expansion",
-   "zh": "官方风对话扩展",
+   "zh": "官方风对话扩展-部分汉化",
    "author": "gizzymo (dialogue), WitchWeed (coding)",
    "ver": "3.1.2",
    "desc": "给 34 位角色新增约 4200 句不违和的日常对白。",
    "file": "gizzymo-canonfriendlyexpansion.zip",
-   "size": 419530,
-   "zhDone": false
+   "size": 416362,
+   "zhDone": false,
+   "zhPartial": true
   },
   {
    "uniqueId": "spacechase0.CarryChest",
@@ -577,13 +578,14 @@
   {
    "uniqueId": "cat.sprinklerrange",
    "en": "Range Display",
-   "zh": "范围显示",
+   "zh": "范围显示-部分汉化",
    "author": "Cat",
    "ver": "3.0.0",
    "desc": "按键显示洒水器、稻草人、蜂箱等的覆盖范围。",
    "file": "cat-sprinklerrange.zip",
-   "size": 23636,
-   "zhDone": false
+   "size": 24020,
+   "zhDone": false,
+   "zhPartial": true
   },
   {
    "uniqueId": "Cherry.ShopTileFramework",
