@@ -1,6 +1,6 @@
 {
  "updated": 1794122000,
- "count": 72,
+ "count": 76,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -797,6 +797,46 @@
    "file": "cat-wintergrass.zip",
    "size": 11243,
    "zhDone": false
+  },
+  {
+   "uniqueId": "Pathoschild.CentralStation",
+   "en": "Central Station",
+   "zh": "中央车站",
+   "author": "Pathoschild",
+   "ver": "1.7.0",
+   "desc": "跨模组交通枢纽，坐船/巴士/火车直达其它模组的地点。",
+   "file": "pathoschild-centralstation.zip",
+   "size": 297020
+  },
+  {
+   "uniqueId": "PeacefulEnd.CustomCompanions",
+   "en": "Custom Companions",
+   "zh": "自定义伙伴",
+   "author": "PeacefulEnd",
+   "ver": "5.1.0",
+   "desc": "让模组添加跟随宠物/伙伴的框架，ARV 等模组必需。",
+   "file": "peacefulend-customcompanions.zip",
+   "size": 79573
+  },
+  {
+   "uniqueId": "Cherry.ExpandedPreconditionsUtility",
+   "en": "Expanded Preconditions Utility",
+   "zh": "扩展前置条件工具",
+   "author": "Cherry",
+   "ver": "1.1.2",
+   "desc": "给其它模组用的条件判断库（商店、邮件、刷怪规则都依赖它）。",
+   "file": "cherry-expandedpreconditionsutility.zip",
+   "size": 23268
+  },
+  {
+   "uniqueId": "hxw.tilesheets",
+   "en": "HxW Tilesheets",
+   "zh": "HxW 图块库",
+   "author": "HimeTarts",
+   "ver": "2.0.0",
+   "desc": "水族馆、太阳莓村等地图模组共用的素材库。",
+   "file": "hxw-tilesheets.zip",
+   "size": 11988980
   }
  ]
 }
