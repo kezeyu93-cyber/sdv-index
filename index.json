@@ -1,6 +1,6 @@
 {
- "updated": 1795015171,
- "count": 102,
+ "updated": 1795019229,
+ "count": 103,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -1327,6 +1327,19 @@
    "intro": "可选材质——材质框架。给物体、建筑、动物、家具等套用可替换的外观材质，配合油漆桶/油漆刷/剪刀等工具使用。\n\n它本身只提供框架和工具，实际的材质包来自各种「Alternative Textures 内容包」。\n和「时尚感」是姊妹框架：那个管角色外观，这个管场景与物品外观。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
    "cover": "https://media.forgecdn.net/avatars/thumbnails/828/571/256/256/638216469659070216.png",
    "tag": "美化"
+  },
+  {
+   "uniqueId": "mistyspring.ItemExtensions",
+   "en": "Item Extensions",
+   "zh": "物品扩展·前置框架-已汉化",
+   "author": "mistyspring",
+   "ver": "1.16.0",
+   "desc": "给物品加扩展能力的框架：自定义矿石/杂草/可砍伐物、机器产出、动物产物、商店交易等。太阳莓村（Sunberry Village）等内容模组依赖它。作者自带中文。",
+   "tag": "前置",
+   "file": "mistyspring-itemextensions.zip",
+   "intro": "这是一个底层框架，单独装上游戏里看不出变化，但依赖它的内容包没有它会直接加载失败。\n\n它能做的事：\n· 自定义矿石、杂草、可砍伐/可敲碎物件的掉落\n· 自定义机器与动物的产出（含品质、概率）\n· 自定义商店交易与菜单动作\n· 给混合种子 / 淘金等原版行为加自定义结果\n\n配置在 config.json 里逐项开关（混合种子、淘金、菜单操作、品质自定义、商店交易）。改完建议重启游戏。\n\n装法：整个 ItemExtensions 文件夹放进 Mods，SMAPI 会自动识别。",
+   "size": 156286,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   }
  ]
 }
