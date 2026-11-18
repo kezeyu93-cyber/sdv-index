@@ -1,5 +1,5 @@
 {
- "updated": 1795011970,
+ "updated": 1795012130,
  "count": 102,
  "mods": [
   {
@@ -910,7 +910,7 @@
    "zh": "自定义农场加载器",
    "author": "DeLiXx",
    "ver": "2.2.1-android.2",
-   "desc": "Improves farm related UI, loads custom farms, manages farm specific fe",
+   "desc": "自定义农场加载器：让其它模组挂载自己的农场类型，Android 专用构建。",
    "file": "custom-farm-loader.zip",
    "size": 124425
   },
@@ -920,7 +920,7 @@
    "zh": "待办清单-已汉化",
    "author": "Jamie Taylor",
    "ver": "2.6.3",
-   "desc": "An in-game To-do list",
+   "desc": "待办清单：在游戏里记下还没做完的事，随时查看与勾掉。",
    "file": "to-dew.zip",
    "size": 88312
   },
@@ -930,7 +930,7 @@
    "zh": "畜棚门自动开关",
    "author": "Aaron Taggart",
    "ver": "4.2.0",
-   "desc": "Open and close the doors automatically for your animals.",
+   "desc": "畜棚门自动开关：早上去自动开门放动物出去，晚上自动关回来。",
    "file": "autoanimaldoors.zip",
    "size": 25156
   },
@@ -940,7 +940,7 @@
    "zh": "更精美的工匠物品图标",
    "author": "Cat",
    "ver": "1.5.0",
-   "desc": "Makes jelly, pickles, wine, juice, and honey icons be based on the fru",
+   "desc": "更精美的工匠物品图标：果酱、果酒、腌菜等图标直接显示原料，一眼分清。",
    "file": "better-artisan-good-icons.zip",
    "size": 88524
   },
@@ -950,7 +950,7 @@
    "zh": "自定义家务",
    "author": "furyx639",
    "ver": "1.2.1",
-   "desc": "Adds customizable chores to the game.",
+   "desc": "自定义家务：给配偶安排自定义的日常家务，可逐项配置。",
    "file": "custom-chores.zip",
    "size": 43362
   },
@@ -960,7 +960,7 @@
    "zh": "额外地图图层",
    "author": "aedenthorn",
    "ver": "0.3.10",
-   "desc": "Draws additional layers from map files.",
+   "desc": "额外地图图层：为地图增加叠加图层，供其它模组绘制内容。",
    "file": "extra-map-layers.zip",
    "size": 9548
   },
@@ -970,7 +970,7 @@
    "zh": "果树调整",
    "author": "aedenthorn",
    "ver": "0.5.2",
-   "desc": "Fruit Tree Tweaks.",
+   "desc": "果树调整：可配置果树的生长速度、结果数量与产出规则。",
    "file": "fruit-tree-tweaks.zip",
    "size": 28198
   },
@@ -980,7 +980,7 @@
    "zh": "贴心的配偶",
    "author": "furyx639",
    "ver": "1.2.1",
-   "desc": "Spouses perform one or more customizable chores every morning.",
+   "desc": "贴心的配偶：让配偶帮你浇水、喂动物、修栅栏等，做哪些可自己选。",
    "file": "helpful-spouses.zip",
    "size": 15463
   },
@@ -990,7 +990,7 @@
    "zh": "洒水器扩展",
    "author": "aedenthorn",
    "ver": "0.1.4",
-   "desc": "Sprinkler Mod.",
+   "desc": "洒水器扩展：可调整洒水器范围与浇水方式。",
    "file": "sprinkler-mod.zip",
    "size": 14942
   },
@@ -1000,7 +1000,7 @@
    "zh": "恋爱节-已汉化",
    "author": "AvalonMFX",
    "ver": "1.4.3",
-   "desc": "Adds a Love Festival to the game",
+   "desc": "恋爱节：新增节日玩法，给村民写情书、收情书，还能约人出去约会。",
    "file": "love-festival.zip",
    "size": 135125
   },
@@ -1010,7 +1010,7 @@
    "zh": "移动图鉴商店-已汉化",
    "author": "aedenthorn",
    "ver": "1.1.0",
-   "desc": "Online shopping for your mobile phone.",
+   "desc": "移动图鉴商店：把各商店的图鉴做成随身道具，随时下单购买。",
    "file": "mobile-catalogues.zip",
    "size": 41336
   },
@@ -1020,7 +1020,7 @@
    "zh": "UCR 核心库-已汉化",
    "author": "MissCoriel",
    "ver": "2.1.7",
-   "desc": "Primary Core for use in Unique Courtship response.",
+   "desc": "UCR 核心库：Unique Courtship Response 的共用前置，供依赖它的模组调用。",
    "file": "miss-coriels-unique-courtship-response-core.zip",
    "size": 31134
   },
@@ -1030,7 +1030,7 @@
    "zh": "随处存档",
    "author": "Open Source",
    "ver": "3.5.0",
-   "desc": "This mod allows you to save your game at any time, anywhere.",
+   "desc": "随处存档：在任意地点直接存档，不用跑回家睡觉。",
    "file": "save-anywhere.zip",
    "size": 32351
   },
@@ -1040,7 +1040,7 @@
    "zh": "坚固地基（建筑框架）",
    "author": "PeacefulEnd",
    "ver": "3.0.0",
-   "desc": "Custom buildings framework for Stardew Valley.",
+   "desc": "坚固地基（建筑框架）：让模组添加带地基、可多层叠加的自定义建筑。",
    "file": "solid-foundations.zip",
    "size": 86454
   },
@@ -1050,7 +1050,7 @@
    "zh": "任务框架-已汉化",
    "author": "PurrplingCat",
    "ver": "1.4.2",
-   "desc": "Add, edit and manage your own quests and create new quest types.",
+   "desc": "任务框架：用 JSON 给游戏添加自定义任务与委托，模组作者的前置。",
    "file": "quest-framework.zip",
    "size": 256884
   },
@@ -1060,7 +1060,7 @@
    "zh": "时尚感（美化框架）-已汉化",
    "author": "PeacefulEnd",
    "ver": "7.5.0",
-   "desc": "Framework which adds hair animation and more into Stardew Valley.",
+   "desc": "时尚感（美化框架）：给角色加可换的发型、帽子、衣服、配饰等外观。",
    "file": "fashion-sense.zip",
    "size": 318146
   },
@@ -1070,7 +1070,7 @@
    "zh": "NPC 冒险-已汉化",
    "author": "PurrplingCat",
    "ver": "1.0.2",
-   "desc": "It's time to adventure! Go to an adventure with Pelican Town's village",
+   "desc": "NPC 冒险：邀请村民跟随你一起出门冒险、战斗、下矿。",
    "file": "npc-adventures.zip",
    "size": 418099
   },
@@ -1080,7 +1080,7 @@
    "zh": "音效调整",
    "author": "aedenthorn",
    "ver": "0.5.1",
-   "desc": "SoundTweaker.",
+   "desc": "音效调整：可修改游戏音效的音量、音高等参数。",
    "file": "sound-tweaker.zip",
    "size": 18475
   },
@@ -1090,7 +1090,7 @@
    "zh": "自由恋爱-已汉化",
    "author": "aedenthorn",
    "ver": "1.5.7",
-   "desc": "Free Love",
+   "desc": "自由恋爱：解除恋爱人数限制，可同时与多位村民交往或结婚（可配置）。",
    "file": "free-love.zip",
    "size": 69012
   },
@@ -1100,7 +1100,7 @@
    "zh": "可选材质（材质框架）-已汉化",
    "author": "PeacefulEnd",
    "ver": "8.1.1",
-   "desc": "Framework which allows the usage of different textures for placeable i",
+   "desc": "可选材质（材质框架）：给物体、建筑、动物套用可替换的外观材质。",
    "file": "alternative-textures.zip",
    "size": 160507
   }
