@@ -1,5 +1,5 @@
 {
- "updated": 1795011954,
+ "updated": 1795011970,
  "count": 102,
  "mods": [
   {
@@ -1097,7 +1097,7 @@
   {
    "uniqueId": "PeacefulEnd.AlternativeTextures",
    "en": "Alternative Textures",
-   "zh": "Alternative Textures",
+   "zh": "可选材质（材质框架）-已汉化",
    "author": "PeacefulEnd",
    "ver": "8.1.1",
    "desc": "Framework which allows the usage of different textures for placeable i",
