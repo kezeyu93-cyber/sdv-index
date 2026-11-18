@@ -12,7 +12,8 @@
    "file": "zoedoll-npcalecto.zip",
    "size": 542705,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/ZoeDoll.NPCAlecto.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/ZoeDoll.NPCAlecto.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Himetarts.ARVCC",
@@ -24,7 +25,8 @@
    "file": "himetarts-arvcc.zip",
    "size": 12827270,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Himetarts.ARVCC.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Himetarts.ARVCC.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "spacechase0.AnimalSocialMenu",
@@ -36,7 +38,8 @@
    "file": "spacechase0-animalsocialmenu.zip",
    "size": 77818,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.AnimalSocialMenu.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.AnimalSocialMenu.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Pathoschild.Automate",
@@ -48,7 +51,8 @@
    "file": "pathoschild-automate.zip",
    "size": 224321,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/566/256/256/638470510120056919.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/566/256/256/638470510120056919.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "Rakiin.AutomaticGates",
@@ -60,7 +64,8 @@
    "file": "rakiin-automaticgates.zip",
    "size": 21929,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rakiin.AutomaticGates.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rakiin.AutomaticGates.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Elle.NewBarnAnimals",
@@ -72,7 +77,8 @@
    "file": "elle-newbarnanimals.zip",
    "size": 1425932,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Elle.NewBarnAnimals.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Elle.NewBarnAnimals.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "leclair.bettercrafting",
@@ -84,7 +90,8 @@
    "file": "leclair-bettercrafting.zip",
    "size": 531389,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/leclair.bettercrafting.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/leclair.bettercrafting.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "hawkfalcon.BetterJunimos",
@@ -96,7 +103,8 @@
    "file": "hawkfalcon-betterjunimos.zip",
    "size": 109567,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hawkfalcon.BetterJunimos.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hawkfalcon.BetterJunimos.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "BetterRanching",
@@ -108,7 +116,8 @@
    "file": "betterranching.zip",
    "size": 24863,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/BetterRanching.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/BetterRanching.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "spacechase0.BiggerBackpack",
@@ -120,7 +129,8 @@
    "file": "spacechase0-biggerbackpack.zip",
    "size": 43439,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/919/256/256/638210304218130068.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/919/256/256/638210304218130068.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "CJBok.CheatsMenu",
@@ -132,7 +142,8 @@
    "file": "cjbok-cheatsmenu.zip",
    "size": 209819,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/900/256/256/638482484255381467.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/900/256/256/638482484255381467.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "CJBok.ItemSpawner",
@@ -144,7 +155,8 @@
    "file": "cjbok-itemspawner.zip",
    "size": 84124,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/897/256/256/638482480763852569.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/897/256/256/638482480763852569.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "CJBok.ShowItemSellPrice",
@@ -156,7 +168,8 @@
    "file": "cjbok-showitemsellprice.zip",
    "size": 43816,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CJBok.ShowItemSellPrice.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CJBok.ShowItemSellPrice.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "gizzymo.canonfriendlyexpansion",
@@ -169,7 +182,8 @@
    "size": 416362,
    "zhDone": false,
    "zhPartial": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gizzymo.canonfriendlyexpansion.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gizzymo.canonfriendlyexpansion.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "spacechase0.CarryChest",
@@ -181,7 +195,8 @@
    "file": "spacechase0-carrychest.zip",
    "size": 73536,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/926/256/256/638210304728160081.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/926/256/256/638210304728160081.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "SPDChestLabel",
@@ -193,7 +208,8 @@
    "file": "spdchestlabel.zip",
    "size": 14186,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SPDChestLabel.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SPDChestLabel.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Pathoschild.ChestsAnywhere",
@@ -205,7 +221,8 @@
    "file": "pathoschild-chestsanywhere.zip",
    "size": 190526,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/896/256/256/638482479274518159.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/896/256/256/638482479274518159.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "LemurKat.CommunityCenter.CP",
@@ -217,7 +234,8 @@
    "file": "lemurkat-communitycenter-cp.zip",
    "size": 140271,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/LemurKat.CommunityCenter.CP.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/LemurKat.CommunityCenter.CP.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "Pathoschild.ContentPatcher",
@@ -229,7 +247,8 @@
    "file": "pathoschild-contentpatcher.zip",
    "size": 389967,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/182/370/256/256/636807483214462878.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/182/370/256/256/636807483214462878.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "aEnigma.ConvenientChests",
@@ -242,7 +261,8 @@
    "size": 65056,
    "zhDone": false,
    "zhPartial": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aEnigma.ConvenientChests.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aEnigma.ConvenientChests.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "gaussfire.ConvenientInventory",
@@ -254,7 +274,8 @@
    "file": "gaussfire-convenientinventory.zip",
    "size": 121063,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gaussfire.ConvenientInventory.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gaussfire.ConvenientInventory.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Platonymous.CustomFurniture",
@@ -266,7 +287,8 @@
    "file": "platonymous-customfurniture.zip",
    "size": 45604,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/835/998/256/256/638228019829593815.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/835/998/256/256/638228019829593815.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "Spiderbuttons.CustomScheduleKeys",
@@ -278,7 +300,8 @@
    "file": "spiderbuttons-customschedulekeys.zip",
    "size": 17781,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Spiderbuttons.CustomScheduleKeys.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Spiderbuttons.CustomScheduleKeys.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "DNER.AIOmapfix",
@@ -290,7 +313,8 @@
    "file": "dner-aiomapfix.zip",
    "size": 282446,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DNER.AIOmapfix.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DNER.AIOmapfix.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "CompSciLauren.DailyScreenshot",
@@ -302,7 +326,8 @@
    "file": "compscilauren-dailyscreenshot.zip",
    "size": 73683,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CompSciLauren.DailyScreenshot.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CompSciLauren.DailyScreenshot.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "DaisyNiko.EarthyRecolour",
@@ -314,7 +339,8 @@
    "file": "daisyniko-earthyrecolour.zip",
    "size": 8353072,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.EarthyRecolour.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.EarthyRecolour.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "DaisyNiko.Tilesheets",
@@ -326,7 +352,8 @@
    "file": "daisyniko-tilesheets.zip",
    "size": 5549952,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.Tilesheets.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.Tilesheets.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "maxmakesmods.deepwoodsmod",
@@ -338,7 +365,8 @@
    "file": "maxmakesmods-deepwoodsmod.zip",
    "size": 661475,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/maxmakesmods.deepwoodsmod.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/maxmakesmods.deepwoodsmod.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "spacechase0.DynamicGameAssets",
@@ -350,7 +378,8 @@
    "file": "spacechase0-dynamicgameassets.zip",
    "size": 335564,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/888/256/256/638210289889110318.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/888/256/256/638210289889110318.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "Esca.EMP",
@@ -362,7 +391,8 @@
    "file": "esca-emp.zip",
    "size": 56668,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.EMP.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.EMP.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "spacechase0.ExperienceBars",
@@ -374,7 +404,8 @@
    "file": "spacechase0-experiencebars.zip",
    "size": 67288,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.ExperienceBars.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.ExperienceBars.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Esca.FarmTypeManager",
@@ -386,7 +417,8 @@
    "file": "esca-farmtypemanager.zip",
    "size": 133975,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.FarmTypeManager.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.FarmTypeManager.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "mabelsyrup.farmhouse",
@@ -398,7 +430,8 @@
    "file": "mabelsyrup-farmhouse.zip",
    "size": 135418,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mabelsyrup.farmhouse.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mabelsyrup.farmhouse.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "Pathoschild.FastAnimations",
@@ -410,7 +443,8 @@
    "file": "pathoschild-fastanimations.zip",
    "size": 158824,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.FastAnimations.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.FastAnimations.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "barteke22.FishingInfoOverlays",
@@ -422,7 +456,8 @@
    "file": "barteke22-fishinginfooverlays.zip",
    "size": 70499,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/barteke22.FishingInfoOverlays.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/barteke22.FishingInfoOverlays.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "IsaacS.FriendsForever",
@@ -434,7 +469,8 @@
    "file": "isaacs-friendsforever.zip",
    "size": 5121,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/IsaacS.FriendsForever.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/IsaacS.FriendsForever.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "spacechase0.GenericModConfigMenu",
@@ -446,7 +482,8 @@
    "file": "spacechase0-genericmodconfigmenu.zip",
    "size": 108656,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/209/256/256/638209053331771010.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/209/256/256/638209053331771010.png",
+   "tag": "常用"
   },
   {
    "uniqueId": "JoXW.GiftTasteHelper",
@@ -458,7 +495,8 @@
    "file": "joxw-gifttastehelper.zip",
    "size": 53899,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/JoXW.GiftTasteHelper.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/JoXW.GiftTasteHelper.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "bcmpinc.HarvestWithScythe",
@@ -470,7 +508,8 @@
    "file": "bcmpinc-harvestwithscythe.zip",
    "size": 25324,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.HarvestWithScythe.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.HarvestWithScythe.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Pathoschild.HorseFluteAnywhere",
@@ -482,7 +521,8 @@
    "file": "pathoschild-horsefluteanywhere.zip",
    "size": 99857,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.HorseFluteAnywhere.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.HorseFluteAnywhere.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Goldenrevolver.HorseOverhaul",
@@ -494,7 +534,8 @@
    "file": "goldenrevolver-horseoverhaul.zip",
    "size": 437414,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Goldenrevolver.HorseOverhaul.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Goldenrevolver.HorseOverhaul.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "spacechase0.JsonAssets",
@@ -506,7 +547,8 @@
    "file": "spacechase0-jsonassets.zip",
    "size": 169244,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.JsonAssets.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.JsonAssets.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "Pathoschild.LookupAnything",
@@ -518,7 +560,8 @@
    "file": "pathoschild-lookupanything.zip",
    "size": 631425,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/498/256/256/638470396562907568.jpg"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/498/256/256/638470396562907568.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "blueberry.LoveOfCooking",
@@ -530,7 +573,8 @@
    "file": "blueberry-loveofcooking.zip",
    "size": 415195,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/blueberry.LoveOfCooking.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/blueberry.LoveOfCooking.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "mushymato.MMAP",
@@ -542,7 +586,8 @@
    "file": "mushymato-mmap.zip",
    "size": 193349,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mushymato.MMAP.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mushymato.MMAP.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "DIGUS.MailFrameworkMod",
@@ -554,7 +599,8 @@
    "file": "digus-mailframeworkmod.zip",
    "size": 50662,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DIGUS.MailFrameworkMod.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DIGUS.MailFrameworkMod.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "Cherry.MultiYieldCrops",
@@ -566,7 +612,8 @@
    "file": "cherry-multiyieldcrops.zip",
    "size": 25162,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.MultiYieldCrops.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.MultiYieldCrops.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "Arknir.Lucikiel",
@@ -578,7 +625,8 @@
    "file": "arknir-lucikiel.zip",
    "size": 3711497,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Arknir.Lucikiel.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Arknir.Lucikiel.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "Bouhm.NPCMapLocations",
@@ -590,7 +638,8 @@
    "file": "bouhm-npcmaplocations.zip",
    "size": 122700,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Bouhm.NPCMapLocations.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Bouhm.NPCMapLocations.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "SpaceBaby.PartOfTheCommunity",
@@ -603,7 +652,8 @@
    "size": 50310,
    "zhDone": false,
    "zhPartial": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SpaceBaby.PartOfTheCommunity.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SpaceBaby.PartOfTheCommunity.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "stokastic.PrismaticTools",
@@ -615,7 +665,8 @@
    "file": "stokastic-prismatictools.zip",
    "size": 124782,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/stokastic.PrismaticTools.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/stokastic.PrismaticTools.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "Digus.ProducerFrameworkMod",
@@ -627,7 +678,8 @@
    "file": "digus-producerframeworkmod.zip",
    "size": 69223,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Digus.ProducerFrameworkMod.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Digus.ProducerFrameworkMod.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "cat.sprinklerrange",
@@ -640,7 +692,8 @@
    "size": 24020,
    "zhDone": false,
    "zhPartial": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.sprinklerrange.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.sprinklerrange.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Cherry.ShopTileFramework",
@@ -652,7 +705,8 @@
    "file": "cherry-shoptileframework.zip",
    "size": 48245,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ShopTileFramework.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ShopTileFramework.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "Pathoschild.SkipIntro",
@@ -664,7 +718,8 @@
    "file": "pathoschild-skipintro.zip",
    "size": 93568,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.SkipIntro.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.SkipIntro.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "SkullCavernElevator",
@@ -676,7 +731,8 @@
    "file": "skullcavernelevator.zip",
    "size": 177512,
    "zhDone": false,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/864/256/256/638466409737696434.jpeg"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/864/256/256/638466409737696434.jpeg",
+   "tag": "实用"
   },
   {
    "uniqueId": "spacechase0.SpaceCore",
@@ -688,7 +744,8 @@
    "file": "spacechase0-spacecore.zip",
    "size": 366701,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.SpaceCore.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.SpaceCore.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "pepoluan.StackSplitRedux",
@@ -700,7 +757,8 @@
    "file": "pepoluan-stacksplitredux.zip",
    "size": 67902,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/pepoluan.StackSplitRedux.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/pepoluan.StackSplitRedux.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Lita.StarblueValley",
@@ -712,7 +770,8 @@
    "file": "lita-starbluevalley.zip",
    "size": 7911745,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Lita.StarblueValley.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Lita.StarblueValley.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "Cherry.StardewAquarium",
@@ -724,7 +783,8 @@
    "file": "cherry-stardewaquarium.zip",
    "size": 5617296,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.StardewAquarium.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.StardewAquarium.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "bcmpinc.StardewHack",
@@ -736,7 +796,8 @@
    "file": "bcmpinc-stardewhack.zip",
    "size": 33427,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.StardewHack.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.StardewHack.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "mondopandora.stardewnotification",
@@ -748,7 +809,8 @@
    "file": "mondopandora-stardewnotification.zip",
    "size": 54964,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mondopandora.stardewnotification.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mondopandora.stardewnotification.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "DaisyNiko.SVR2",
@@ -760,7 +822,8 @@
    "file": "daisyniko-svr2.zip",
    "size": 392605,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.SVR2.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.SVR2.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "SunberryTeam.SBVSMAPI",
@@ -772,7 +835,8 @@
    "file": "sunberryteam-sbvsmapi.zip",
    "size": 14462351,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SunberryTeam.SBVSMAPI.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SunberryTeam.SBVSMAPI.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "cantorsdust.TimeSpeed",
@@ -784,7 +848,8 @@
    "file": "cantorsdust-timespeed.zip",
    "size": 58881,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cantorsdust.TimeSpeed.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cantorsdust.TimeSpeed.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "aedenthorn.ToolSmartSwitch",
@@ -796,7 +861,8 @@
    "file": "aedenthorn-toolsmartswitch.zip",
    "size": 24395,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aedenthorn.ToolSmartSwitch.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aedenthorn.ToolSmartSwitch.jpg",
+   "tag": "常用"
   },
   {
    "uniqueId": "Pathoschild.TractorMod",
@@ -808,7 +874,8 @@
    "file": "pathoschild-tractormod.zip",
    "size": 368856,
    "zhDone": true,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/558/256/256/638470497319160941.jpg"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/558/256/256/638470497319160941.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "Annosz.UiInfoSuite2",
@@ -820,7 +887,8 @@
    "file": "annosz-uiinfosuite2.zip",
    "size": 604187,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Annosz.UiInfoSuite2.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Annosz.UiInfoSuite2.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "lumisteria.visitmountvapius.code",
@@ -832,7 +900,8 @@
    "file": "lumisteria-visitmountvapius-code.zip",
    "size": 11790891,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/lumisteria.visitmountvapius.code.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/lumisteria.visitmountvapius.code.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "DaLion.Professions",
@@ -844,7 +913,8 @@
    "file": "dalion-professions.zip",
    "size": 15277835,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaLion.Professions.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaLion.Professions.jpg",
+   "tag": "玩法"
   },
   {
    "uniqueId": "bcmpinc.WearMoreRings",
@@ -856,7 +926,8 @@
    "file": "bcmpinc-wearmorerings.zip",
    "size": 30973,
    "zhDone": true,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.WearMoreRings.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.WearMoreRings.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "cat.wintergrass",
@@ -868,7 +939,8 @@
    "file": "cat-wintergrass.zip",
    "size": 11243,
    "zhDone": false,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.wintergrass.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.wintergrass.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "Pathoschild.CentralStation",
@@ -879,7 +951,8 @@
    "desc": "跨模组交通枢纽，坐船/巴士/火车直达其它模组的地点。",
    "file": "pathoschild-centralstation.zip",
    "size": 297020,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.CentralStation.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.CentralStation.jpg",
+   "tag": "实用"
   },
   {
    "uniqueId": "PeacefulEnd.CustomCompanions",
@@ -890,7 +963,8 @@
    "desc": "让模组添加跟随宠物/伙伴的框架，ARV 等模组必需。",
    "file": "peacefulend-customcompanions.zip",
    "size": 79573,
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/572/256/256/638216469821229845.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/572/256/256/638216469821229845.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "Cherry.ExpandedPreconditionsUtility",
@@ -901,7 +975,8 @@
    "desc": "给其它模组用的条件判断库（商店、邮件、刷怪规则都依赖它）。",
    "file": "cherry-expandedpreconditionsutility.zip",
    "size": 23268,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ExpandedPreconditionsUtility.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ExpandedPreconditionsUtility.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "hxw.tilesheets",
@@ -912,7 +987,8 @@
    "desc": "水族馆、太阳莓村等地图模组共用的素材库。",
    "file": "hxw-tilesheets.zip",
    "size": 11988980,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hxw.tilesheets.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hxw.tilesheets.jpg",
+   "tag": "前置"
   },
   {
    "uniqueId": "FlashShifter.SVECode",
@@ -924,7 +1000,8 @@
    "file": "sve-release.zip",
    "size": 102400000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/SVE-.-1.15.11.zip",
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/FlashShifter.SVECode.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/FlashShifter.SVECode.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "Rafseazz.RidgesideVillage",
@@ -936,7 +1013,8 @@
    "file": "rsv-release.zip",
    "size": 55000000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/-2.5.17.zip",
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rafseazz.RidgesideVillage.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rafseazz.RidgesideVillage.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "DTZ.DowntownZuzuBL",
@@ -948,7 +1026,8 @@
    "file": "zuzu-release.zip",
    "size": 117000000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-DowntownZuzu.zip",
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DTZ.DowntownZuzuBL.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DTZ.DowntownZuzuBL.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "atravita.EastScarp",
@@ -960,7 +1039,8 @@
    "file": "eastscarp-release.zip",
    "size": 40780000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-EastScarp.zip",
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/atravita.EastScarp.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/atravita.EastScarp.jpg",
+   "tag": "大型"
   },
   {
    "uniqueId": "Poltergeister.SeasonalCuteCharacters",
@@ -972,7 +1052,8 @@
    "file": "scc-release.zip",
    "size": 33340000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-SeasonalCuteCharacters.zip",
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Poltergeister.SeasonalCuteCharacters.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Poltergeister.SeasonalCuteCharacters.jpg",
+   "tag": "美化"
   },
   {
    "uniqueId": "DLX.Bundles",
@@ -984,7 +1065,8 @@
    "file": "dlx-unlockablebundles.zip",
    "size": 1242864,
    "url": "https://edge.forgecdn.net/files/7729/537/Unlockable%20Bundles%20Android%204.3.0.1772978107.zip",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/967/297/256/256/638467127923545959.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/967/297/256/256/638467127923545959.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "DeLiXx.Custom_Farm_Loader",
@@ -996,7 +1078,8 @@
    "file": "custom-farm-loader.zip",
    "size": 124425,
    "intro": "自定义农场加载器。让其它模组注册自己的农场类型（地图布局），本模组负责在新建存档时把它们挂进农场选择列表。\n\n这是 DeLiXx 系列的前置框架，需要配合具体的农场包一起用；单独安装不会改变游戏内容。\n安装后新建存档时，农场选择界面会出现额外选项。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/891/256/256/638466437623794426.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/891/256/256/638466437623794426.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "jltaylor-us.ToDew",
@@ -1008,7 +1091,8 @@
    "file": "to-dew.zip",
    "size": 88312,
    "intro": "游戏内待办清单。按快捷键（默认 F8）呼出面板，可以随手记下「明天要收玉米」「去铁匠铺升级锄头」这类事。\n\n支持多条清单、完成打勾、到期提醒；数据存在存档目录里，跟着存档走。\n钓鱼、下矿、跑图时临时记事特别顺手，不用切出游戏。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/974/179/256/256/638477080208541379.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/974/179/256/256/638477080208541379.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "AaronTaggart.AutoAnimalDoors",
@@ -1020,7 +1104,8 @@
    "file": "autoanimaldoors.zip",
    "size": 25156,
    "intro": "畜棚门自动开关。每天早上到点自动打开畜棚和鸡舍的门，让动物出去；傍晚自动关回来过夜。\n\n开门/关门时间可以在 config.json 里改，也能设置成只在下雨天关门。\n适合懒得每天手动开关门、又怕动物晚上被关在外面的玩家。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/980/60/256/256/638486183838478432.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/980/60/256/256/638486183838478432.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "cat.betterartisangoodicons",
@@ -1032,7 +1117,8 @@
    "file": "better-artisan-good-icons.zip",
    "size": 88524,
    "intro": "更精美的工匠物品图标。让果酱、果酒、果汁、腌菜、蜂蜜这些工匠物品的图标直接显示原料（比如草莓酱的图标就是草莓罐子）。\n\n原来的瓶瓶罐罐全都长得一样，一箱子里分不清谁是谁；装了这个之后一眼就能认出来。\n只改贴图，不改数值，跟其它模组兼容性好。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/1122/550/256/256/638678459300080979.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/1122/550/256/256/638678459300080979.png",
+   "tag": "美化"
   },
   {
    "uniqueId": "furyx639.CustomChores",
@@ -1044,7 +1130,8 @@
    "file": "custom-chores.zip",
    "size": 43362,
    "intro": "自定义家务。给配偶添加可配置的家务清单：浇水、喂动物、修栅栏、补草料、清杂草等，做哪些可以逐项开关。\n\n和「贴心的配偶」(HelpfulSpouses) 属于同一作者的两个方向：这个偏「安排配偶做什么」，那个偏「让配偶多做点」。\n配置项在 config.json，改完重启游戏生效。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/570/256/256/638218101486267073.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/570/256/256/638218101486267073.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "aedenthorn.ExtraMapLayers",
@@ -1056,7 +1143,8 @@
    "file": "extra-map-layers.zip",
    "size": 9548,
    "intro": "额外地图图层。给地图文件增加可叠加的绘制图层，供其它模组往地图上画东西（装饰、标记、光影等）而不用改原图。\n\n这是一个底层框架，单独装了看不到变化，但很多美化类模组依赖它。\n作者 aedenthorn 的框架系列之一，注意别和「动态游戏资源」搞混。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/154/256/256/638212143337565359.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/154/256/256/638212143337565359.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "aedenthorn.FruitTreeTweaks",
@@ -1068,7 +1156,8 @@
    "file": "fruit-tree-tweaks.zip",
    "size": 28198,
    "intro": "果树调整。可以改果树的生长速度、果实成熟速度、每次结果数量、果实品质概率等。\n\n全部参数都在 config.json 里，默认值等同于原版；想速通或者想慢慢玩都能调。\n只对果树（苹果、桃子、橙子、樱桃、杏、香蕉、芒果）生效，不影响普通作物。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/85/256/256/638212142407923749.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/85/256/256/638212142407923749.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "furyx639.HelpfulSpouses",
@@ -1080,7 +1169,8 @@
    "file": "helpful-spouses.zip",
    "size": 15463,
    "intro": "贴心的配偶。让配偶每天帮你干一点农活：浇水、喂动物、修围栏、清杂草、补草料等，可逐项开启。\n\n结婚之后配偶原本只会偶尔送个礼物，装了这个之后他们会真的下地干活。\n和「自定义家务」是同一作者的姊妹模组，二者可以只装一个。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/571/256/256/638218101501164984.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/571/256/256/638218101501164984.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "aedenthorn.SprinklerMod",
@@ -1092,7 +1182,8 @@
    "file": "sprinkler-mod.zip",
    "size": 14942,
    "intro": "洒水器扩展。可以自定义洒水器的浇水范围与行为，比如让高级洒水器覆盖更大区域。\n\n参数在 config.json 里调（范围、形状），默认不改动原版数值。\n适合大规模农场，配合「自动化」使用体验更好。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/825/995/256/256/638212141278702167.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/825/995/256/256/638212141278702167.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "AvalonMFX.LoveFestival",
@@ -1104,7 +1195,8 @@
    "file": "love-festival.zip",
    "size": 135125,
    "intro": "恋爱节。在春季新增一个节日：村民会给彼此写情书，你也可以给心仪的人送信、收信，甚至约人出去约会。\n\n节日当天镇中心会有专门的活动场景，每个 NPC 都有专属台词（已婚/未婚两套）。\n还有丘比特商店，花金币买「爱神之箭」可以在一周内提升好感获取速度 20%。\n本模组的中文界面与台词已由 BOX 汉化（i18n/zh.json）。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/994/48/256/256/638509265808175465.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/994/48/256/256/638509265808175465.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "aedenthorn.MobileCatalogues",
@@ -1116,7 +1208,8 @@
    "file": "mobile-catalogues.zip",
    "size": 41336,
    "intro": "移动图鉴商店。把各个商店的图鉴（墙壁地板、家具、种子、旅行商人、沙漠商人、帽子鼠、服装、矮人、科罗布斯、冒险家公会）做成随身道具，走到哪买到哪。\n\n不用再为了买个墙纸跑一趟木匠店，深夜也能下单。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/199/256/256/638212143926859093.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/199/256/256/638212143926859093.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "misscoriel.UCRFix",
@@ -1128,7 +1221,8 @@
    "file": "miss-coriels-unique-courtship-response-core.zip",
    "size": 31134,
    "intro": "Unique Courtship Response 的核心库（UCR Core）。给「独特的恋爱回应」系列模组提供共用的数据结构与接口。\n\n单独安装不产生游戏内变化，但依赖它的恋爱对白模组没有它会直接加载失败。\n如果你装了其它 misscoriel 的恋爱类模组，这个必须装。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/844/820/256/256/638242279800954018.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/844/820/256/256/638242279800954018.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "Omegasis.SaveAnywhere",
@@ -1140,7 +1234,8 @@
    "file": "save-anywhere.zip",
    "size": 32351,
    "intro": "随处存档。在原版里存档必须回家睡觉，装了它之后在任意地点按快捷键就能存档，下矿到一半也能先存一下。\n\n支持设置是否允许在节日/事件中存档、是否在存档后立即回主菜单等。\n配合多人模式使用时要小心，建议只在自己单人存档里用。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/859/920/256/256/638266128582169645.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/859/920/256/256/638266128582169645.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "PeacefulEnd.SolidFoundations",
@@ -1152,7 +1247,8 @@
    "file": "solid-foundations.zip",
    "size": 86454,
    "intro": "坚固地基——自定义建筑框架。让模组作者可以添加带地基、可多层叠加、能放置在任意地形上的建筑。\n\n这是 PeacefulEnd 三件套（可选材质 / 时尚感 / 坚固地基）之一，很多建筑类内容包依赖它。\n单独安装不会新增内容，但缺了它那些建筑包会加载失败。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/562/256/256/638216469555822127.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/562/256/256/638216469555822127.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "PurrplingCat.QuestFramework",
@@ -1164,7 +1260,8 @@
    "file": "quest-framework.zip",
    "size": 256884,
    "intro": "任务框架。让模组作者用 JSON 添加自定义任务、委托、剧情线，并支持自定义任务类型（比如「收获 N 个某物」）。\n\n很多剧情扩展模组（NPC 冒险等）都依赖它；装了它之后那些模组的任务才会出现在日志里。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/214/256/256/637799888279989813.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/214/256/256/637799888279989813.png",
+   "tag": "前置"
   },
   {
    "uniqueId": "PeacefulEnd.FashionSense",
@@ -1176,7 +1273,8 @@
    "file": "fashion-sense.zip",
    "size": 318146,
    "intro": "时尚感——美化框架。给角色添加可更换的发型、帽子、衣服、袖口、配饰、裙摆等外观，并支持头发/裙摆的物理摆动。\n\n它本身只提供框架和一套基础素材，真正的衣服和发型来自各种「Fashion Sense 内容包」。\n是目前星露谷最主流的角色美化方案，装美化包前必须先装它。\n内置多语言，中文由作者自带。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/566/256/256/638216469596869814.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/566/256/256/638216469596869814.png",
+   "tag": "美化"
   },
   {
    "uniqueId": "purrplingcat.npcadventure",
@@ -1188,7 +1286,8 @@
    "file": "npc-adventures.zip",
    "size": 418099,
    "intro": "NPC 冒险。邀请村民跟你一起出门：他们会跟着你下矿、战斗、钓鱼、捡东西，还会根据性格说不同的话。\n\n出发前要给同伴准备食物和装备（在专门的冒险准备界面里配置），不同 NPC 擅长的战斗方式不一样。\n依赖「任务框架」，两个都要装。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/269/256/256/637800104852179009.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/269/256/256/637800104852179009.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "aedenthorn.SoundTweaker",
@@ -1200,7 +1299,8 @@
    "file": "sound-tweaker.zip",
    "size": 18475,
    "intro": "音效调整。可以改游戏音效的音量、音高、循环方式等参数，适合做音频类模组的前置，或者单纯想把某个音效调小。\n\n参数在 config.json 里配，默认不改动原版听感。\n纯客户端模组，不影响存档。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/6/256/256/638212141425731052.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/6/256/256/638212141425731052.png",
+   "tag": "实用"
   },
   {
    "uniqueId": "aedenthorn.FreeLove",
@@ -1212,7 +1312,8 @@
    "file": "free-love.zip",
    "size": 69012,
    "intro": "自由恋爱。解除原版「只能跟一个人交往/结婚」的限制，可以同时和多位村民谈恋爱、甚至多人结婚。\n\n支持配置哪些 NPC 之间会互相吃醋、是否允许重婚、婚后是否还能继续追求其他人等，全部在 config.json 里。\n和多人模式、以及各种恋爱类模组都更容易兼容。\n内置多语言，中文由作者自带。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/148/256/256/638212143259615441.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/148/256/256/638212143259615441.png",
+   "tag": "玩法"
   },
   {
    "uniqueId": "PeacefulEnd.AlternativeTextures",
@@ -1224,7 +1325,8 @@
    "file": "alternative-textures.zip",
    "size": 160507,
    "intro": "可选材质——材质框架。给物体、建筑、动物、家具等套用可替换的外观材质，配合油漆桶/油漆刷/剪刀等工具使用。\n\n它本身只提供框架和工具，实际的材质包来自各种「Alternative Textures 内容包」。\n和「时尚感」是姊妹框架：那个管角色外观，这个管场景与物品外观。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
-   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/571/256/256/638216469659070216.png"
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/571/256/256/638216469659070216.png",
+   "tag": "美化"
   }
  ]
 }
