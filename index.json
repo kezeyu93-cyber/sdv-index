@@ -1,5 +1,5 @@
 {
- "updated": 1795012404,
+ "updated": 1795014630,
  "count": 102,
  "mods": [
   {
@@ -11,7 +11,8 @@
    "desc": "新增一位可攻略的自定义 NPC：女巫艾lecto。",
    "file": "zoedoll-npcalecto.zip",
    "size": 542705,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/ZoeDoll.NPCAlecto.jpg"
   },
   {
    "uniqueId": "Himetarts.ARVCC",
@@ -22,7 +23,8 @@
    "desc": "把宠物狗替换成大型犬外观。",
    "file": "himetarts-arvcc.zip",
    "size": 12827270,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Himetarts.ARVCC.jpg"
   },
   {
    "uniqueId": "spacechase0.AnimalSocialMenu",
@@ -33,7 +35,8 @@
    "desc": "给农场动物加一个社交菜单，可以查看它们的亲密度。",
    "file": "spacechase0-animalsocialmenu.zip",
    "size": 77818,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.AnimalSocialMenu.jpg"
   },
   {
    "uniqueId": "Pathoschild.Automate",
@@ -56,7 +59,8 @@
    "desc": "走到门口时栅栏门会自动开关。",
    "file": "rakiin-automaticgates.zip",
    "size": 21929,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rakiin.AutomaticGates.jpg"
   },
   {
    "uniqueId": "Elle.NewBarnAnimals",
@@ -67,7 +71,8 @@
    "desc": "替换畜棚里所有动物的外观（内容包）。",
    "file": "elle-newbarnanimals.zip",
    "size": 1425932,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Elle.NewBarnAnimals.jpg"
   },
   {
    "uniqueId": "leclair.bettercrafting",
@@ -78,7 +83,8 @@
    "desc": "重做原版制作菜单，支持分类、搜索、批量制作。",
    "file": "leclair-bettercrafting.zip",
    "size": 531389,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/leclair.bettercrafting.jpg"
   },
   {
    "uniqueId": "hawkfalcon.BetterJunimos",
@@ -89,7 +95,8 @@
    "desc": "祝尼魔小屋会自动播种、浇水、施肥、收获。",
    "file": "hawkfalcon-betterjunimos.zip",
    "size": 109567,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hawkfalcon.BetterJunimos.jpg"
   },
   {
    "uniqueId": "BetterRanching",
@@ -100,7 +107,8 @@
    "desc": "挤奶剪毛失败会自动重试，并提示动物何时可以收。",
    "file": "betterranching.zip",
    "size": 24863,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/BetterRanching.jpg"
   },
   {
    "uniqueId": "spacechase0.BiggerBackpack",
@@ -147,7 +155,8 @@
    "desc": "在背包里显示每个物品的售价。",
    "file": "cjbok-showitemsellprice.zip",
    "size": 43816,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CJBok.ShowItemSellPrice.jpg"
   },
   {
    "uniqueId": "gizzymo.canonfriendlyexpansion",
@@ -159,7 +168,8 @@
    "file": "gizzymo-canonfriendlyexpansion.zip",
    "size": 416362,
    "zhDone": false,
-   "zhPartial": true
+   "zhPartial": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gizzymo.canonfriendlyexpansion.jpg"
   },
   {
    "uniqueId": "spacechase0.CarryChest",
@@ -182,7 +192,8 @@
    "desc": "给箱子加标签，方便分类查找。",
    "file": "spdchestlabel.zip",
    "size": 14186,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SPDChestLabel.jpg"
   },
   {
    "uniqueId": "Pathoschild.ChestsAnywhere",
@@ -205,7 +216,8 @@
    "desc": "调整社区中心的布局与外观。",
    "file": "lemurkat-communitycenter-cp.zip",
    "size": 140271,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/LemurKat.CommunityCenter.CP.jpg"
   },
   {
    "uniqueId": "Pathoschild.ContentPatcher",
@@ -229,7 +241,8 @@
    "file": "aenigma-convenientchests.zip",
    "size": 65056,
    "zhDone": false,
-   "zhPartial": true
+   "zhPartial": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aEnigma.ConvenientChests.jpg"
   },
   {
    "uniqueId": "gaussfire.ConvenientInventory",
@@ -240,7 +253,8 @@
    "desc": "背包快捷整理、快速堆叠等便利功能。",
    "file": "gaussfire-convenientinventory.zip",
    "size": 121063,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/gaussfire.ConvenientInventory.jpg"
   },
   {
    "uniqueId": "Platonymous.CustomFurniture",
@@ -263,7 +277,8 @@
    "desc": "给 NPC 添加可按条件触发的自定义日程键。",
    "file": "spiderbuttons-customschedulekeys.zip",
    "size": 17781,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Spiderbuttons.CustomScheduleKeys.jpg"
   },
   {
    "uniqueId": "DNER.AIOmapfix",
@@ -274,7 +289,8 @@
    "desc": "修复其他模组世界地图背景错位的问题。",
    "file": "dner-aiomapfix.zip",
    "size": 282446,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DNER.AIOmapfix.jpg"
   },
   {
    "uniqueId": "CompSciLauren.DailyScreenshot",
@@ -285,7 +301,8 @@
    "desc": "每天自动给整个农场截一张图。",
    "file": "compscilauren-dailyscreenshot.zip",
    "size": 73683,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/CompSciLauren.DailyScreenshot.jpg"
   },
   {
    "uniqueId": "DaisyNiko.EarthyRecolour",
@@ -296,7 +313,8 @@
    "desc": "把地图与建筑改成柔和的大地色系配色。",
    "file": "daisyniko-earthyrecolour.zip",
    "size": 8353072,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.EarthyRecolour.jpg"
   },
   {
    "uniqueId": "DaisyNiko.Tilesheets",
@@ -307,7 +325,8 @@
    "desc": "地图类模组的公共素材库。",
    "file": "daisyniko-tilesheets.zip",
    "size": 5549952,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.Tilesheets.jpg"
   },
   {
    "uniqueId": "maxmakesmods.deepwoodsmod",
@@ -318,7 +337,8 @@
    "desc": "在秘密森林后面加一片可探索的深林，越走越深。",
    "file": "maxmakesmods-deepwoodsmod.zip",
    "size": 661475,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/maxmakesmods.deepwoodsmod.jpg"
   },
   {
    "uniqueId": "spacechase0.DynamicGameAssets",
@@ -341,7 +361,8 @@
    "desc": "给其他模组提供额外功能的框架。",
    "file": "esca-emp.zip",
    "size": 56668,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.EMP.jpg"
   },
   {
    "uniqueId": "spacechase0.ExperienceBars",
@@ -352,7 +373,8 @@
    "desc": "在左上角显示技能经验条。",
    "file": "spacechase0-experiencebars.zip",
    "size": 67288,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.ExperienceBars.jpg"
   },
   {
    "uniqueId": "Esca.FarmTypeManager",
@@ -363,7 +385,8 @@
    "desc": "按农场类型自定义刷怪、采集物、矿石与大型物件。",
    "file": "esca-farmtypemanager.zip",
    "size": 133975,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Esca.FarmTypeManager.jpg"
   },
   {
    "uniqueId": "mabelsyrup.farmhouse",
@@ -374,7 +397,8 @@
    "desc": "允许农舍地图改变房屋形状与内部布局。",
    "file": "mabelsyrup-farmhouse.zip",
    "size": 135418,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mabelsyrup.farmhouse.jpg"
   },
   {
    "uniqueId": "Pathoschild.FastAnimations",
@@ -385,7 +409,8 @@
    "desc": "加快游戏里的各种动画（可配置）。",
    "file": "pathoschild-fastanimations.zip",
    "size": 158824,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.FastAnimations.jpg"
   },
   {
    "uniqueId": "barteke22.FishingInfoOverlays",
@@ -396,7 +421,8 @@
    "desc": "手持鱼竿时显示当前水域的鱼种与难度。",
    "file": "barteke22-fishinginfooverlays.zip",
    "size": 70499,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/barteke22.FishingInfoOverlays.jpg"
   },
   {
    "uniqueId": "IsaacS.FriendsForever",
@@ -407,7 +433,8 @@
    "desc": "好感度不再随时间衰减。",
    "file": "isaacs-friendsforever.zip",
    "size": 5121,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/IsaacS.FriendsForever.jpg"
   },
   {
    "uniqueId": "spacechase0.GenericModConfigMenu",
@@ -430,7 +457,8 @@
    "desc": "鼠标悬停提示 NPC 喜欢的礼物。",
    "file": "joxw-gifttastehelper.zip",
    "size": 53899,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/JoXW.GiftTasteHelper.jpg"
   },
   {
    "uniqueId": "bcmpinc.HarvestWithScythe",
@@ -441,7 +469,8 @@
    "desc": "用镰刀收割所有作物和采集物。",
    "file": "bcmpinc-harvestwithscythe.zip",
    "size": 25324,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.HarvestWithScythe.jpg"
   },
   {
    "uniqueId": "Pathoschild.HorseFluteAnywhere",
@@ -452,7 +481,8 @@
    "desc": "按一下就把马召唤到身边。",
    "file": "pathoschild-horsefluteanywhere.zip",
    "size": 99857,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.HorseFluteAnywhere.jpg"
   },
   {
    "uniqueId": "Goldenrevolver.HorseOverhaul",
@@ -463,7 +493,8 @@
    "desc": "瘦马+马鞍袋，可以喂食、抚摸，提升互动。",
    "file": "goldenrevolver-horseoverhaul.zip",
    "size": 437414,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Goldenrevolver.HorseOverhaul.jpg"
   },
   {
    "uniqueId": "spacechase0.JsonAssets",
@@ -474,7 +505,8 @@
    "desc": "让内容包向游戏添加自定义物品（旧版框架）。",
    "file": "spacechase0-jsonassets.zip",
    "size": 169244,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.JsonAssets.jpg"
   },
   {
    "uniqueId": "Pathoschild.LookupAnything",
@@ -497,7 +529,8 @@
    "desc": "烹饪系统大改，新增大量菜谱与厨具。",
    "file": "blueberry-loveofcooking.zip",
    "size": 415195,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/blueberry.LoveOfCooking.jpg"
   },
   {
    "uniqueId": "mushymato.MMAP",
@@ -508,7 +541,8 @@
    "desc": "给地图作者用的动作与属性扩展。",
    "file": "mushymato-mmap.zip",
    "size": 193349,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mushymato.MMAP.jpg"
   },
   {
    "uniqueId": "DIGUS.MailFrameworkMod",
@@ -519,7 +553,8 @@
    "desc": "向游戏添加自定义信件的工具与内容包支持。",
    "file": "digus-mailframeworkmod.zip",
    "size": 50662,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DIGUS.MailFrameworkMod.jpg"
   },
   {
    "uniqueId": "Cherry.MultiYieldCrops",
@@ -530,7 +565,8 @@
    "desc": "让一种作物产出多种物品。",
    "file": "cherry-multiyieldcrops.zip",
    "size": 25162,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.MultiYieldCrops.jpg"
   },
   {
    "uniqueId": "Arknir.Lucikiel",
@@ -541,7 +577,8 @@
    "desc": "新增来自《King's Raid》的自定义 NPC 卢西基尔。",
    "file": "arknir-lucikiel.zip",
    "size": 3711497,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Arknir.Lucikiel.jpg"
   },
   {
    "uniqueId": "Bouhm.NPCMapLocations",
@@ -552,7 +589,8 @@
    "desc": "在地图上实时显示 NPC 和玩家位置。",
    "file": "bouhm-npcmaplocations.zip",
    "size": 122700,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Bouhm.NPCMapLocations.jpg"
   },
   {
    "uniqueId": "SpaceBaby.PartOfTheCommunity",
@@ -564,7 +602,8 @@
    "file": "spacebaby-partofthecommunity.zip",
    "size": 50310,
    "zhDone": false,
-   "zhPartial": true
+   "zhPartial": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SpaceBaby.PartOfTheCommunity.jpg"
   },
   {
    "uniqueId": "stokastic.PrismaticTools",
@@ -575,7 +614,8 @@
    "desc": "新增五彩碎片材质工具与洒水器。",
    "file": "stokastic-prismatictools.zip",
    "size": 124782,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/stokastic.PrismaticTools.jpg"
   },
   {
    "uniqueId": "Digus.ProducerFrameworkMod",
@@ -586,7 +626,8 @@
    "desc": "给机器添加自定义产出规则。",
    "file": "digus-producerframeworkmod.zip",
    "size": 69223,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Digus.ProducerFrameworkMod.jpg"
   },
   {
    "uniqueId": "cat.sprinklerrange",
@@ -598,7 +639,8 @@
    "file": "cat-sprinklerrange.zip",
    "size": 24020,
    "zhDone": false,
-   "zhPartial": true
+   "zhPartial": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.sprinklerrange.jpg"
   },
   {
    "uniqueId": "Cherry.ShopTileFramework",
@@ -609,7 +651,8 @@
    "desc": "用图块属性定义新的商店。",
    "file": "cherry-shoptileframework.zip",
    "size": 48245,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ShopTileFramework.jpg"
   },
   {
    "uniqueId": "Pathoschild.SkipIntro",
@@ -620,7 +663,8 @@
    "desc": "跳过游戏启动动画。",
    "file": "pathoschild-skipintro.zip",
    "size": 93568,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.SkipIntro.jpg"
   },
   {
    "uniqueId": "SkullCavernElevator",
@@ -643,7 +687,8 @@
    "desc": "很多模组共用的框架库。",
    "file": "spacechase0-spacecore.zip",
    "size": 366701,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/spacechase0.SpaceCore.jpg"
   },
   {
    "uniqueId": "pepoluan.StackSplitRedux",
@@ -654,7 +699,8 @@
    "desc": "自定义数量拆分堆叠。",
    "file": "pepoluan-stacksplitredux.zip",
    "size": 67902,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/pepoluan.StackSplitRedux.jpg"
   },
   {
    "uniqueId": "Lita.StarblueValley",
@@ -665,7 +711,8 @@
    "desc": "把整个星露谷的配色改成清冷的蓝绿色调。",
    "file": "lita-starbluevalley.zip",
    "size": 7911745,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Lita.StarblueValley.jpg"
   },
   {
    "uniqueId": "Cherry.StardewAquarium",
@@ -676,7 +723,8 @@
    "desc": "水族馆模组的代码部分。",
    "file": "cherry-stardewaquarium.zip",
    "size": 5617296,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.StardewAquarium.jpg"
   },
   {
    "uniqueId": "bcmpinc.StardewHack",
@@ -687,7 +735,8 @@
    "desc": "若干模组共用的转译库。",
    "file": "bcmpinc-stardewhack.zip",
    "size": 33427,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.StardewHack.jpg"
   },
   {
    "uniqueId": "mondopandora.stardewnotification",
@@ -698,7 +747,8 @@
    "desc": "每日提示通知。",
    "file": "mondopandora-stardewnotification.zip",
    "size": 54964,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mondopandora.stardewnotification.jpg"
   },
   {
    "uniqueId": "DaisyNiko.SVR2",
@@ -709,7 +759,8 @@
    "desc": "重做小镇与农场地形的整体美化包。",
    "file": "daisyniko-svr2.zip",
    "size": 392605,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaisyNiko.SVR2.jpg"
   },
   {
    "uniqueId": "SunberryTeam.SBVSMAPI",
@@ -720,7 +771,8 @@
    "desc": "太阳莓村新地图的代码部分。",
    "file": "sunberryteam-sbvsmapi.zip",
    "size": 14462351,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/SunberryTeam.SBVSMAPI.jpg"
   },
   {
    "uniqueId": "cantorsdust.TimeSpeed",
@@ -731,7 +783,8 @@
    "desc": "控制游戏时间流速：加速、减速或暂停。",
    "file": "cantorsdust-timespeed.zip",
    "size": 58881,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cantorsdust.TimeSpeed.jpg"
   },
   {
    "uniqueId": "aedenthorn.ToolSmartSwitch",
@@ -742,7 +795,8 @@
    "desc": "自动切换到当前最合适的工具。",
    "file": "aedenthorn-toolsmartswitch.zip",
    "size": 24395,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aedenthorn.ToolSmartSwitch.jpg"
   },
   {
    "uniqueId": "Pathoschild.TractorMod",
@@ -765,7 +819,8 @@
    "desc": "界面显示大量实用信息（天气、运气、经验等）。",
    "file": "annosz-uiinfosuite2.zip",
    "size": 604187,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Annosz.UiInfoSuite2.jpg"
   },
   {
    "uniqueId": "lumisteria.visitmountvapius.code",
@@ -776,7 +831,8 @@
    "desc": "瓦皮乌斯山地图的代码部分。",
    "file": "lumisteria-visitmountvapius-code.zip",
    "size": 11790891,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/lumisteria.visitmountvapius.code.jpg"
   },
   {
    "uniqueId": "DaLion.Professions",
@@ -787,7 +843,8 @@
    "desc": "大幅重做职业树与技能成长。",
    "file": "dalion-professions.zip",
    "size": 15277835,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaLion.Professions.jpg"
   },
   {
    "uniqueId": "bcmpinc.WearMoreRings",
@@ -798,7 +855,8 @@
    "desc": "增加戒指栏位，可以同时戴更多戒指。",
    "file": "bcmpinc-wearmorerings.zip",
    "size": 30973,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/bcmpinc.WearMoreRings.jpg"
   },
   {
    "uniqueId": "cat.wintergrass",
@@ -809,7 +867,8 @@
    "desc": "冬天草地也不会消失。",
    "file": "cat-wintergrass.zip",
    "size": 11243,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/cat.wintergrass.jpg"
   },
   {
    "uniqueId": "Pathoschild.CentralStation",
@@ -819,7 +878,8 @@
    "ver": "1.7.0",
    "desc": "跨模组交通枢纽，坐船/巴士/火车直达其它模组的地点。",
    "file": "pathoschild-centralstation.zip",
-   "size": 297020
+   "size": 297020,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Pathoschild.CentralStation.jpg"
   },
   {
    "uniqueId": "PeacefulEnd.CustomCompanions",
@@ -840,7 +900,8 @@
    "ver": "1.1.2",
    "desc": "给其它模组用的条件判断库（商店、邮件、刷怪规则都依赖它）。",
    "file": "cherry-expandedpreconditionsutility.zip",
-   "size": 23268
+   "size": 23268,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.ExpandedPreconditionsUtility.jpg"
   },
   {
    "uniqueId": "hxw.tilesheets",
@@ -850,7 +911,8 @@
    "ver": "2.0.0",
    "desc": "水族馆、太阳莓村等地图模组共用的素材库。",
    "file": "hxw-tilesheets.zip",
-   "size": 11988980
+   "size": 11988980,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hxw.tilesheets.jpg"
   },
   {
    "uniqueId": "FlashShifter.SVECode",
@@ -861,7 +923,8 @@
    "desc": "大型扩展：新地图、新 NPC、新剧情、新农场（97MB，走 GitHub Release 下载）",
    "file": "sve-release.zip",
    "size": 102400000,
-   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/SVE-.-1.15.11.zip"
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/SVE-.-1.15.11.zip",
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/FlashShifter.SVECode.jpg"
   },
   {
    "uniqueId": "Rafseazz.RidgesideVillage",
@@ -872,7 +935,8 @@
    "desc": "大型扩展：全新小镇、30+ 角色、新事件（53MB，走 GitHub Release 下载）",
    "file": "rsv-release.zip",
    "size": 55000000,
-   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/-2.5.17.zip"
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v1/-2.5.17.zip",
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Rafseazz.RidgesideVillage.jpg"
   },
   {
    "uniqueId": "DTZ.DowntownZuzuBL",
@@ -883,7 +947,8 @@
    "desc": "大型扩展：新增「祖祖城」城区、商店与任务（111MB，走应 GitHub Release 下载）",
    "file": "zuzu-release.zip",
    "size": 117000000,
-   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-DowntownZuzu.zip"
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-DowntownZuzu.zip",
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DTZ.DowntownZuzuBL.jpg"
   },
   {
    "uniqueId": "atravita.EastScarp",
@@ -894,7 +959,8 @@
    "desc": "大型扩展：东斯卡普地图与大量 NPC、剧情（38MB，走 GitHub Release 下载）",
    "file": "eastscarp-release.zip",
    "size": 40780000,
-   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-EastScarp.zip"
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-EastScarp.zip",
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/atravita.EastScarp.jpg"
   },
   {
    "uniqueId": "Poltergeister.SeasonalCuteCharacters",
@@ -905,7 +971,8 @@
    "desc": "四季人物立绘美化，随季节更换外观（31MB，走 GitHub Release 下载）",
    "file": "scc-release.zip",
    "size": 33340000,
-   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-SeasonalCuteCharacters.zip"
+   "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-SeasonalCuteCharacters.zip",
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Poltergeister.SeasonalCuteCharacters.jpg"
   },
   {
    "uniqueId": "DLX.Bundles",
