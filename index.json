@@ -1,5 +1,5 @@
 {
- "updated": 1795011303,
+ "updated": 1795011954,
  "count": 102,
  "mods": [
   {
@@ -907,7 +907,7 @@
   {
    "uniqueId": "DeLiXx.Custom_Farm_Loader",
    "en": "Custom Farm Loader Android",
-   "zh": "Custom Farm Loader Android",
+   "zh": "自定义农场加载器",
    "author": "DeLiXx",
    "ver": "2.2.1-android.2",
    "desc": "Improves farm related UI, loads custom farms, manages farm specific fe",
@@ -917,7 +917,7 @@
   {
    "uniqueId": "jltaylor-us.ToDew",
    "en": "To-Dew",
-   "zh": "To-Dew",
+   "zh": "待办清单-已汉化",
    "author": "Jamie Taylor",
    "ver": "2.6.3",
    "desc": "An in-game To-do list",
@@ -927,7 +927,7 @@
   {
    "uniqueId": "AaronTaggart.AutoAnimalDoors",
    "en": "AutoAnimalDoors",
-   "zh": "AutoAnimalDoors",
+   "zh": "畜棚门自动开关",
    "author": "Aaron Taggart",
    "ver": "4.2.0",
    "desc": "Open and close the doors automatically for your animals.",
@@ -937,7 +937,7 @@
   {
    "uniqueId": "cat.betterartisangoodicons",
    "en": "Better Artisan Good Icons",
-   "zh": "Better Artisan Good Icons",
+   "zh": "更精美的工匠物品图标",
    "author": "Cat",
    "ver": "1.5.0",
    "desc": "Makes jelly, pickles, wine, juice, and honey icons be based on the fru",
@@ -947,7 +947,7 @@
   {
    "uniqueId": "furyx639.CustomChores",
    "en": "CustomChores",
-   "zh": "CustomChores",
+   "zh": "自定义家务",
    "author": "furyx639",
    "ver": "1.2.1",
    "desc": "Adds customizable chores to the game.",
@@ -957,7 +957,7 @@
   {
    "uniqueId": "aedenthorn.ExtraMapLayers",
    "en": "Extra Map Layers",
-   "zh": "Extra Map Layers",
+   "zh": "额外地图图层",
    "author": "aedenthorn",
    "ver": "0.3.10",
    "desc": "Draws additional layers from map files.",
@@ -967,7 +967,7 @@
   {
    "uniqueId": "aedenthorn.FruitTreeTweaks",
    "en": "Fruit Tree Tweaks",
-   "zh": "Fruit Tree Tweaks",
+   "zh": "果树调整",
    "author": "aedenthorn",
    "ver": "0.5.2",
    "desc": "Fruit Tree Tweaks.",
@@ -977,7 +977,7 @@
   {
    "uniqueId": "furyx639.HelpfulSpouses",
    "en": "HelpfulSpouses",
-   "zh": "HelpfulSpouses",
+   "zh": "贴心的配偶",
    "author": "furyx639",
    "ver": "1.2.1",
    "desc": "Spouses perform one or more customizable chores every morning.",
@@ -987,7 +987,7 @@
   {
    "uniqueId": "aedenthorn.SprinklerMod",
    "en": "Sprinkler Mod",
-   "zh": "Sprinkler Mod",
+   "zh": "洒水器扩展",
    "author": "aedenthorn",
    "ver": "0.1.4",
    "desc": "Sprinkler Mod.",
@@ -997,7 +997,7 @@
   {
    "uniqueId": "AvalonMFX.LoveFestival",
    "en": "Love Festival",
-   "zh": "Love Festival",
+   "zh": "恋爱节-已汉化",
    "author": "AvalonMFX",
    "ver": "1.4.3",
    "desc": "Adds a Love Festival to the game",
@@ -1007,7 +1007,7 @@
   {
    "uniqueId": "aedenthorn.MobileCatalogues",
    "en": "Mobile Catalogues",
-   "zh": "Mobile Catalogues",
+   "zh": "移动图鉴商店-已汉化",
    "author": "aedenthorn",
    "ver": "1.1.0",
    "desc": "Online shopping for your mobile phone.",
@@ -1017,7 +1017,7 @@
   {
    "uniqueId": "misscoriel.UCRFix",
    "en": "Unique Response Core",
-   "zh": "Unique Response Core",
+   "zh": "UCR 核心库-已汉化",
    "author": "MissCoriel",
    "ver": "2.1.7",
    "desc": "Primary Core for use in Unique Courtship response.",
@@ -1027,7 +1027,7 @@
   {
    "uniqueId": "Omegasis.SaveAnywhere",
    "en": "Save Anywhere Redux",
-   "zh": "Save Anywhere Redux",
+   "zh": "随处存档",
    "author": "Open Source",
    "ver": "3.5.0",
    "desc": "This mod allows you to save your game at any time, anywhere.",
@@ -1037,7 +1037,7 @@
   {
    "uniqueId": "PeacefulEnd.SolidFoundations",
    "en": "Solid Foundations",
-   "zh": "Solid Foundations",
+   "zh": "坚固地基（建筑框架）",
    "author": "PeacefulEnd",
    "ver": "3.0.0",
    "desc": "Custom buildings framework for Stardew Valley.",
@@ -1047,7 +1047,7 @@
   {
    "uniqueId": "PurrplingCat.QuestFramework",
    "en": "Quest Framework",
-   "zh": "Quest Framework",
+   "zh": "任务框架-已汉化",
    "author": "PurrplingCat",
    "ver": "1.4.2",
    "desc": "Add, edit and manage your own quests and create new quest types.",
@@ -1057,7 +1057,7 @@
   {
    "uniqueId": "PeacefulEnd.FashionSense",
    "en": "Fashion Sense",
-   "zh": "Fashion Sense",
+   "zh": "时尚感（美化框架）-已汉化",
    "author": "PeacefulEnd",
    "ver": "7.5.0",
    "desc": "Framework which adds hair animation and more into Stardew Valley.",
@@ -1067,7 +1067,7 @@
   {
    "uniqueId": "purrplingcat.npcadventure",
    "en": "NPC Adventures",
-   "zh": "NPC Adventures",
+   "zh": "NPC 冒险-已汉化",
    "author": "PurrplingCat",
    "ver": "1.0.2",
    "desc": "It's time to adventure! Go to an adventure with Pelican Town's village",
@@ -1077,7 +1077,7 @@
   {
    "uniqueId": "aedenthorn.SoundTweaker",
    "en": "SoundTweaker",
-   "zh": "SoundTweaker",
+   "zh": "音效调整",
    "author": "aedenthorn",
    "ver": "0.5.1",
    "desc": "SoundTweaker.",
@@ -1087,7 +1087,7 @@
   {
    "uniqueId": "aedenthorn.FreeLove",
    "en": "Free Love",
-   "zh": "Free Love",
+   "zh": "自由恋爱-已汉化",
    "author": "aedenthorn",
    "ver": "1.5.7",
    "desc": "Free Love",
