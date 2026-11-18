@@ -1,6 +1,6 @@
 {
- "updated": 1794122000,
- "count": 81,
+ "updated": 1795010447,
+ "count": 82,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -892,6 +892,17 @@
    "file": "scc-release.zip",
    "size": 33340000,
    "url": "https://github.com/kezeyu93-cyber/sdv-index/releases/download/v2/-SeasonalCuteCharacters.zip"
+  },
+  {
+   "uniqueId": "DLX.Bundles",
+   "en": "Unlockable Bundles",
+   "zh": "解锁捆绑包",
+   "author": "DeLiXx",
+   "ver": "4.3.0",
+   "desc": "自定义收集包/套装框架，供其它模组调用（Android 版）。",
+   "file": "dlx-unlockablebundles.zip",
+   "size": 1242864,
+   "url": "https://edge.forgecdn.net/files/7729/537/Unlockable%20Bundles%20Android%204.3.0.1772978107.zip"
   }
  ]
 }
