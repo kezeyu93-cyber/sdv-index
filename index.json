@@ -1,5 +1,5 @@
 {
- "updated": 1795012130,
+ "updated": 1795012404,
  "count": 102,
  "mods": [
   {
@@ -44,7 +44,8 @@
    "desc": "把箱子放在机器旁，自动生产、自动收取，果树和蜂箱也能接。",
    "file": "pathoschild-automate.zip",
    "size": 224321,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/566/256/256/638470510120056919.png"
   },
   {
    "uniqueId": "Rakiin.AutomaticGates",
@@ -110,7 +111,8 @@
    "desc": "增加一种更大容量的背包。",
    "file": "spacechase0-biggerbackpack.zip",
    "size": 43439,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/919/256/256/638210304218130068.png"
   },
   {
    "uniqueId": "CJBok.CheatsMenu",
@@ -121,7 +123,8 @@
    "desc": "游戏内作弊菜单：时间、天气、金钱、传送等。",
    "file": "cjbok-cheatsmenu.zip",
    "size": 209819,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/900/256/256/638482484255381467.png"
   },
   {
    "uniqueId": "CJBok.ItemSpawner",
@@ -132,7 +135,8 @@
    "desc": "游戏内直接刷出任意物品，测试和偷懒用。",
    "file": "cjbok-itemspawner.zip",
    "size": 84124,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/897/256/256/638482480763852569.png"
   },
   {
    "uniqueId": "CJBok.ShowItemSellPrice",
@@ -166,7 +170,8 @@
    "desc": "可以连箱子里的东西一起搬走。",
    "file": "spacechase0-carrychest.zip",
    "size": 73536,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/926/256/256/638210304728160081.png"
   },
   {
    "uniqueId": "SPDChestLabel",
@@ -188,7 +193,8 @@
    "desc": "随时随地打开并整理所有箱子。",
    "file": "pathoschild-chestsanywhere.zip",
    "size": 190526,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/977/896/256/256/638482479274518159.png"
   },
   {
    "uniqueId": "LemurKat.CommunityCenter.CP",
@@ -210,7 +216,8 @@
    "desc": "内容类模组的公共前置，负责把图片、地图、对话注入游戏。",
    "file": "pathoschild-contentpatcher.zip",
    "size": 389967,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/182/370/256/256/636807483214462878.png"
   },
   {
    "uniqueId": "aEnigma.ConvenientChests",
@@ -244,7 +251,8 @@
    "desc": "为自定义家具内容包提供支持的前置。",
    "file": "platonymous-customfurniture.zip",
    "size": 45604,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/835/998/256/256/638228019829593815.png"
   },
   {
    "uniqueId": "Spiderbuttons.CustomScheduleKeys",
@@ -321,7 +329,8 @@
    "desc": "让内容包向游戏添加自定义物品与资源。",
    "file": "spacechase0-dynamicgameassets.zip",
    "size": 335564,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/888/256/256/638210289889110318.png"
   },
   {
    "uniqueId": "Esca.EMP",
@@ -409,7 +418,8 @@
    "desc": "在游戏内提供统一的模组设置界面。",
    "file": "spacechase0-genericmodconfigmenu.zip",
    "size": 108656,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/824/209/256/256/638209053331771010.png"
   },
   {
    "uniqueId": "JoXW.GiftTasteHelper",
@@ -475,7 +485,8 @@
    "desc": "按一个键查看任何东西的详细信息。",
    "file": "pathoschild-lookupanything.zip",
    "size": 631425,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/498/256/256/638470396562907568.jpg"
   },
   {
    "uniqueId": "blueberry.LoveOfCooking",
@@ -620,7 +631,8 @@
    "desc": "骷髅洞穴里也装上电梯，不用每次从 1 层重爬。",
    "file": "skullcavernelevator.zip",
    "size": 177512,
-   "zhDone": false
+   "zhDone": false,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/864/256/256/638466409737696434.jpeg"
   },
   {
    "uniqueId": "spacechase0.SpaceCore",
@@ -741,7 +753,8 @@
    "desc": "买一台拖拉机，耕地、清石头树枝效率翻倍。",
    "file": "pathoschild-tractormod.zip",
    "size": 368856,
-   "zhDone": true
+   "zhDone": true,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/969/558/256/256/638470497319160941.jpg"
   },
   {
    "uniqueId": "Annosz.UiInfoSuite2",
@@ -816,7 +829,8 @@
    "ver": "5.1.0",
    "desc": "让模组添加跟随宠物/伙伴的框架，ARV 等模组必需。",
    "file": "peacefulend-customcompanions.zip",
-   "size": 79573
+   "size": 79573,
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/572/256/256/638216469821229845.png"
   },
   {
    "uniqueId": "Cherry.ExpandedPreconditionsUtility",
@@ -902,7 +916,8 @@
    "desc": "自定义收集包/套装框架，供其它模组调用（Android 版）。",
    "file": "dlx-unlockablebundles.zip",
    "size": 1242864,
-   "url": "https://edge.forgecdn.net/files/7729/537/Unlockable%20Bundles%20Android%204.3.0.1772978107.zip"
+   "url": "https://edge.forgecdn.net/files/7729/537/Unlockable%20Bundles%20Android%204.3.0.1772978107.zip",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/967/297/256/256/638467127923545959.png"
   },
   {
    "uniqueId": "DeLiXx.Custom_Farm_Loader",
@@ -912,7 +927,9 @@
    "ver": "2.2.1-android.2",
    "desc": "自定义农场加载器：让其它模组挂载自己的农场类型，Android 专用构建。",
    "file": "custom-farm-loader.zip",
-   "size": 124425
+   "size": 124425,
+   "intro": "自定义农场加载器。让其它模组注册自己的农场类型（地图布局），本模组负责在新建存档时把它们挂进农场选择列表。\n\n这是 DeLiXx 系列的前置框架，需要配合具体的农场包一起用；单独安装不会改变游戏内容。\n安装后新建存档时，农场选择界面会出现额外选项。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/966/891/256/256/638466437623794426.png"
   },
   {
    "uniqueId": "jltaylor-us.ToDew",
@@ -922,7 +939,9 @@
    "ver": "2.6.3",
    "desc": "待办清单：在游戏里记下还没做完的事，随时查看与勾掉。",
    "file": "to-dew.zip",
-   "size": 88312
+   "size": 88312,
+   "intro": "游戏内待办清单。按快捷键（默认 F8）呼出面板，可以随手记下「明天要收玉米」「去铁匠铺升级锄头」这类事。\n\n支持多条清单、完成打勾、到期提醒；数据存在存档目录里，跟着存档走。\n钓鱼、下矿、跑图时临时记事特别顺手，不用切出游戏。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/974/179/256/256/638477080208541379.png"
   },
   {
    "uniqueId": "AaronTaggart.AutoAnimalDoors",
@@ -932,7 +951,9 @@
    "ver": "4.2.0",
    "desc": "畜棚门自动开关：早上去自动开门放动物出去，晚上自动关回来。",
    "file": "autoanimaldoors.zip",
-   "size": 25156
+   "size": 25156,
+   "intro": "畜棚门自动开关。每天早上到点自动打开畜棚和鸡舍的门，让动物出去；傍晚自动关回来过夜。\n\n开门/关门时间可以在 config.json 里改，也能设置成只在下雨天关门。\n适合懒得每天手动开关门、又怕动物晚上被关在外面的玩家。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/980/60/256/256/638486183838478432.png"
   },
   {
    "uniqueId": "cat.betterartisangoodicons",
@@ -942,7 +963,9 @@
    "ver": "1.5.0",
    "desc": "更精美的工匠物品图标：果酱、果酒、腌菜等图标直接显示原料，一眼分清。",
    "file": "better-artisan-good-icons.zip",
-   "size": 88524
+   "size": 88524,
+   "intro": "更精美的工匠物品图标。让果酱、果酒、果汁、腌菜、蜂蜜这些工匠物品的图标直接显示原料（比如草莓酱的图标就是草莓罐子）。\n\n原来的瓶瓶罐罐全都长得一样，一箱子里分不清谁是谁；装了这个之后一眼就能认出来。\n只改贴图，不改数值，跟其它模组兼容性好。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/1122/550/256/256/638678459300080979.png"
   },
   {
    "uniqueId": "furyx639.CustomChores",
@@ -952,7 +975,9 @@
    "ver": "1.2.1",
    "desc": "自定义家务：给配偶安排自定义的日常家务，可逐项配置。",
    "file": "custom-chores.zip",
-   "size": 43362
+   "size": 43362,
+   "intro": "自定义家务。给配偶添加可配置的家务清单：浇水、喂动物、修栅栏、补草料、清杂草等，做哪些可以逐项开关。\n\n和「贴心的配偶」(HelpfulSpouses) 属于同一作者的两个方向：这个偏「安排配偶做什么」，那个偏「让配偶多做点」。\n配置项在 config.json，改完重启游戏生效。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/570/256/256/638218101486267073.png"
   },
   {
    "uniqueId": "aedenthorn.ExtraMapLayers",
@@ -962,7 +987,9 @@
    "ver": "0.3.10",
    "desc": "额外地图图层：为地图增加叠加图层，供其它模组绘制内容。",
    "file": "extra-map-layers.zip",
-   "size": 9548
+   "size": 9548,
+   "intro": "额外地图图层。给地图文件增加可叠加的绘制图层，供其它模组往地图上画东西（装饰、标记、光影等）而不用改原图。\n\n这是一个底层框架，单独装了看不到变化，但很多美化类模组依赖它。\n作者 aedenthorn 的框架系列之一，注意别和「动态游戏资源」搞混。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/154/256/256/638212143337565359.png"
   },
   {
    "uniqueId": "aedenthorn.FruitTreeTweaks",
@@ -972,7 +999,9 @@
    "ver": "0.5.2",
    "desc": "果树调整：可配置果树的生长速度、结果数量与产出规则。",
    "file": "fruit-tree-tweaks.zip",
-   "size": 28198
+   "size": 28198,
+   "intro": "果树调整。可以改果树的生长速度、果实成熟速度、每次结果数量、果实品质概率等。\n\n全部参数都在 config.json 里，默认值等同于原版；想速通或者想慢慢玩都能调。\n只对果树（苹果、桃子、橙子、樱桃、杏、香蕉、芒果）生效，不影响普通作物。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/85/256/256/638212142407923749.png"
   },
   {
    "uniqueId": "furyx639.HelpfulSpouses",
@@ -982,7 +1011,9 @@
    "ver": "1.2.1",
    "desc": "贴心的配偶：让配偶帮你浇水、喂动物、修栅栏等，做哪些可自己选。",
    "file": "helpful-spouses.zip",
-   "size": 15463
+   "size": 15463,
+   "intro": "贴心的配偶。让配偶每天帮你干一点农活：浇水、喂动物、修围栏、清杂草、补草料等，可逐项开启。\n\n结婚之后配偶原本只会偶尔送个礼物，装了这个之后他们会真的下地干活。\n和「自定义家务」是同一作者的姊妹模组，二者可以只装一个。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/829/571/256/256/638218101501164984.png"
   },
   {
    "uniqueId": "aedenthorn.SprinklerMod",
@@ -992,7 +1023,9 @@
    "ver": "0.1.4",
    "desc": "洒水器扩展：可调整洒水器范围与浇水方式。",
    "file": "sprinkler-mod.zip",
-   "size": 14942
+   "size": 14942,
+   "intro": "洒水器扩展。可以自定义洒水器的浇水范围与行为，比如让高级洒水器覆盖更大区域。\n\n参数在 config.json 里调（范围、形状），默认不改动原版数值。\n适合大规模农场，配合「自动化」使用体验更好。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/825/995/256/256/638212141278702167.png"
   },
   {
    "uniqueId": "AvalonMFX.LoveFestival",
@@ -1002,7 +1035,9 @@
    "ver": "1.4.3",
    "desc": "恋爱节：新增节日玩法，给村民写情书、收情书，还能约人出去约会。",
    "file": "love-festival.zip",
-   "size": 135125
+   "size": 135125,
+   "intro": "恋爱节。在春季新增一个节日：村民会给彼此写情书，你也可以给心仪的人送信、收信，甚至约人出去约会。\n\n节日当天镇中心会有专门的活动场景，每个 NPC 都有专属台词（已婚/未婚两套）。\n还有丘比特商店，花金币买「爱神之箭」可以在一周内提升好感获取速度 20%。\n本模组的中文界面与台词已由 BOX 汉化（i18n/zh.json）。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/994/48/256/256/638509265808175465.png"
   },
   {
    "uniqueId": "aedenthorn.MobileCatalogues",
@@ -1012,7 +1047,9 @@
    "ver": "1.1.0",
    "desc": "移动图鉴商店：把各商店的图鉴做成随身道具，随时下单购买。",
    "file": "mobile-catalogues.zip",
-   "size": 41336
+   "size": 41336,
+   "intro": "移动图鉴商店。把各个商店的图鉴（墙壁地板、家具、种子、旅行商人、沙漠商人、帽子鼠、服装、矮人、科罗布斯、冒险家公会）做成随身道具，走到哪买到哪。\n\n不用再为了买个墙纸跑一趟木匠店，深夜也能下单。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/199/256/256/638212143926859093.png"
   },
   {
    "uniqueId": "misscoriel.UCRFix",
@@ -1022,7 +1059,9 @@
    "ver": "2.1.7",
    "desc": "UCR 核心库：Unique Courtship Response 的共用前置，供依赖它的模组调用。",
    "file": "miss-coriels-unique-courtship-response-core.zip",
-   "size": 31134
+   "size": 31134,
+   "intro": "Unique Courtship Response 的核心库（UCR Core）。给「独特的恋爱回应」系列模组提供共用的数据结构与接口。\n\n单独安装不产生游戏内变化，但依赖它的恋爱对白模组没有它会直接加载失败。\n如果你装了其它 misscoriel 的恋爱类模组，这个必须装。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/844/820/256/256/638242279800954018.png"
   },
   {
    "uniqueId": "Omegasis.SaveAnywhere",
@@ -1032,7 +1071,9 @@
    "ver": "3.5.0",
    "desc": "随处存档：在任意地点直接存档，不用跑回家睡觉。",
    "file": "save-anywhere.zip",
-   "size": 32351
+   "size": 32351,
+   "intro": "随处存档。在原版里存档必须回家睡觉，装了它之后在任意地点按快捷键就能存档，下矿到一半也能先存一下。\n\n支持设置是否允许在节日/事件中存档、是否在存档后立即回主菜单等。\n配合多人模式使用时要小心，建议只在自己单人存档里用。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/859/920/256/256/638266128582169645.png"
   },
   {
    "uniqueId": "PeacefulEnd.SolidFoundations",
@@ -1042,7 +1083,9 @@
    "ver": "3.0.0",
    "desc": "坚固地基（建筑框架）：让模组添加带地基、可多层叠加的自定义建筑。",
    "file": "solid-foundations.zip",
-   "size": 86454
+   "size": 86454,
+   "intro": "坚固地基——自定义建筑框架。让模组作者可以添加带地基、可多层叠加、能放置在任意地形上的建筑。\n\n这是 PeacefulEnd 三件套（可选材质 / 时尚感 / 坚固地基）之一，很多建筑类内容包依赖它。\n单独安装不会新增内容，但缺了它那些建筑包会加载失败。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/562/256/256/638216469555822127.png"
   },
   {
    "uniqueId": "PurrplingCat.QuestFramework",
@@ -1052,7 +1095,9 @@
    "ver": "1.4.2",
    "desc": "任务框架：用 JSON 给游戏添加自定义任务与委托，模组作者的前置。",
    "file": "quest-framework.zip",
-   "size": 256884
+   "size": 256884,
+   "intro": "任务框架。让模组作者用 JSON 添加自定义任务、委托、剧情线，并支持自定义任务类型（比如「收获 N 个某物」）。\n\n很多剧情扩展模组（NPC 冒险等）都依赖它；装了它之后那些模组的任务才会出现在日志里。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/214/256/256/637799888279989813.png"
   },
   {
    "uniqueId": "PeacefulEnd.FashionSense",
@@ -1062,7 +1107,9 @@
    "ver": "7.5.0",
    "desc": "时尚感（美化框架）：给角色加可换的发型、帽子、衣服、配饰等外观。",
    "file": "fashion-sense.zip",
-   "size": 318146
+   "size": 318146,
+   "intro": "时尚感——美化框架。给角色添加可更换的发型、帽子、衣服、袖口、配饰、裙摆等外观，并支持头发/裙摆的物理摆动。\n\n它本身只提供框架和一套基础素材，真正的衣服和发型来自各种「Fashion Sense 内容包」。\n是目前星露谷最主流的角色美化方案，装美化包前必须先装它。\n内置多语言，中文由作者自带。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/566/256/256/638216469596869814.png"
   },
   {
    "uniqueId": "purrplingcat.npcadventure",
@@ -1072,7 +1119,9 @@
    "ver": "1.0.2",
    "desc": "NPC 冒险：邀请村民跟随你一起出门冒险、战斗、下矿。",
    "file": "npc-adventures.zip",
-   "size": 418099
+   "size": 418099,
+   "intro": "NPC 冒险。邀请村民跟你一起出门：他们会跟着你下矿、战斗、钓鱼、捡东西，还会根据性格说不同的话。\n\n出发前要给同伴准备食物和装备（在专门的冒险准备界面里配置），不同 NPC 擅长的战斗方式不一样。\n依赖「任务框架」，两个都要装。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/491/269/256/256/637800104852179009.png"
   },
   {
    "uniqueId": "aedenthorn.SoundTweaker",
@@ -1082,7 +1131,9 @@
    "ver": "0.5.1",
    "desc": "音效调整：可修改游戏音效的音量、音高等参数。",
    "file": "sound-tweaker.zip",
-   "size": 18475
+   "size": 18475,
+   "intro": "音效调整。可以改游戏音效的音量、音高、循环方式等参数，适合做音频类模组的前置，或者单纯想把某个音效调小。\n\n参数在 config.json 里配，默认不改动原版听感。\n纯客户端模组，不影响存档。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/6/256/256/638212141425731052.png"
   },
   {
    "uniqueId": "aedenthorn.FreeLove",
@@ -1092,7 +1143,9 @@
    "ver": "1.5.7",
    "desc": "自由恋爱：解除恋爱人数限制，可同时与多位村民交往或结婚（可配置）。",
    "file": "free-love.zip",
-   "size": 69012
+   "size": 69012,
+   "intro": "自由恋爱。解除原版「只能跟一个人交往/结婚」的限制，可以同时和多位村民谈恋爱、甚至多人结婚。\n\n支持配置哪些 NPC 之间会互相吃醋、是否允许重婚、婚后是否还能继续追求其他人等，全部在 config.json 里。\n和多人模式、以及各种恋爱类模组都更容易兼容。\n内置多语言，中文由作者自带。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/826/148/256/256/638212143259615441.png"
   },
   {
    "uniqueId": "PeacefulEnd.AlternativeTextures",
@@ -1102,7 +1155,9 @@
    "ver": "8.1.1",
    "desc": "可选材质（材质框架）：给物体、建筑、动物套用可替换的外观材质。",
    "file": "alternative-textures.zip",
-   "size": 160507
+   "size": 160507,
+   "intro": "可选材质——材质框架。给物体、建筑、动物、家具等套用可替换的外观材质，配合油漆桶/油漆刷/剪刀等工具使用。\n\n它本身只提供框架和工具，实际的材质包来自各种「Alternative Textures 内容包」。\n和「时尚感」是姊妹框架：那个管角色外观，这个管场景与物品外观。\n中文界面已由 BOX 汉化（i18n/zh.json）。",
+   "cover": "https://media.forgecdn.net/avatars/thumbnails/828/571/256/256/638216469659070216.png"
   }
  ]
 }
