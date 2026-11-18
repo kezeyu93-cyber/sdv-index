@@ -1,6 +1,6 @@
 {
- "updated": 1795010447,
- "count": 82,
+ "updated": 1795011303,
+ "count": 102,
  "mods": [
   {
    "uniqueId": "ZoeDoll.NPCAlecto",
@@ -903,6 +903,206 @@
    "file": "dlx-unlockablebundles.zip",
    "size": 1242864,
    "url": "https://edge.forgecdn.net/files/7729/537/Unlockable%20Bundles%20Android%204.3.0.1772978107.zip"
+  },
+  {
+   "uniqueId": "DeLiXx.Custom_Farm_Loader",
+   "en": "Custom Farm Loader Android",
+   "zh": "Custom Farm Loader Android",
+   "author": "DeLiXx",
+   "ver": "2.2.1-android.2",
+   "desc": "Improves farm related UI, loads custom farms, manages farm specific fe",
+   "file": "custom-farm-loader.zip",
+   "size": 124425
+  },
+  {
+   "uniqueId": "jltaylor-us.ToDew",
+   "en": "To-Dew",
+   "zh": "To-Dew",
+   "author": "Jamie Taylor",
+   "ver": "2.6.3",
+   "desc": "An in-game To-do list",
+   "file": "to-dew.zip",
+   "size": 88312
+  },
+  {
+   "uniqueId": "AaronTaggart.AutoAnimalDoors",
+   "en": "AutoAnimalDoors",
+   "zh": "AutoAnimalDoors",
+   "author": "Aaron Taggart",
+   "ver": "4.2.0",
+   "desc": "Open and close the doors automatically for your animals.",
+   "file": "autoanimaldoors.zip",
+   "size": 25156
+  },
+  {
+   "uniqueId": "cat.betterartisangoodicons",
+   "en": "Better Artisan Good Icons",
+   "zh": "Better Artisan Good Icons",
+   "author": "Cat",
+   "ver": "1.5.0",
+   "desc": "Makes jelly, pickles, wine, juice, and honey icons be based on the fru",
+   "file": "better-artisan-good-icons.zip",
+   "size": 88524
+  },
+  {
+   "uniqueId": "furyx639.CustomChores",
+   "en": "CustomChores",
+   "zh": "CustomChores",
+   "author": "furyx639",
+   "ver": "1.2.1",
+   "desc": "Adds customizable chores to the game.",
+   "file": "custom-chores.zip",
+   "size": 43362
+  },
+  {
+   "uniqueId": "aedenthorn.ExtraMapLayers",
+   "en": "Extra Map Layers",
+   "zh": "Extra Map Layers",
+   "author": "aedenthorn",
+   "ver": "0.3.10",
+   "desc": "Draws additional layers from map files.",
+   "file": "extra-map-layers.zip",
+   "size": 9548
+  },
+  {
+   "uniqueId": "aedenthorn.FruitTreeTweaks",
+   "en": "Fruit Tree Tweaks",
+   "zh": "Fruit Tree Tweaks",
+   "author": "aedenthorn",
+   "ver": "0.5.2",
+   "desc": "Fruit Tree Tweaks.",
+   "file": "fruit-tree-tweaks.zip",
+   "size": 28198
+  },
+  {
+   "uniqueId": "furyx639.HelpfulSpouses",
+   "en": "HelpfulSpouses",
+   "zh": "HelpfulSpouses",
+   "author": "furyx639",
+   "ver": "1.2.1",
+   "desc": "Spouses perform one or more customizable chores every morning.",
+   "file": "helpful-spouses.zip",
+   "size": 15463
+  },
+  {
+   "uniqueId": "aedenthorn.SprinklerMod",
+   "en": "Sprinkler Mod",
+   "zh": "Sprinkler Mod",
+   "author": "aedenthorn",
+   "ver": "0.1.4",
+   "desc": "Sprinkler Mod.",
+   "file": "sprinkler-mod.zip",
+   "size": 14942
+  },
+  {
+   "uniqueId": "AvalonMFX.LoveFestival",
+   "en": "Love Festival",
+   "zh": "Love Festival",
+   "author": "AvalonMFX",
+   "ver": "1.4.3",
+   "desc": "Adds a Love Festival to the game",
+   "file": "love-festival.zip",
+   "size": 135125
+  },
+  {
+   "uniqueId": "aedenthorn.MobileCatalogues",
+   "en": "Mobile Catalogues",
+   "zh": "Mobile Catalogues",
+   "author": "aedenthorn",
+   "ver": "1.1.0",
+   "desc": "Online shopping for your mobile phone.",
+   "file": "mobile-catalogues.zip",
+   "size": 41336
+  },
+  {
+   "uniqueId": "misscoriel.UCRFix",
+   "en": "Unique Response Core",
+   "zh": "Unique Response Core",
+   "author": "MissCoriel",
+   "ver": "2.1.7",
+   "desc": "Primary Core for use in Unique Courtship response.",
+   "file": "miss-coriels-unique-courtship-response-core.zip",
+   "size": 31134
+  },
+  {
+   "uniqueId": "Omegasis.SaveAnywhere",
+   "en": "Save Anywhere Redux",
+   "zh": "Save Anywhere Redux",
+   "author": "Open Source",
+   "ver": "3.5.0",
+   "desc": "This mod allows you to save your game at any time, anywhere.",
+   "file": "save-anywhere.zip",
+   "size": 32351
+  },
+  {
+   "uniqueId": "PeacefulEnd.SolidFoundations",
+   "en": "Solid Foundations",
+   "zh": "Solid Foundations",
+   "author": "PeacefulEnd",
+   "ver": "3.0.0",
+   "desc": "Custom buildings framework for Stardew Valley.",
+   "file": "solid-foundations.zip",
+   "size": 86454
+  },
+  {
+   "uniqueId": "PurrplingCat.QuestFramework",
+   "en": "Quest Framework",
+   "zh": "Quest Framework",
+   "author": "PurrplingCat",
+   "ver": "1.4.2",
+   "desc": "Add, edit and manage your own quests and create new quest types.",
+   "file": "quest-framework.zip",
+   "size": 256884
+  },
+  {
+   "uniqueId": "PeacefulEnd.FashionSense",
+   "en": "Fashion Sense",
+   "zh": "Fashion Sense",
+   "author": "PeacefulEnd",
+   "ver": "7.5.0",
+   "desc": "Framework which adds hair animation and more into Stardew Valley.",
+   "file": "fashion-sense.zip",
+   "size": 318146
+  },
+  {
+   "uniqueId": "purrplingcat.npcadventure",
+   "en": "NPC Adventures",
+   "zh": "NPC Adventures",
+   "author": "PurrplingCat",
+   "ver": "1.0.2",
+   "desc": "It's time to adventure! Go to an adventure with Pelican Town's village",
+   "file": "npc-adventures.zip",
+   "size": 418099
+  },
+  {
+   "uniqueId": "aedenthorn.SoundTweaker",
+   "en": "SoundTweaker",
+   "zh": "SoundTweaker",
+   "author": "aedenthorn",
+   "ver": "0.5.1",
+   "desc": "SoundTweaker.",
+   "file": "sound-tweaker.zip",
+   "size": 18475
+  },
+  {
+   "uniqueId": "aedenthorn.FreeLove",
+   "en": "Free Love",
+   "zh": "Free Love",
+   "author": "aedenthorn",
+   "ver": "1.5.7",
+   "desc": "Free Love",
+   "file": "free-love.zip",
+   "size": 69012
+  },
+  {
+   "uniqueId": "PeacefulEnd.AlternativeTextures",
+   "en": "Alternative Textures",
+   "zh": "Alternative Textures",
+   "author": "PeacefulEnd",
+   "ver": "8.1.1",
+   "desc": "Framework which allows the usage of different textures for placeable i",
+   "file": "alternative-textures.zip",
+   "size": 160507
   }
  ]
 }
