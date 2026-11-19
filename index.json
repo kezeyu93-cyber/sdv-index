@@ -1,5 +1,5 @@
 {
- "updated": 1795095345,
+ "updated": 1795095357,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
-   "en": "Mapping Extensions and Extra Properties (MEEP)",
-   "zh": "MEEP 地图扩展属性",
-   "author": "DecidedlyHuman",
-   "ver": "2.5.3",
-   "desc": "给地图作者用的额外瓦片属性框架，本身不带内容，是很多大型地图包的必装前置。",
+   "uniqueId": "Spiderbuttons.CMF",
+   "en": "Custom Museum Framework (CMF)",
+   "zh": "自定义博物馆框架 CMF",
+   "author": "Spiderbuttons",
+   "ver": "1.6.2",
+   "desc": "让模组作者能添加自定义博物馆的框架（含捐赠、收藏进度、展台）。",
    "tag": "前置",
-   "file": "decidedlyhuman-meep.zip",
-   "intro": "给地图作者用的额外瓦片属性框架，本身不带内容，是很多大型地图包的必装前置。",
+   "file": "spiderbuttons-cmf.zip",
+   "intro": "让模组作者能添加自定义博物馆的框架（含捐赠、收藏进度、展台）。",
    "zhDone": true,
-   "size": 87814,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DecidedlyHuman.MappingExtensionsAndExtraProperties.jpg"
+   "size": 88691,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.CMF.jpg"
   }
  ]
 }
