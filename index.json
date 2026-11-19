@@ -1,5 +1,5 @@
 {
- "updated": 1795095377,
+ "updated": 1795095386,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "hootless.BusLocations",
-   "en": "Bus Locations",
-   "zh": "巴士站点扩展",
-   "author": "hootless",
-   "ver": "1.2.0",
-   "desc": "给巴士增加更多可选目的地（含沙漠站点），市中心祖祖等地图包的前置。",
+   "uniqueId": "Cherry.TrainStation",
+   "en": "Train Station",
+   "zh": "火车站",
+   "author": "Cherry",
+   "ver": "2.2.2",
+   "desc": "让铁路的火车站真正可用，模组作者可以加自己的站点。市中心祖祖需要。",
    "tag": "前置",
-   "file": "hootless-buslocations.zip",
-   "intro": "给巴士增加更多可选目的地（含沙漠站点），市中心祖祖等地图包的前置。",
+   "file": "cherry-trainstation.zip",
+   "intro": "让铁路的火车站真正可用，模组作者可以加自己的站点。市中心祖祖需要。",
    "zhDone": true,
-   "size": 14174,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/hootless.BusLocations.jpg"
+   "size": 34905,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Cherry.TrainStation.jpg"
   }
  ]
 }
