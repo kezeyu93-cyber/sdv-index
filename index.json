@@ -1,5 +1,5 @@
 {
- "updated": 1795095321,
+ "updated": 1795095333,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "Lumisteria.LumiTilesheetsIndoor",
-   "en": "Lumisteria Tilesheets - Indoor",
-   "zh": "Lumisteria 室内图块库",
+   "uniqueId": "Lumisteria.TtilesheetsOutdoor",
+   "en": "Lumisteria Tilesheets - Outdoor",
+   "zh": "Lumisteria 室外图块库",
    "author": "Lumisteria",
    "ver": "1.4.0",
-   "desc": "给地图模组用的室内家具图块库。太阳莓村、东斯卡普、瓦皮乌斯山都要它，缺了这些地图包会报错。",
+   "desc": "给地图模组用的室外建筑图块库，东斯卡普等地图包的前置。",
    "tag": "前置",
-   "file": "lumisteria-tilesheets-indoor.zip",
-   "intro": "给地图模组用的室内家具图块库。太阳莓村、东斯卡普、瓦皮乌斯山都要它，缺了这些地图包会报错。",
+   "file": "lumisteria-tilesheets-outdoor.zip",
+   "intro": "给地图模组用的室外建筑图块库，东斯卡普等地图包的前置。",
    "zhDone": true,
-   "size": 1562288,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Lumisteria.LumiTilesheetsIndoor.jpg"
+   "size": 1100778,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Lumisteria.TtilesheetsOutdoor.jpg"
   }
  ]
 }
