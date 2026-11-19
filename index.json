@@ -1,5 +1,5 @@
 {
- "updated": 1795095357,
+ "updated": 1795095367,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "Spiderbuttons.CMF",
-   "en": "Custom Museum Framework (CMF)",
-   "zh": "自定义博物馆框架 CMF",
+   "uniqueId": "Spiderbuttons.BETAS",
+   "en": "Button's Extra Trigger Action Stuff (BETAS)",
+   "zh": "BETAS 触发器动作扩展",
    "author": "Spiderbuttons",
-   "ver": "1.6.2",
-   "desc": "让模组作者能添加自定义博物馆的框架（含捐赠、收藏进度、展台）。",
+   "ver": "3.5.2",
+   "desc": "给模组作者扩展触发器、动作、查询条件的框架，瓦皮乌斯山等地图包需要。",
    "tag": "前置",
-   "file": "spiderbuttons-cmf.zip",
-   "intro": "让模组作者能添加自定义博物馆的框架（含捐赠、收藏进度、展台）。",
+   "file": "spiderbuttons-betas.zip",
+   "intro": "给模组作者扩展触发器、动作、查询条件的框架，瓦皮乌斯山等地图包需要。",
    "zhDone": true,
-   "size": 88691,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.CMF.jpg"
+   "size": 127908,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.BETAS.jpg"
   }
  ]
 }
