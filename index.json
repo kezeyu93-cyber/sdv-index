@@ -1,5 +1,5 @@
 {
- "updated": 1795095367,
+ "updated": 1795095377,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "Spiderbuttons.BETAS",
-   "en": "Button's Extra Trigger Action Stuff (BETAS)",
-   "zh": "BETAS 触发器动作扩展",
-   "author": "Spiderbuttons",
-   "ver": "3.5.2",
-   "desc": "给模组作者扩展触发器、动作、查询条件的框架，瓦皮乌斯山等地图包需要。",
+   "uniqueId": "hootless.BusLocations",
+   "en": "Bus Locations",
+   "zh": "巴士站点扩展",
+   "author": "hootless",
+   "ver": "1.2.0",
+   "desc": "给巴士增加更多可选目的地（含沙漠站点），市中心祖祖等地图包的前置。",
    "tag": "前置",
-   "file": "spiderbuttons-betas.zip",
-   "intro": "给模组作者扩展触发器、动作、查询条件的框架，瓦皮乌斯山等地图包需要。",
+   "file": "hootless-buslocations.zip",
+   "intro": "给巴士增加更多可选目的地（含沙漠站点），市中心祖祖等地图包的前置。",
    "zhDone": true,
-   "size": 127908,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.BETAS.jpg"
+   "size": 14174,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/hootless.BusLocations.jpg"
   }
  ]
 }
