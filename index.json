@@ -1,5 +1,5 @@
 {
- "updated": 1795095386,
+ "updated": 1795095396,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "Cherry.TrainStation",
-   "en": "Train Station",
-   "zh": "火车站",
-   "author": "Cherry",
-   "ver": "2.2.2",
-   "desc": "让铁路的火车站真正可用，模组作者可以加自己的站点。市中心祖祖需要。",
+   "uniqueId": "DaLion.Core",
+   "en": "Lionheart - Core Framework",
+   "zh": "Lionheart 核心框架",
+   "author": "DaLion",
+   "ver": "2.2.6",
+   "desc": "DaLion 系列模组的公共核心，生活方式·重生等模组的必装前置。",
    "tag": "前置",
-   "file": "cherry-trainstation.zip",
-   "intro": "让铁路的火车站真正可用，模组作者可以加自己的站点。市中心祖祖需要。",
+   "file": "dalion-core.zip",
+   "intro": "DaLion 系列模组的公共核心，生活方式·重生等模组的必装前置。",
    "zhDone": true,
-   "size": 34905,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Cherry.TrainStation.jpg"
+   "size": 697662,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DaLion.Core.jpg"
   }
  ]
 }
