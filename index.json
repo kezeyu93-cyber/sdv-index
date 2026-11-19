@@ -1,5 +1,5 @@
 {
- "updated": 1795095396,
+ "updated": 1795095407,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "DaLion.Core",
-   "en": "Lionheart - Core Framework",
-   "zh": "Lionheart 核心框架",
-   "author": "DaLion",
-   "ver": "2.2.6",
-   "desc": "DaLion 系列模组的公共核心，生活方式·重生等模组的必装前置。",
+   "uniqueId": "aedenthorn.MobilePhone",
+   "en": "Mobile Phone",
+   "zh": "手机",
+   "author": "aedenthorn",
+   "ver": "3.5.1",
+   "desc": "可以打电话、看提示、查物品图鉴的手机。移动图鉴商店需要它。",
    "tag": "前置",
-   "file": "dalion-core.zip",
-   "intro": "DaLion 系列模组的公共核心，生活方式·重生等模组的必装前置。",
+   "file": "aedenthorn-mobilephone.zip",
+   "intro": "可以打电话、看提示、查物品图鉴的手机。移动图鉴商店需要它。",
    "zhDone": true,
-   "size": 697662,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DaLion.Core.jpg"
+   "size": 581967,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/aedenthorn.MobilePhone.jpg"
   }
  ]
 }
