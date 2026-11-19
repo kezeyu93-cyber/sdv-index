@@ -1339,7 +1339,7 @@
    "file": "mistyspring-itemextensions.zip",
    "intro": "这是一个底层框架，单独装上游戏里看不出变化，但依赖它的内容包没有它会直接加载失败。\n\n它能做的事：\n· 自定义矿石、杂草、可砍伐/可敲碎物件的掉落\n· 自定义机器与动物的产出（含品质、概率）\n· 自定义商店交易与菜单动作\n· 给混合种子 / 淘金等原版行为加自定义结果\n\n配置在 config.json 里逐项开关（混合种子、淘金、菜单操作、品质自定义、商店交易）。改完建议重启游戏。\n\n装法：整个 ItemExtensions 文件夹放进 Mods，SMAPI 会自动识别。",
    "size": 156286,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
    "uniqueId": "aedenthorn.MobilePhone",
@@ -1353,7 +1353,7 @@
    "intro": "可以打电话、看提示、查物品图鉴的手机。移动图鉴商店需要它。",
    "zhDone": true,
    "size": 581967,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/aedenthorn.MobilePhone.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/aedenthorn.MobilePhone.jpg"
   },
   {
    "uniqueId": "Lumisteria.LumiTilesheetsIndoor",
@@ -1367,7 +1367,7 @@
    "intro": "给地图模组用的室内家具图块库。太阳莓村、东斯卡普、瓦皮乌斯山都要它，缺了这些地图包会报错。",
    "zhDone": true,
    "size": 1562288,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Lumisteria.LumiTilesheetsIndoor.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Lumisteria.LumiTilesheetsIndoor.jpg"
   },
   {
    "uniqueId": "Lumisteria.TtilesheetsOutdoor",
@@ -1381,7 +1381,7 @@
    "intro": "给地图模组用的室外建筑图块库，东斯卡普等地图包的前置。",
    "zhDone": true,
    "size": 1100778,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Lumisteria.TtilesheetsOutdoor.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Lumisteria.TtilesheetsOutdoor.jpg"
   },
   {
    "uniqueId": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
@@ -1395,7 +1395,7 @@
    "intro": "给地图作者用的额外瓦片属性框架，本身不带内容，是很多大型地图包的必装前置。",
    "zhDone": true,
    "size": 87814,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DecidedlyHuman.MappingExtensionsAndExtraProperties.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DecidedlyHuman.MappingExtensionsAndExtraProperties.jpg"
   },
   {
    "uniqueId": "Spiderbuttons.CMF",
@@ -1409,7 +1409,7 @@
    "intro": "让模组作者能添加自定义博物馆的框架（含捐赠、收藏进度、展台）。",
    "zhDone": true,
    "size": 88691,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.CMF.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Spiderbuttons.CMF.jpg"
   },
   {
    "uniqueId": "Spiderbuttons.BETAS",
@@ -1423,7 +1423,7 @@
    "intro": "给模组作者扩展触发器、动作、查询条件的框架，瓦皮乌斯山等地图包需要。",
    "zhDone": true,
    "size": 127908,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Spiderbuttons.BETAS.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Spiderbuttons.BETAS.jpg"
   },
   {
    "uniqueId": "hootless.BusLocations",
@@ -1437,7 +1437,7 @@
    "intro": "给巴士增加更多可选目的地（含沙漠站点），市中心祖祖等地图包的前置。",
    "zhDone": true,
    "size": 14174,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/hootless.BusLocations.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/hootless.BusLocations.jpg"
   },
   {
    "uniqueId": "Cherry.TrainStation",
@@ -1451,7 +1451,7 @@
    "intro": "让铁路的火车站真正可用，模组作者可以加自己的站点。市中心祖祖需要。",
    "zhDone": true,
    "size": 34905,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Cherry.TrainStation.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/Cherry.TrainStation.jpg"
   },
   {
    "uniqueId": "DaLion.Core",
@@ -1465,7 +1465,7 @@
    "intro": "DaLion 系列模组的公共核心，生活方式·重生等模组的必装前置。",
    "zhDone": true,
    "size": 697662,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DaLion.Core.jpg"
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/covers/DaLion.Core.jpg"
   }
  ]
 }
