@@ -1,5 +1,5 @@
 {
- "updated": 1795095333,
+ "updated": 1795095345,
  "count": 104,
  "mods": [
   {
@@ -1342,18 +1342,18 @@
    "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/mistyspring.ItemExtensions.jpg"
   },
   {
-   "uniqueId": "Lumisteria.TtilesheetsOutdoor",
-   "en": "Lumisteria Tilesheets - Outdoor",
-   "zh": "Lumisteria 室外图块库",
-   "author": "Lumisteria",
-   "ver": "1.4.0",
-   "desc": "给地图模组用的室外建筑图块库，东斯卡普等地图包的前置。",
+   "uniqueId": "DecidedlyHuman.MappingExtensionsAndExtraProperties",
+   "en": "Mapping Extensions and Extra Properties (MEEP)",
+   "zh": "MEEP 地图扩展属性",
+   "author": "DecidedlyHuman",
+   "ver": "2.5.3",
+   "desc": "给地图作者用的额外瓦片属性框架，本身不带内容，是很多大型地图包的必装前置。",
    "tag": "前置",
-   "file": "lumisteria-tilesheets-outdoor.zip",
-   "intro": "给地图模组用的室外建筑图块库，东斯卡普等地图包的前置。",
+   "file": "decidedlyhuman-meep.zip",
+   "intro": "给地图作者用的额外瓦片属性框架，本身不带内容，是很多大型地图包的必装前置。",
    "zhDone": true,
-   "size": 1100778,
-   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/Lumisteria.TtilesheetsOutdoor.jpg"
+   "size": 87814,
+   "cover": "https://raw.githubusercontent.com/kezeyu93-cyber/sdv-index/main/main/covers/DecidedlyHuman.MappingExtensionsAndExtraProperties.jpg"
   }
  ]
 }
